@@ -1,0 +1,14 @@
+{
+  "screens": [
+    {
+      "id": "fixture-webp",
+      "appName": "Fixture",
+      "flowName": "Downloader smoke test",
+      "name": "Public WebP image",
+      "width": 274,
+      "height": 367,
+      "restricted": false,
+      "imageUrl": "https://httpbin.org/image/webp"
+    }
+  ]
+}

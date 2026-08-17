@@ -1,0 +1,27 @@
+# Dependencies / local environment
+node_modules/
+.DS_Store
+
+# Generated Mobbin exports and reports
+favorites/
+flows/
+latest-images/
+latest-reports/
+latest-report
+
+# Generated archives, logs, and process files
+*.zip
+*.log
+*.pid
+
+# Exported media artifacts
+*.webp
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+
+# Smoke-test/generated output
+**/fixture-output/

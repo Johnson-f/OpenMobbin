@@ -1,0 +1,15 @@
+{
+  "name": "mobbin-sides",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "export:phantom": "node scripts/export-mobbin-screens.mjs",
+    "export:shopping-pricing": "node scripts/export-mobbin-screens.mjs --search-url 'https://mobbin.com/search/apps/ios?content_type=apps&sort=popularity&filter=appCategories.Shopping' --app-category Shopping --screen-pattern Pricing --category shopping-pricing --concurrency 8",
+    "export:top-navigation-bar": "node scripts/export-mobbin-screens.mjs --search-url 'https://mobbin.com/search/apps/ios?content_type=ui-elements&sort=popularity&filter=screenElements.Top%20Navigation%20Bar' --screen-element 'Top Navigation Bar' --category top-navigation-bar --concurrency 12",
+    "export:tab-bar": "node scripts/export-mobbin-screens.mjs --search-url 'https://mobbin.com/search/apps/ios?content_type=ui-elements&sort=popularity&filter=screenElements.Tab%20Bar' --screen-element 'Tab Bar' --category tab-bar --concurrency 12",
+    "export:craft": "node scripts/export-mobbin-screens.mjs --page-url 'https://mobbin.com/apps/craft-ios-174c167d-3d91-4ec8-9eeb-511b92b59dfc/9c6ca8f8-2086-459f-a226-d4d1e14a5024/screens' --category craft --concurrency 8",
+    "export:flows:transferring-money": "node scripts/export-mobbin-flows.mjs --flow-action 'Transferring Money' --concurrency 10 --screen-concurrency 4",
+    "export:flows:all": "node scripts/export-mobbin-flows.mjs --all-flow-actions --concurrency 10 --screen-concurrency 4"
+  }
+}
