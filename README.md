@@ -112,6 +112,47 @@ node scripts/export-mobbin-screens.mjs \
 
 Filter mode first checks Mobbin's screen-search endpoint. If that endpoint advertises more pages but returns an empty next page, the script falls back to the app-search endpoint, walks the matching app pages, filters each app's authenticated screen array locally, and then saves matching screens through `fetch-screen-info -> downloadableSrc`.
 
+## Run All UI Element Filters
+
+Export every visible iOS UI-element filter from the Mobbin UI into one folder per element. The all-filter command crawls app pages once, classifies each screen by its `screenElements`, downloads each unique screen once, and hard-links it into every matching element folder to avoid running 49 separate full crawls.
+
+```bash
+npm run export:ui-elements:all
+```
+
+Output structure:
+
+```text
+/Users/user/mobbin-sides/UI-element/
+  accordion/
+  button/
+  checkbox/
+  ...
+/Users/user/mobbin-sides/UI-element-reports/
+  ui-elements-export-report.json
+  accordion/mobbin-screen-downloadables-report.json
+  accordion/mobbin-screen-downloadables.csv
+  ...
+```
+
+Run one element:
+
+```bash
+node scripts/export-mobbin-ui-elements.mjs --element "Accordion"
+```
+
+Use the optimized crawler for a subset:
+
+```bash
+node scripts/export-mobbin-ui-elements-crawl.mjs --element "Accordion"
+```
+
+Run a bounded smoke test without downloading the full set:
+
+```bash
+node scripts/export-mobbin-ui-elements-crawl.mjs --all --limit-apps 5 --limit-screens 10
+```
+
 ## Run Flow Filters
 
 The flow exporter mirrors the Mobbin flows filter UI and saves each flow end-to-end in its own folder:

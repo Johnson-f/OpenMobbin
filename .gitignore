@@ -8,6 +8,8 @@ flows/
 latest-images/
 latest-reports/
 latest-report
+UI-element/
+UI-element-reports/
 
 # Generated archives, logs, and process files
 *.zip

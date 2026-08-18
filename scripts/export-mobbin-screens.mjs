@@ -617,6 +617,8 @@ function parseMobbinSearchTarget(rawUrl, parsedArgs) {
   const parts = url.pathname.split("/").filter(Boolean);
   const platform = String(parsedArgs.platform || parts.at(-1) || "ios");
   const sortBy = String(parsedArgs.sort || url.searchParams.get("sort") || "popularity");
+  const requestedContentType = String(parsedArgs["content-type"] || url.searchParams.get("content_type") || "");
+  const contentType = requestedContentType === "ui-elements" ? "ui-elements" : "screens";
   const filterTokens = [
     ...url.searchParams.getAll("filter"),
     ...splitList(parsedArgs.filter),
@@ -652,7 +654,7 @@ function parseMobbinSearchTarget(rawUrl, parsedArgs) {
   ];
 
   const searchQuery = {
-    contentType: "screens",
+    contentType,
     platform,
     type: "filters",
     activeFilterTags,
