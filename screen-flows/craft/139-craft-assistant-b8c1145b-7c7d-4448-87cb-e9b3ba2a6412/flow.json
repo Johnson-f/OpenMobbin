@@ -1,0 +1,69 @@
+{
+  "flowId": "b8c1145b-7c7d-4448-87cb-e9b3ba2a6412",
+  "flowName": "Assistant",
+  "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+  "appName": "Craft",
+  "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+  "appVersionPublishedAt": "2025-12-15T10:05:24.445Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/craft/139-craft-assistant-b8c1145b-7c7d-4448-87cb-e9b3ba2a6412",
+  "screens": [
+    {
+      "flowId": "b8c1145b-7c7d-4448-87cb-e9b3ba2a6412",
+      "flowName": "Assistant",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 0,
+      "index": 1,
+      "screenId": "6d1817c8-4995-4858-a941-7b9058da33b0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "61564",
+      "bytes": 61564,
+      "sha256": "7ce17974856515232d52d369d0d27bf78443fc547d29b3f0884d6f913b1e208c",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/139-craft-assistant-b8c1145b-7c7d-4448-87cb-e9b3ba2a6412/001-6d1817c8-4995-4858-a941-7b9058da33b0-downloadableSrc-7ce179748565.webp"
+    },
+    {
+      "flowId": "b8c1145b-7c7d-4448-87cb-e9b3ba2a6412",
+      "flowName": "Assistant",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 1,
+      "index": 2,
+      "screenId": "879c335a-1efb-433d-ac25-743af837b5f3",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "62530",
+      "bytes": 62530,
+      "sha256": "d5bbce800decb99b5d49b9c291be5448d9708572f1d93e7134ee35e0b3c97a3b",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/139-craft-assistant-b8c1145b-7c7d-4448-87cb-e9b3ba2a6412/002-879c335a-1efb-433d-ac25-743af837b5f3-downloadableSrc-d5bbce800dec.webp"
+    }
+  ]
+}

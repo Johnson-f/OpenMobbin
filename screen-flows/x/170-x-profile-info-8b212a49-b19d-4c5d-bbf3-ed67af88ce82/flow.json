@@ -1,0 +1,69 @@
+{
+  "flowId": "8b212a49-b19d-4c5d-bbf3-ed67af88ce82",
+  "flowName": "Profile info",
+  "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+  "appName": "X",
+  "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+  "appVersionPublishedAt": "2026-02-02T10:00:37.442Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x/170-x-profile-info-8b212a49-b19d-4c5d-bbf3-ed67af88ce82",
+  "screens": [
+    {
+      "flowId": "8b212a49-b19d-4c5d-bbf3-ed67af88ce82",
+      "flowName": "Profile info",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 0,
+      "index": 1,
+      "screenId": "8ed328d4-e3e2-482d-b4f8-0342990915f0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "48764",
+      "bytes": 48764,
+      "sha256": "7985fcf443a52d9f9ef7e227612cdec77cc9172576c40bbebffb77bfc0d9bca0",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/170-x-profile-info-8b212a49-b19d-4c5d-bbf3-ed67af88ce82/001-8ed328d4-e3e2-482d-b4f8-0342990915f0-downloadableSrc-7985fcf443a5.webp"
+    },
+    {
+      "flowId": "8b212a49-b19d-4c5d-bbf3-ed67af88ce82",
+      "flowName": "Profile info",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 1,
+      "index": 2,
+      "screenId": "6e935d81-8424-4fcd-a35b-5f8e288ba233",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "45300",
+      "bytes": 45300,
+      "sha256": "39b233bf031d1e86f6986d9f1fde6a0f196651e718a4a26cb5f02a317c2c490f",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/170-x-profile-info-8b212a49-b19d-4c5d-bbf3-ed67af88ce82/002-6e935d81-8424-4fcd-a35b-5f8e288ba233-downloadableSrc-39b233bf031d.webp"
+    }
+  ]
+}

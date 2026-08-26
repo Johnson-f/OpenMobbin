@@ -1,0 +1,69 @@
+{
+  "flowId": "bf47d91f-ccc7-42b2-889e-16f2200059a3",
+  "flowName": "Account details",
+  "appId": "2ebfb292-c689-42bc-bfe6-d2a9381dc337",
+  "appName": "ANZ Plus",
+  "appVersionId": "7047ab31-c632-46f0-8597-121df81c4a16",
+  "appVersionPublishedAt": "2026-04-06T11:22:33.171Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/anz-plus/056-anz-plus-account-details-bf47d91f-ccc7-42b2-889e-16f2200059a3",
+  "screens": [
+    {
+      "flowId": "bf47d91f-ccc7-42b2-889e-16f2200059a3",
+      "flowName": "Account details",
+      "appId": "2ebfb292-c689-42bc-bfe6-d2a9381dc337",
+      "appName": "ANZ Plus",
+      "appVersionId": "7047ab31-c632-46f0-8597-121df81c4a16",
+      "order": 0,
+      "index": 1,
+      "screenId": "dcc7b392-4162-4174-9d94-12f9a1d0bc4f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "47268",
+      "bytes": 47268,
+      "sha256": "c570b51f524386b9009877e7225861c5fe48caae905933b23ac6b7deb795144f",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/anz-plus/056-anz-plus-account-details-bf47d91f-ccc7-42b2-889e-16f2200059a3/001-dcc7b392-4162-4174-9d94-12f9a1d0bc4f-downloadableSrc-c570b51f5243.webp"
+    },
+    {
+      "flowId": "bf47d91f-ccc7-42b2-889e-16f2200059a3",
+      "flowName": "Account details",
+      "appId": "2ebfb292-c689-42bc-bfe6-d2a9381dc337",
+      "appName": "ANZ Plus",
+      "appVersionId": "7047ab31-c632-46f0-8597-121df81c4a16",
+      "order": 1,
+      "index": 2,
+      "screenId": "6201570c-5a2a-459d-a901-e581f7f85906",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "71338",
+      "bytes": 71338,
+      "sha256": "ffe4d3581cb5806f097d9d32d9b9c8764f287972b9855369c4f190149088b1ed",
+      "dimensions": {
+        "format": "WEBP/VP8X",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/anz-plus/056-anz-plus-account-details-bf47d91f-ccc7-42b2-889e-16f2200059a3/002-6201570c-5a2a-459d-a901-e581f7f85906-downloadableSrc-ffe4d3581cb5.webp"
+    }
+  ]
+}

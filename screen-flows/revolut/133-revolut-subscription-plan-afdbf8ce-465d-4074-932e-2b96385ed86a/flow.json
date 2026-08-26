@@ -1,0 +1,69 @@
+{
+  "flowId": "afdbf8ce-465d-4074-932e-2b96385ed86a",
+  "flowName": "Subscription plan",
+  "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+  "appName": "Revolut",
+  "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+  "appVersionPublishedAt": "2025-05-26T11:04:26.035Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/revolut/133-revolut-subscription-plan-afdbf8ce-465d-4074-932e-2b96385ed86a",
+  "screens": [
+    {
+      "flowId": "afdbf8ce-465d-4074-932e-2b96385ed86a",
+      "flowName": "Subscription plan",
+      "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+      "appName": "Revolut",
+      "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+      "order": 0,
+      "index": 1,
+      "screenId": "8b0c7aa9-1dd5-45e5-92c4-35dc1ffb5559",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "52540",
+      "bytes": 52540,
+      "sha256": "eb27b157a68ff8c10c225db30785228c0129cad2a310585996cf98e10d758c80",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut/133-revolut-subscription-plan-afdbf8ce-465d-4074-932e-2b96385ed86a/001-8b0c7aa9-1dd5-45e5-92c4-35dc1ffb5559-downloadableSrc-eb27b157a68f.webp"
+    },
+    {
+      "flowId": "afdbf8ce-465d-4074-932e-2b96385ed86a",
+      "flowName": "Subscription plan",
+      "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+      "appName": "Revolut",
+      "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+      "order": 1,
+      "index": 2,
+      "screenId": "e12750f4-27ea-4fd5-8547-84c6e3f4aa3a",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "70274",
+      "bytes": 70274,
+      "sha256": "7292c7f2ddeb3028871dcc0f8d874b28d9c48d9ea2efaf24220d48b2ded2d63d",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut/133-revolut-subscription-plan-afdbf8ce-465d-4074-932e-2b96385ed86a/002-e12750f4-27ea-4fd5-8547-84c6e3f4aa3a-downloadableSrc-7292c7f2ddeb.webp"
+    }
+  ]
+}

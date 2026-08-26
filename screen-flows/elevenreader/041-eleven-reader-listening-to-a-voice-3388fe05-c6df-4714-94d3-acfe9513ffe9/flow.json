@@ -1,0 +1,69 @@
+{
+  "flowId": "3388fe05-c6df-4714-94d3-acfe9513ffe9",
+  "flowName": "Listening to a voice",
+  "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+  "appName": "Eleven Reader",
+  "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+  "appVersionPublishedAt": "2026-06-01T10:05:03.950Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/elevenreader/041-eleven-reader-listening-to-a-voice-3388fe05-c6df-4714-94d3-acfe9513ffe9",
+  "screens": [
+    {
+      "flowId": "3388fe05-c6df-4714-94d3-acfe9513ffe9",
+      "flowName": "Listening to a voice",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 0,
+      "index": 1,
+      "screenId": "99a5eff3-6073-4888-8d26-b07f6915202b",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "138706",
+      "bytes": 138706,
+      "sha256": "29c1441e97f12028a9927f31b247de53e5759f253c9885cffea3b26180808cb0",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/041-eleven-reader-listening-to-a-voice-3388fe05-c6df-4714-94d3-acfe9513ffe9/001-99a5eff3-6073-4888-8d26-b07f6915202b-downloadableSrc-29c1441e97f1.webp"
+    },
+    {
+      "flowId": "3388fe05-c6df-4714-94d3-acfe9513ffe9",
+      "flowName": "Listening to a voice",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 1,
+      "index": 2,
+      "screenId": "fef921c6-fbeb-4c76-aa96-2ece9f4a30d0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "138528",
+      "bytes": 138528,
+      "sha256": "a14cf7ed27836eebcbfa9878f65c3c1b758159ee959364efd9cc92882ac51f52",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/041-eleven-reader-listening-to-a-voice-3388fe05-c6df-4714-94d3-acfe9513ffe9/002-fef921c6-fbeb-4c76-aa96-2ece9f4a30d0-downloadableSrc-a14cf7ed2783.webp"
+    }
+  ]
+}

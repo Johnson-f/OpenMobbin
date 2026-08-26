@@ -1,0 +1,69 @@
+{
+  "flowId": "54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12",
+  "flowName": "Sponsors",
+  "appId": "9866ea6d-c9b7-49a5-acb6-1b6e8e8c9cbd",
+  "appName": "Meetup",
+  "appVersionId": "f1a4823a-e8cb-43e3-b5de-154b04f6f243",
+  "appVersionPublishedAt": "2026-08-24T10:35:00.578Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/meetup/057-meetup-sponsors-54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12",
+  "screens": [
+    {
+      "flowId": "54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12",
+      "flowName": "Sponsors",
+      "appId": "9866ea6d-c9b7-49a5-acb6-1b6e8e8c9cbd",
+      "appName": "Meetup",
+      "appVersionId": "f1a4823a-e8cb-43e3-b5de-154b04f6f243",
+      "order": 0,
+      "index": 1,
+      "screenId": "e845d578-76f9-4ecd-8ad4-53c482944955",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "39314",
+      "bytes": 39314,
+      "sha256": "1215a92bcacfd0fe857eb8989561fd99bfb38baf311163eb59fe8bf5e9a0ca97",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/meetup/057-meetup-sponsors-54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12/001-e845d578-76f9-4ecd-8ad4-53c482944955-downloadableSrc-1215a92bcacf.webp"
+    },
+    {
+      "flowId": "54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12",
+      "flowName": "Sponsors",
+      "appId": "9866ea6d-c9b7-49a5-acb6-1b6e8e8c9cbd",
+      "appName": "Meetup",
+      "appVersionId": "f1a4823a-e8cb-43e3-b5de-154b04f6f243",
+      "order": 1,
+      "index": 2,
+      "screenId": "c1d7fc93-69a5-4df3-87ec-35ed4ed4c3ce",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "53086",
+      "bytes": 53086,
+      "sha256": "6258c536a722b223b0473bd48ebfe9475d881d921e6013e56ef1ba73136d40c5",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/meetup/057-meetup-sponsors-54f6ee9e-f8d4-4b26-bd0f-9e675a4a6f12/002-c1d7fc93-69a5-4df3-87ec-35ed4ed4c3ce-downloadableSrc-6258c536a722.webp"
+    }
+  ]
+}

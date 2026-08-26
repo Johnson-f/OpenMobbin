@@ -1,0 +1,69 @@
+{
+  "flowId": "d070f532-547e-45b1-a11b-f6d872091665",
+  "flowName": "Deleting a list",
+  "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+  "appName": "X",
+  "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+  "appVersionPublishedAt": "2026-02-02T10:00:37.442Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x/219-x-deleting-a-list-d070f532-547e-45b1-a11b-f6d872091665",
+  "screens": [
+    {
+      "flowId": "d070f532-547e-45b1-a11b-f6d872091665",
+      "flowName": "Deleting a list",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 0,
+      "index": 1,
+      "screenId": "95a37db3-eb57-47fc-8312-ae3e063e42c7",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "112828",
+      "bytes": 112828,
+      "sha256": "5ad6124729feea84bb5f490d37d100613ea0b1a48e0f66f57e56c3eca1d763aa",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/219-x-deleting-a-list-d070f532-547e-45b1-a11b-f6d872091665/001-95a37db3-eb57-47fc-8312-ae3e063e42c7-downloadableSrc-5ad6124729fe.webp"
+    },
+    {
+      "flowId": "d070f532-547e-45b1-a11b-f6d872091665",
+      "flowName": "Deleting a list",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 1,
+      "index": 2,
+      "screenId": "8975a548-a5d9-4d10-a6ae-afab42843c80",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "95432",
+      "bytes": 95432,
+      "sha256": "88a3e223a31f8c7580a24f2674ca9dc91024b9ea0d06f05862eba776798d19c4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/219-x-deleting-a-list-d070f532-547e-45b1-a11b-f6d872091665/002-8975a548-a5d9-4d10-a6ae-afab42843c80-downloadableSrc-88a3e223a31f.webp"
+    }
+  ]
+}

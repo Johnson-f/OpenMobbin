@@ -1,0 +1,69 @@
+{
+  "flowId": "e904ab96-4530-4018-8c83-2b2c2d376f2f",
+  "flowName": "Adding a file attachment",
+  "appId": "201a63f1-7499-4ebe-b92d-401605aa41bb",
+  "appName": "Apple Notes",
+  "appVersionId": "a9a438a7-aab8-4568-a32f-f6a4659afa40",
+  "appVersionPublishedAt": "2025-12-15T10:04:49.511Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-notes/030-apple-notes-adding-a-file-attachment-e904ab96-4530-4018-8c83-2b2c2d376f2f",
+  "screens": [
+    {
+      "flowId": "e904ab96-4530-4018-8c83-2b2c2d376f2f",
+      "flowName": "Adding a file attachment",
+      "appId": "201a63f1-7499-4ebe-b92d-401605aa41bb",
+      "appName": "Apple Notes",
+      "appVersionId": "a9a438a7-aab8-4568-a32f-f6a4659afa40",
+      "order": 0,
+      "index": 1,
+      "screenId": "09ee295f-a354-4f4d-8c5b-a39001eab454",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "97180",
+      "bytes": 97180,
+      "sha256": "ca0d78f1659c52cd1c402d65fba995dea31c8b442272447e2accaeb38e735354",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-notes/030-apple-notes-adding-a-file-attachment-e904ab96-4530-4018-8c83-2b2c2d376f2f/001-09ee295f-a354-4f4d-8c5b-a39001eab454-downloadableSrc-ca0d78f1659c.webp"
+    },
+    {
+      "flowId": "e904ab96-4530-4018-8c83-2b2c2d376f2f",
+      "flowName": "Adding a file attachment",
+      "appId": "201a63f1-7499-4ebe-b92d-401605aa41bb",
+      "appName": "Apple Notes",
+      "appVersionId": "a9a438a7-aab8-4568-a32f-f6a4659afa40",
+      "order": 1,
+      "index": 2,
+      "screenId": "c8c8fa83-6f1f-4e1e-82c7-9fc8131b1f09",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "78456",
+      "bytes": 78456,
+      "sha256": "133fac11d65284c780977d16940c9cab118d1fb61dab41d63b225f9178ee793a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-notes/030-apple-notes-adding-a-file-attachment-e904ab96-4530-4018-8c83-2b2c2d376f2f/002-c8c8fa83-6f1f-4e1e-82c7-9fc8131b1f09-downloadableSrc-133fac11d652.webp"
+    }
+  ]
+}

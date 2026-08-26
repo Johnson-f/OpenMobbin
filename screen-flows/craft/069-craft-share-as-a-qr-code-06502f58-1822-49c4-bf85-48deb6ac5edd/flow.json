@@ -1,0 +1,69 @@
+{
+  "flowId": "06502f58-1822-49c4-bf85-48deb6ac5edd",
+  "flowName": "Share as a QR code",
+  "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+  "appName": "Craft",
+  "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+  "appVersionPublishedAt": "2025-12-15T10:05:24.445Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/craft/069-craft-share-as-a-qr-code-06502f58-1822-49c4-bf85-48deb6ac5edd",
+  "screens": [
+    {
+      "flowId": "06502f58-1822-49c4-bf85-48deb6ac5edd",
+      "flowName": "Share as a QR code",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 0,
+      "index": 1,
+      "screenId": "4d794a5b-ce2c-43a8-b481-d4b322f86f02",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "84368",
+      "bytes": 84368,
+      "sha256": "1f1958dd1457c57eea14ebf0dfe9365d4a7254a3fe73eca1d15cc3fe25adb8f8",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/069-craft-share-as-a-qr-code-06502f58-1822-49c4-bf85-48deb6ac5edd/001-4d794a5b-ce2c-43a8-b481-d4b322f86f02-downloadableSrc-1f1958dd1457.webp"
+    },
+    {
+      "flowId": "06502f58-1822-49c4-bf85-48deb6ac5edd",
+      "flowName": "Share as a QR code",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 1,
+      "index": 2,
+      "screenId": "eb2e98d2-7abf-46ab-9aac-25d54eb0fd9a",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "82326",
+      "bytes": 82326,
+      "sha256": "b3feefbaec8ff47264dcca631dd9f5747e81904a3cf21ff34d9c8402b12f0d8c",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/069-craft-share-as-a-qr-code-06502f58-1822-49c4-bf85-48deb6ac5edd/002-eb2e98d2-7abf-46ab-9aac-25d54eb0fd9a-downloadableSrc-b3feefbaec8f.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "f0e3fd5f-8dd9-4fca-837c-15579465ce4c",
+  "flowName": "My Teams",
+  "appId": "d243ea62-51b4-4aa5-be37-08bbdb4236b5",
+  "appName": "Apple Sports",
+  "appVersionId": "c3881ed5-2045-4c23-8f59-0eeb94946c89",
+  "appVersionPublishedAt": "2025-12-22T14:43:21.778Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-sports/007-apple-sports-my-teams-f0e3fd5f-8dd9-4fca-837c-15579465ce4c",
+  "screens": [
+    {
+      "flowId": "f0e3fd5f-8dd9-4fca-837c-15579465ce4c",
+      "flowName": "My Teams",
+      "appId": "d243ea62-51b4-4aa5-be37-08bbdb4236b5",
+      "appName": "Apple Sports",
+      "appVersionId": "c3881ed5-2045-4c23-8f59-0eeb94946c89",
+      "order": 0,
+      "index": 1,
+      "screenId": "cfac3985-cf48-4845-8d1b-9aa69cec5b99",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "111720",
+      "bytes": 111720,
+      "sha256": "b52391e9dc177436b602b98bca61e60079746710e1b6e53452bea5b6acb1c98a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-sports/007-apple-sports-my-teams-f0e3fd5f-8dd9-4fca-837c-15579465ce4c/001-cfac3985-cf48-4845-8d1b-9aa69cec5b99-downloadableSrc-b52391e9dc17.webp"
+    },
+    {
+      "flowId": "f0e3fd5f-8dd9-4fca-837c-15579465ce4c",
+      "flowName": "My Teams",
+      "appId": "d243ea62-51b4-4aa5-be37-08bbdb4236b5",
+      "appName": "Apple Sports",
+      "appVersionId": "c3881ed5-2045-4c23-8f59-0eeb94946c89",
+      "order": 1,
+      "index": 2,
+      "screenId": "05602543-647a-43e0-a5cc-4cbd148aaf06",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55026",
+      "bytes": 55026,
+      "sha256": "aa2e95c09a0c48bd1aaf8d5168e38ab358ac4ac6d5c0bae80cda53d48cd018da",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-sports/007-apple-sports-my-teams-f0e3fd5f-8dd9-4fca-837c-15579465ce4c/002-05602543-647a-43e0-a5cc-4cbd148aaf06-downloadableSrc-aa2e95c09a0c.webp"
+    }
+  ]
+}

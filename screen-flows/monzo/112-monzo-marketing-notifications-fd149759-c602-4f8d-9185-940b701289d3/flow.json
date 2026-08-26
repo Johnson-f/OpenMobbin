@@ -1,0 +1,69 @@
+{
+  "flowId": "fd149759-c602-4f8d-9185-940b701289d3",
+  "flowName": "Marketing notifications",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/112-monzo-marketing-notifications-fd149759-c602-4f8d-9185-940b701289d3",
+  "screens": [
+    {
+      "flowId": "fd149759-c602-4f8d-9185-940b701289d3",
+      "flowName": "Marketing notifications",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "c0f5e68f-af7e-4c14-9602-1d285e5be211",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "57606",
+      "bytes": 57606,
+      "sha256": "bfc9e79c7e76a4688afd15e0f9bea892d2490f40cf5c30cab9114fba8e1f6f54",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/112-monzo-marketing-notifications-fd149759-c602-4f8d-9185-940b701289d3/001-c0f5e68f-af7e-4c14-9602-1d285e5be211-downloadableSrc-bfc9e79c7e76.webp"
+    },
+    {
+      "flowId": "fd149759-c602-4f8d-9185-940b701289d3",
+      "flowName": "Marketing notifications",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "0804a8c2-a020-4b37-bd68-7f38e2c2455c",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "108456",
+      "bytes": 108456,
+      "sha256": "98865f9679079ac6bc4e7305ac52ada6746a9a261715cfc5993da471111aae23",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/112-monzo-marketing-notifications-fd149759-c602-4f8d-9185-940b701289d3/002-0804a8c2-a020-4b37-bd68-7f38e2c2455c-downloadableSrc-98865f967907.webp"
+    }
+  ]
+}

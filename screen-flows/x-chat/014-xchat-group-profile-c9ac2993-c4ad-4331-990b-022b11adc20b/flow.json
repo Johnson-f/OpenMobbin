@@ -1,0 +1,69 @@
+{
+  "flowId": "c9ac2993-c4ad-4331-990b-022b11adc20b",
+  "flowName": "Group profile",
+  "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+  "appName": "Xchat",
+  "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+  "appVersionPublishedAt": "2026-06-22T10:08:33.752Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x-chat/014-xchat-group-profile-c9ac2993-c4ad-4331-990b-022b11adc20b",
+  "screens": [
+    {
+      "flowId": "c9ac2993-c4ad-4331-990b-022b11adc20b",
+      "flowName": "Group profile",
+      "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+      "appName": "Xchat",
+      "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+      "order": 0,
+      "index": 1,
+      "screenId": "94481d1c-38ea-4500-87f2-693f8340c38a",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "19378",
+      "bytes": 19378,
+      "sha256": "d2b584d99d0475de0cbfd693f96428a3eaf5e0467b698356d51dfbbfac2bfdb0",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x-chat/014-xchat-group-profile-c9ac2993-c4ad-4331-990b-022b11adc20b/001-94481d1c-38ea-4500-87f2-693f8340c38a-downloadableSrc-d2b584d99d04.webp"
+    },
+    {
+      "flowId": "c9ac2993-c4ad-4331-990b-022b11adc20b",
+      "flowName": "Group profile",
+      "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+      "appName": "Xchat",
+      "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+      "order": 1,
+      "index": 2,
+      "screenId": "15e9010f-d007-4d8a-9d56-6b3b35da2dd0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55740",
+      "bytes": 55740,
+      "sha256": "3b610ec3c51f6cdd82258cae6adab0449cd3334c13df1e863e5e8c8fd793ea68",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x-chat/014-xchat-group-profile-c9ac2993-c4ad-4331-990b-022b11adc20b/002-15e9010f-d007-4d8a-9d56-6b3b35da2dd0-downloadableSrc-3b610ec3c51f.webp"
+    }
+  ]
+}

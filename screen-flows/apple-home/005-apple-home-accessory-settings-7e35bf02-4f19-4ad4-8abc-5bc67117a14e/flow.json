@@ -1,0 +1,69 @@
+{
+  "flowId": "7e35bf02-4f19-4ad4-8abc-5bc67117a14e",
+  "flowName": "Accessory settings",
+  "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+  "appName": "Apple Home",
+  "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+  "appVersionPublishedAt": "2023-05-23T09:30:27.866Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-home/005-apple-home-accessory-settings-7e35bf02-4f19-4ad4-8abc-5bc67117a14e",
+  "screens": [
+    {
+      "flowId": "7e35bf02-4f19-4ad4-8abc-5bc67117a14e",
+      "flowName": "Accessory settings",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 0,
+      "index": 1,
+      "screenId": "b9dc6468-4895-40bc-a4a1-0bf4bbc50ebe",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "32412",
+      "bytes": 32412,
+      "sha256": "592ebbdbff672f6cb8629486151591ec620f6307a0563663564b849965198667",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/005-apple-home-accessory-settings-7e35bf02-4f19-4ad4-8abc-5bc67117a14e/001-b9dc6468-4895-40bc-a4a1-0bf4bbc50ebe-downloadableSrc-592ebbdbff67.webp"
+    },
+    {
+      "flowId": "7e35bf02-4f19-4ad4-8abc-5bc67117a14e",
+      "flowName": "Accessory settings",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 1,
+      "index": 2,
+      "screenId": "69ef29d2-7bc1-4d9b-8769-1e6ef2ea2466",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "59858",
+      "bytes": 59858,
+      "sha256": "c456477094fee0064eb1283978e874a955219580946b008b95d38b041d7c0e3f",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/005-apple-home-accessory-settings-7e35bf02-4f19-4ad4-8abc-5bc67117a14e/002-69ef29d2-7bc1-4d9b-8769-1e6ef2ea2466-downloadableSrc-c456477094fe.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "17deaf4e-def2-4a89-93a6-314cc0f4224c",
+  "flowName": "User profile",
+  "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+  "appName": "Cash APP",
+  "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+  "appVersionPublishedAt": "2025-11-24T11:03:09.648Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/cash-app/053-cash-app-user-profile-17deaf4e-def2-4a89-93a6-314cc0f4224c",
+  "screens": [
+    {
+      "flowId": "17deaf4e-def2-4a89-93a6-314cc0f4224c",
+      "flowName": "User profile",
+      "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+      "appName": "Cash APP",
+      "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+      "order": 0,
+      "index": 1,
+      "screenId": "31b112e2-2a76-42c3-b182-010f40833313",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "37798",
+      "bytes": 37798,
+      "sha256": "4ad16e071fefeac890709a3bd7e0b68f0e449c4ecfb2cc200aff90bf2804445b",
+      "dimensions": {
+        "format": "WEBP/VP8X",
+        "width": 1284,
+        "height": 2898
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/cash-app/053-cash-app-user-profile-17deaf4e-def2-4a89-93a6-314cc0f4224c/001-31b112e2-2a76-42c3-b182-010f40833313-downloadableSrc-4ad16e071fef.webp"
+    },
+    {
+      "flowId": "17deaf4e-def2-4a89-93a6-314cc0f4224c",
+      "flowName": "User profile",
+      "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+      "appName": "Cash APP",
+      "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+      "order": 1,
+      "index": 2,
+      "screenId": "c834ca0b-586a-4c0c-b5b7-0ee9d0ebf401",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "84214",
+      "bytes": 84214,
+      "sha256": "9deeb54024c3df603775ef02f15156fdc05bf5ed5d2d1692a365cfdb7afd9966",
+      "dimensions": {
+        "format": "WEBP/VP8X",
+        "width": 1284,
+        "height": 2898
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/cash-app/053-cash-app-user-profile-17deaf4e-def2-4a89-93a6-314cc0f4224c/002-c834ca0b-586a-4c0c-b5b7-0ee9d0ebf401-downloadableSrc-9deeb54024c3.webp"
+    }
+  ]
+}

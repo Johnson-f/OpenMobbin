@@ -1,0 +1,69 @@
+{
+  "flowId": "d8467d62-3404-413b-835d-4ff0d6220ee6",
+  "flowName": "Print email",
+  "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+  "appName": "Apple Mail",
+  "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+  "appVersionPublishedAt": "2026-02-16T10:02:43.710Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-mail/031-apple-mail-print-email-d8467d62-3404-413b-835d-4ff0d6220ee6",
+  "screens": [
+    {
+      "flowId": "d8467d62-3404-413b-835d-4ff0d6220ee6",
+      "flowName": "Print email",
+      "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+      "appName": "Apple Mail",
+      "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+      "order": 0,
+      "index": 1,
+      "screenId": "5962adc6-a366-4959-90da-b2f25b4c9daf",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "59806",
+      "bytes": 59806,
+      "sha256": "7132f15995855b7513d13d1133d7cbbd96ee44aa8d46941d4e5ccfaa42ce6fa9",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-mail/031-apple-mail-print-email-d8467d62-3404-413b-835d-4ff0d6220ee6/001-5962adc6-a366-4959-90da-b2f25b4c9daf-downloadableSrc-7132f1599585.webp"
+    },
+    {
+      "flowId": "d8467d62-3404-413b-835d-4ff0d6220ee6",
+      "flowName": "Print email",
+      "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+      "appName": "Apple Mail",
+      "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+      "order": 1,
+      "index": 2,
+      "screenId": "f632ea41-2167-4bb3-9538-096e5f7e2b74",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "76644",
+      "bytes": 76644,
+      "sha256": "1c77ee90dad87dceb117526bf41c31f30576fc8db975cdbdd3e5775770594203",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-mail/031-apple-mail-print-email-d8467d62-3404-413b-835d-4ff0d6220ee6/002-f632ea41-2167-4bb3-9538-096e5f7e2b74-downloadableSrc-1c77ee90dad8.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "1a02cf97-df0a-44e4-99e0-dac412d9b496",
+  "flowName": "About",
+  "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+  "appName": "Apple Podcasts",
+  "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+  "appVersionPublishedAt": "2025-11-03T10:00:56.242Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/006-apple-podcasts-about-1a02cf97-df0a-44e4-99e0-dac412d9b496",
+  "screens": [
+    {
+      "flowId": "1a02cf97-df0a-44e4-99e0-dac412d9b496",
+      "flowName": "About",
+      "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+      "appName": "Apple Podcasts",
+      "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+      "order": 0,
+      "index": 1,
+      "screenId": "3d2c9dc1-b702-4b9c-89f1-ebc624958e44",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "114872",
+      "bytes": 114872,
+      "sha256": "96a56cb6967ef23b60f0f40f3eab32d31942c1f64e067fa0fce8eb442d3a0c1e",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/006-apple-podcasts-about-1a02cf97-df0a-44e4-99e0-dac412d9b496/001-3d2c9dc1-b702-4b9c-89f1-ebc624958e44-downloadableSrc-96a56cb6967e.webp"
+    },
+    {
+      "flowId": "1a02cf97-df0a-44e4-99e0-dac412d9b496",
+      "flowName": "About",
+      "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+      "appName": "Apple Podcasts",
+      "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+      "order": 1,
+      "index": 2,
+      "screenId": "911a0a76-f410-452b-b52e-d05eeb9c4149",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "145956",
+      "bytes": 145956,
+      "sha256": "98b6917b06c8f069c2537c66a5b624f3bbc807b88902e127f1acb7b612133c7e",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/006-apple-podcasts-about-1a02cf97-df0a-44e4-99e0-dac412d9b496/002-911a0a76-f410-452b-b52e-d05eeb9c4149-downloadableSrc-98b6917b06c8.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "ec4e0709-869c-42f3-b479-4dbd01919606",
+  "flowName": "Archiving a contact",
+  "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+  "appName": "Mesh",
+  "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+  "appVersionPublishedAt": "2026-08-24T10:35:16.637Z",
+  "platform": "ios",
+  "restricted": false,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/mesh/033-mesh-archiving-a-contact-ec4e0709-869c-42f3-b479-4dbd01919606",
+  "screens": [
+    {
+      "flowId": "ec4e0709-869c-42f3-b479-4dbd01919606",
+      "flowName": "Archiving a contact",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 0,
+      "index": 1,
+      "screenId": "1df49eb4-fb1b-4e04-9bca-aa4f1b6c106f",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "70070",
+      "bytes": 70070,
+      "sha256": "af50086d61de5543fdf2ebd58171399c940f8d070c04157b574cedc71ec48728",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/033-mesh-archiving-a-contact-ec4e0709-869c-42f3-b479-4dbd01919606/001-1df49eb4-fb1b-4e04-9bca-aa4f1b6c106f-downloadableSrc-af50086d61de.webp"
+    },
+    {
+      "flowId": "ec4e0709-869c-42f3-b479-4dbd01919606",
+      "flowName": "Archiving a contact",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 1,
+      "index": 2,
+      "screenId": "5622db85-ad9b-4029-b6ee-6ede4b688961",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "29796",
+      "bytes": 29796,
+      "sha256": "3accb0da7b6710411cf1c7fb740bb28c5e75b6f109b0077ac37521f6a9309ad5",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/033-mesh-archiving-a-contact-ec4e0709-869c-42f3-b479-4dbd01919606/002-5622db85-ad9b-4029-b6ee-6ede4b688961-downloadableSrc-3accb0da7b67.webp"
+    }
+  ]
+}

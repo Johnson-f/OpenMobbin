@@ -1,0 +1,69 @@
+{
+  "flowId": "7f9291ae-4f50-441c-84f9-81b0860759c3",
+  "flowName": "Payment history",
+  "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+  "appName": "Luma",
+  "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+  "appVersionPublishedAt": "2025-07-21T10:32:07.057Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/luma/062-luma-payment-history-7f9291ae-4f50-441c-84f9-81b0860759c3",
+  "screens": [
+    {
+      "flowId": "7f9291ae-4f50-441c-84f9-81b0860759c3",
+      "flowName": "Payment history",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 0,
+      "index": 1,
+      "screenId": "5a994b58-6d53-4178-8985-7b0330ea7bef",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "27312",
+      "bytes": 27312,
+      "sha256": "5260c871fef44c495fe6da477b8324b719dcb27f2521bd46ab71bd82a8ef578d",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/062-luma-payment-history-7f9291ae-4f50-441c-84f9-81b0860759c3/001-5a994b58-6d53-4178-8985-7b0330ea7bef-downloadableSrc-5260c871fef4.webp"
+    },
+    {
+      "flowId": "7f9291ae-4f50-441c-84f9-81b0860759c3",
+      "flowName": "Payment history",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 1,
+      "index": 2,
+      "screenId": "8705ef97-ff44-49a7-b99c-059594e1114f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "29138",
+      "bytes": 29138,
+      "sha256": "348d27440103aa5f07b6252fce84450101c36801faf8a16bddc9ec63c80261bc",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/062-luma-payment-history-7f9291ae-4f50-441c-84f9-81b0860759c3/002-8705ef97-ff44-49a7-b99c-059594e1114f-downloadableSrc-348d27440103.webp"
+    }
+  ]
+}

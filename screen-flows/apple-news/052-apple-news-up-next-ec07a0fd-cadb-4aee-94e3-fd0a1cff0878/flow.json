@@ -1,0 +1,69 @@
+{
+  "flowId": "ec07a0fd-cadb-4aee-94e3-fd0a1cff0878",
+  "flowName": "Up next",
+  "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+  "appName": "Apple News",
+  "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+  "appVersionPublishedAt": "2026-06-15T10:04:54.114Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-news/052-apple-news-up-next-ec07a0fd-cadb-4aee-94e3-fd0a1cff0878",
+  "screens": [
+    {
+      "flowId": "ec07a0fd-cadb-4aee-94e3-fd0a1cff0878",
+      "flowName": "Up next",
+      "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+      "appName": "Apple News",
+      "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+      "order": 0,
+      "index": 1,
+      "screenId": "2b1c4eac-2384-483e-810c-8d2c71065ee5",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "365730",
+      "bytes": 365730,
+      "sha256": "06ac1942ec3ce83645dfdb8f6f0dd5226ffee1dc49a7cbeb0f47422524578227",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-news/052-apple-news-up-next-ec07a0fd-cadb-4aee-94e3-fd0a1cff0878/001-2b1c4eac-2384-483e-810c-8d2c71065ee5-downloadableSrc-06ac1942ec3c.webp"
+    },
+    {
+      "flowId": "ec07a0fd-cadb-4aee-94e3-fd0a1cff0878",
+      "flowName": "Up next",
+      "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+      "appName": "Apple News",
+      "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+      "order": 1,
+      "index": 2,
+      "screenId": "856056a2-3d2d-43ad-8143-2b81bff9786a",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "113182",
+      "bytes": 113182,
+      "sha256": "b7f2ab40b7b7b34f90cf317a04f7774ca7cd4b5c116b4acc51643c5662cfcae1",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-news/052-apple-news-up-next-ec07a0fd-cadb-4aee-94e3-fd0a1cff0878/002-856056a2-3d2d-43ad-8143-2b81bff9786a-downloadableSrc-b7f2ab40b7b7.webp"
+    }
+  ]
+}

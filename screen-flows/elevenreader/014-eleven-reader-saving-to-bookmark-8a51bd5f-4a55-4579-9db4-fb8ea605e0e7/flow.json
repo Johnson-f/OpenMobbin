@@ -1,0 +1,69 @@
+{
+  "flowId": "8a51bd5f-4a55-4579-9db4-fb8ea605e0e7",
+  "flowName": "Saving to bookmark",
+  "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+  "appName": "Eleven Reader",
+  "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+  "appVersionPublishedAt": "2026-06-01T10:05:03.950Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/elevenreader/014-eleven-reader-saving-to-bookmark-8a51bd5f-4a55-4579-9db4-fb8ea605e0e7",
+  "screens": [
+    {
+      "flowId": "8a51bd5f-4a55-4579-9db4-fb8ea605e0e7",
+      "flowName": "Saving to bookmark",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 0,
+      "index": 1,
+      "screenId": "a056a95b-9dba-46c1-bc17-35e379cdcb50",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "102316",
+      "bytes": 102316,
+      "sha256": "7779d81e23429ff0584b9dc297fc8b489423080d77c016d37eb05200e43d0da0",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/014-eleven-reader-saving-to-bookmark-8a51bd5f-4a55-4579-9db4-fb8ea605e0e7/001-a056a95b-9dba-46c1-bc17-35e379cdcb50-downloadableSrc-7779d81e2342.webp"
+    },
+    {
+      "flowId": "8a51bd5f-4a55-4579-9db4-fb8ea605e0e7",
+      "flowName": "Saving to bookmark",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 1,
+      "index": 2,
+      "screenId": "181774de-a178-43a8-9927-5dc7a3b0432f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "119452",
+      "bytes": 119452,
+      "sha256": "16cef85369a55617d5d63614b9664e6c609d99f3e00e6626289b4ea3cb3e0dc7",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/014-eleven-reader-saving-to-bookmark-8a51bd5f-4a55-4579-9db4-fb8ea605e0e7/002-181774de-a178-43a8-9927-5dc7a3b0432f-downloadableSrc-16cef85369a5.webp"
+    }
+  ]
+}

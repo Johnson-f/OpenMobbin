@@ -1,0 +1,69 @@
+{
+  "flowId": "d1cc3e8a-a458-43dd-ad94-34c9e799892e",
+  "flowName": "Invite to Family Sharing",
+  "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+  "appName": "Apple Wallet",
+  "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+  "appVersionPublishedAt": "2026-03-16T10:50:58.120Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-wallet/031-apple-wallet-invite-to-family-sharing-d1cc3e8a-a458-43dd-ad94-34c9e799892e",
+  "screens": [
+    {
+      "flowId": "d1cc3e8a-a458-43dd-ad94-34c9e799892e",
+      "flowName": "Invite to Family Sharing",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 0,
+      "index": 1,
+      "screenId": "2b1b7a86-1d8c-47b8-98d4-cc17810de02f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "39844",
+      "bytes": 39844,
+      "sha256": "0c72e4839475e84ed9fa4b7bd7ae6d39cc0c6ce24462d0baa17f3cf2311fb8ff",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/031-apple-wallet-invite-to-family-sharing-d1cc3e8a-a458-43dd-ad94-34c9e799892e/001-2b1b7a86-1d8c-47b8-98d4-cc17810de02f-downloadableSrc-0c72e4839475.webp"
+    },
+    {
+      "flowId": "d1cc3e8a-a458-43dd-ad94-34c9e799892e",
+      "flowName": "Invite to Family Sharing",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 1,
+      "index": 2,
+      "screenId": "6e89cddd-a728-4019-aa5e-836ea16515b9",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55176",
+      "bytes": 55176,
+      "sha256": "e40e4e5a7a723271ccbc970d2e830792c20abeba3e7bcc8536fcfce5d1982215",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/031-apple-wallet-invite-to-family-sharing-d1cc3e8a-a458-43dd-ad94-34c9e799892e/002-6e89cddd-a728-4019-aa5e-836ea16515b9-downloadableSrc-e40e4e5a7a72.webp"
+    }
+  ]
+}

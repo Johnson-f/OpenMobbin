@@ -1,0 +1,69 @@
+{
+  "flowId": "40b8956e-59e2-45f7-8528-c1cdcc88c5c0",
+  "flowName": "Home Hubs & Bridges",
+  "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+  "appName": "Apple Home",
+  "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+  "appVersionPublishedAt": "2023-05-23T09:30:27.866Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-home/021-apple-home-home-hubs-and-bridges-40b8956e-59e2-45f7-8528-c1cdcc88c5c0",
+  "screens": [
+    {
+      "flowId": "40b8956e-59e2-45f7-8528-c1cdcc88c5c0",
+      "flowName": "Home Hubs & Bridges",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 0,
+      "index": 1,
+      "screenId": "eecfb771-e8a9-41a3-aa04-72a2af3d796e",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "72926",
+      "bytes": 72926,
+      "sha256": "9bbda8c8d4f7815dcd2f54f9eb3706eac3dbdbd5e34f627c2240cca9ca97bac1",
+      "dimensions": {
+        "format": "WEBP/VP8X",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/021-apple-home-home-hubs-and-bridges-40b8956e-59e2-45f7-8528-c1cdcc88c5c0/001-eecfb771-e8a9-41a3-aa04-72a2af3d796e-downloadableSrc-9bbda8c8d4f7.webp"
+    },
+    {
+      "flowId": "40b8956e-59e2-45f7-8528-c1cdcc88c5c0",
+      "flowName": "Home Hubs & Bridges",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 1,
+      "index": 2,
+      "screenId": "67453ebf-aabc-4a08-acfb-4071a4be07f9",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "51236",
+      "bytes": 51236,
+      "sha256": "0db64541df9d8b859d1dc896994edce1b0f8b315a8e4cea32b69bd3556562d21",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/021-apple-home-home-hubs-and-bridges-40b8956e-59e2-45f7-8528-c1cdcc88c5c0/002-67453ebf-aabc-4a08-acfb-4071a4be07f9-downloadableSrc-0db64541df9d.webp"
+    }
+  ]
+}

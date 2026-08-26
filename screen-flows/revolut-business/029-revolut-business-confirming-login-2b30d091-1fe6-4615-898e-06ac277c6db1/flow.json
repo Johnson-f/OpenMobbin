@@ -1,0 +1,69 @@
+{
+  "flowId": "2b30d091-1fe6-4615-898e-06ac277c6db1",
+  "flowName": "Confirming login",
+  "appId": "93ad9ceb-a163-41da-ba7a-9f07c737fc2a",
+  "appName": "Revolut Business",
+  "appVersionId": "0c4c334c-e3a5-4395-89be-c7666aaafdf5",
+  "appVersionPublishedAt": "2026-02-16T10:05:43.710Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/revolut-business/029-revolut-business-confirming-login-2b30d091-1fe6-4615-898e-06ac277c6db1",
+  "screens": [
+    {
+      "flowId": "2b30d091-1fe6-4615-898e-06ac277c6db1",
+      "flowName": "Confirming login",
+      "appId": "93ad9ceb-a163-41da-ba7a-9f07c737fc2a",
+      "appName": "Revolut Business",
+      "appVersionId": "0c4c334c-e3a5-4395-89be-c7666aaafdf5",
+      "order": 0,
+      "index": 1,
+      "screenId": "ca43af86-fb34-4dd5-936e-4e6980e50162",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "74992",
+      "bytes": 74992,
+      "sha256": "ae585a13d3f8515eeb169fcf1958c5cbdc456dc2ec6a5368dcf81b8f556407cc",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut-business/029-revolut-business-confirming-login-2b30d091-1fe6-4615-898e-06ac277c6db1/001-ca43af86-fb34-4dd5-936e-4e6980e50162-downloadableSrc-ae585a13d3f8.webp"
+    },
+    {
+      "flowId": "2b30d091-1fe6-4615-898e-06ac277c6db1",
+      "flowName": "Confirming login",
+      "appId": "93ad9ceb-a163-41da-ba7a-9f07c737fc2a",
+      "appName": "Revolut Business",
+      "appVersionId": "0c4c334c-e3a5-4395-89be-c7666aaafdf5",
+      "order": 1,
+      "index": 2,
+      "screenId": "3987aade-2408-4787-b56e-37f6138a4cf4",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "79576",
+      "bytes": 79576,
+      "sha256": "67d45f59f692df6d71675189ded8772d11c4e157a4b96d6f44445a6c9f75c61b",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut-business/029-revolut-business-confirming-login-2b30d091-1fe6-4615-898e-06ac277c6db1/002-3987aade-2408-4787-b56e-37f6138a4cf4-downloadableSrc-67d45f59f692.webp"
+    }
+  ]
+}

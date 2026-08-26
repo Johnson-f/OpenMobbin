@@ -1,0 +1,69 @@
+{
+  "flowId": "530c9241-90c9-4b05-a16e-9a7f2f47d0ee",
+  "flowName": "Archiving an email",
+  "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+  "appName": "Apple Mail",
+  "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+  "appVersionPublishedAt": "2026-02-16T10:02:43.710Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-mail/025-apple-mail-archiving-an-email-530c9241-90c9-4b05-a16e-9a7f2f47d0ee",
+  "screens": [
+    {
+      "flowId": "530c9241-90c9-4b05-a16e-9a7f2f47d0ee",
+      "flowName": "Archiving an email",
+      "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+      "appName": "Apple Mail",
+      "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+      "order": 0,
+      "index": 1,
+      "screenId": "2c9ff55a-d2b8-4eea-aeb8-a8c4f8882dbc",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "117386",
+      "bytes": 117386,
+      "sha256": "381c5b9d8a525fde61aa04406784bbb6f8245e1b469cc55057b11b5cbea6f8f4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-mail/025-apple-mail-archiving-an-email-530c9241-90c9-4b05-a16e-9a7f2f47d0ee/001-2c9ff55a-d2b8-4eea-aeb8-a8c4f8882dbc-downloadableSrc-381c5b9d8a52.webp"
+    },
+    {
+      "flowId": "530c9241-90c9-4b05-a16e-9a7f2f47d0ee",
+      "flowName": "Archiving an email",
+      "appId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+      "appName": "Apple Mail",
+      "appVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+      "order": 1,
+      "index": 2,
+      "screenId": "3aeb4576-44a4-489a-933c-74143978b398",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "125920",
+      "bytes": 125920,
+      "sha256": "2da16d9d5537b5214ca5049abae6f32ce46a04fa3f8d8ab8ceca22e806f77117",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-mail/025-apple-mail-archiving-an-email-530c9241-90c9-4b05-a16e-9a7f2f47d0ee/002-3aeb4576-44a4-489a-933c-74143978b398-downloadableSrc-2da16d9d5537.webp"
+    }
+  ]
+}

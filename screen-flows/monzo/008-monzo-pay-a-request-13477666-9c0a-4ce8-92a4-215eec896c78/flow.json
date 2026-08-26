@@ -1,0 +1,69 @@
+{
+  "flowId": "13477666-9c0a-4ce8-92a4-215eec896c78",
+  "flowName": "Pay a request",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/008-monzo-pay-a-request-13477666-9c0a-4ce8-92a4-215eec896c78",
+  "screens": [
+    {
+      "flowId": "13477666-9c0a-4ce8-92a4-215eec896c78",
+      "flowName": "Pay a request",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "81a7b732-397c-46fc-a80e-06e3f65636b2",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "60902",
+      "bytes": 60902,
+      "sha256": "f5d7d7fedad1778b65d2c130288c08a569e2411a9cd9f29e6929bc2206fdec54",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/008-monzo-pay-a-request-13477666-9c0a-4ce8-92a4-215eec896c78/001-81a7b732-397c-46fc-a80e-06e3f65636b2-downloadableSrc-f5d7d7fedad1.webp"
+    },
+    {
+      "flowId": "13477666-9c0a-4ce8-92a4-215eec896c78",
+      "flowName": "Pay a request",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "cb66df7f-1697-4182-aa69-954f6fc026b8",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "49978",
+      "bytes": 49978,
+      "sha256": "f582e5d66382a3d3c111753afc305646ca6ac95ef233a94ba403a11021c0c2bf",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/008-monzo-pay-a-request-13477666-9c0a-4ce8-92a4-215eec896c78/002-cb66df7f-1697-4182-aa69-954f6fc026b8-downloadableSrc-f582e5d66382.webp"
+    }
+  ]
+}

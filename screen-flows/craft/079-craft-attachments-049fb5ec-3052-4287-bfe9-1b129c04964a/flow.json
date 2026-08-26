@@ -1,0 +1,69 @@
+{
+  "flowId": "049fb5ec-3052-4287-bfe9-1b129c04964a",
+  "flowName": "Attachments",
+  "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+  "appName": "Craft",
+  "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+  "appVersionPublishedAt": "2025-12-15T10:05:24.445Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/craft/079-craft-attachments-049fb5ec-3052-4287-bfe9-1b129c04964a",
+  "screens": [
+    {
+      "flowId": "049fb5ec-3052-4287-bfe9-1b129c04964a",
+      "flowName": "Attachments",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 0,
+      "index": 1,
+      "screenId": "8476ac9b-1491-4196-80d8-5cb248efbaff",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "113518",
+      "bytes": 113518,
+      "sha256": "a2b0a0d4c96b9691c42595d16fcbd36614bbc5a0a1665e7527ff077077f643ff",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/079-craft-attachments-049fb5ec-3052-4287-bfe9-1b129c04964a/001-8476ac9b-1491-4196-80d8-5cb248efbaff-downloadableSrc-a2b0a0d4c96b.webp"
+    },
+    {
+      "flowId": "049fb5ec-3052-4287-bfe9-1b129c04964a",
+      "flowName": "Attachments",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 1,
+      "index": 2,
+      "screenId": "71ca531d-8bea-48bf-be61-3e8cb7f46057",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "144972",
+      "bytes": 144972,
+      "sha256": "2ff8a50da7d1925fb91541b38d8b277733035872aa432671d992000c93d23401",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/079-craft-attachments-049fb5ec-3052-4287-bfe9-1b129c04964a/002-71ca531d-8bea-48bf-be61-3e8cb7f46057-downloadableSrc-2ff8a50da7d1.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "ba0d1173-cd26-4582-bbc2-d7dacaaec6f4",
+  "flowName": "Added security",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/108-monzo-added-security-ba0d1173-cd26-4582-bbc2-d7dacaaec6f4",
+  "screens": [
+    {
+      "flowId": "ba0d1173-cd26-4582-bbc2-d7dacaaec6f4",
+      "flowName": "Added security",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "a0a06b80-d459-48bb-9a57-cd523c95c2a6",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "105010",
+      "bytes": 105010,
+      "sha256": "eb321ec121d202f8bd99ac34ae7cd99604da000167cd833c4b0a68029b32e84a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/108-monzo-added-security-ba0d1173-cd26-4582-bbc2-d7dacaaec6f4/001-a0a06b80-d459-48bb-9a57-cd523c95c2a6-downloadableSrc-eb321ec121d2.webp"
+    },
+    {
+      "flowId": "ba0d1173-cd26-4582-bbc2-d7dacaaec6f4",
+      "flowName": "Added security",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "3cbd841d-55fc-45fc-a3e5-807d0f9fd2f5",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "99908",
+      "bytes": 99908,
+      "sha256": "d2e575894dfbe8ac3afc34d596cf472777183b0dbdf43304b444583a7ab59856",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/108-monzo-added-security-ba0d1173-cd26-4582-bbc2-d7dacaaec6f4/002-3cbd841d-55fc-45fc-a3e5-807d0f9fd2f5-downloadableSrc-d2e575894dfb.webp"
+    }
+  ]
+}

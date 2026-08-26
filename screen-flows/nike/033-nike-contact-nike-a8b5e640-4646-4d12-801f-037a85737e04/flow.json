@@ -1,0 +1,69 @@
+{
+  "flowId": "a8b5e640-4646-4d12-801f-037a85737e04",
+  "flowName": "Contact Nike",
+  "appId": "03eab082-d557-423b-92f8-797b18bc1f36",
+  "appName": "Nike",
+  "appVersionId": "f1257fae-f105-498b-8a5c-92f9c2e2b5b0",
+  "appVersionPublishedAt": "2025-03-03T10:13:13.440Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/nike/033-nike-contact-nike-a8b5e640-4646-4d12-801f-037a85737e04",
+  "screens": [
+    {
+      "flowId": "a8b5e640-4646-4d12-801f-037a85737e04",
+      "flowName": "Contact Nike",
+      "appId": "03eab082-d557-423b-92f8-797b18bc1f36",
+      "appName": "Nike",
+      "appVersionId": "f1257fae-f105-498b-8a5c-92f9c2e2b5b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "577c9c58-4a7f-43e6-a326-3ee1e6e80f89",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "111794",
+      "bytes": 111794,
+      "sha256": "2783b58aed7e4120915963f57165baa648e00678277ed0be600143f687c5b9e6",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/nike/033-nike-contact-nike-a8b5e640-4646-4d12-801f-037a85737e04/001-577c9c58-4a7f-43e6-a326-3ee1e6e80f89-downloadableSrc-2783b58aed7e.webp"
+    },
+    {
+      "flowId": "a8b5e640-4646-4d12-801f-037a85737e04",
+      "flowName": "Contact Nike",
+      "appId": "03eab082-d557-423b-92f8-797b18bc1f36",
+      "appName": "Nike",
+      "appVersionId": "f1257fae-f105-498b-8a5c-92f9c2e2b5b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "90e699e3-c104-4639-8180-8d9ff9fae37f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "60440",
+      "bytes": 60440,
+      "sha256": "aeb33e3549cbc9ab1a570747ffe3f5bb3d4cb632cf9ac62666a5a4cf4b466e26",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/nike/033-nike-contact-nike-a8b5e640-4646-4d12-801f-037a85737e04/002-90e699e3-c104-4639-8180-8d9ff9fae37f-downloadableSrc-aeb33e3549cb.webp"
+    }
+  ]
+}

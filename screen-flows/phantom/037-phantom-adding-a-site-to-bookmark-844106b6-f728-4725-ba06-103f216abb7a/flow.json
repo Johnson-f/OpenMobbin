@@ -1,0 +1,69 @@
+{
+  "flowId": "844106b6-f728-4725-ba06-103f216abb7a",
+  "flowName": "Adding a site to bookmark",
+  "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+  "appName": "Phantom",
+  "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+  "appVersionPublishedAt": "2026-07-20T10:07:31.488Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/phantom/037-phantom-adding-a-site-to-bookmark-844106b6-f728-4725-ba06-103f216abb7a",
+  "screens": [
+    {
+      "flowId": "844106b6-f728-4725-ba06-103f216abb7a",
+      "flowName": "Adding a site to bookmark",
+      "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+      "appName": "Phantom",
+      "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+      "order": 0,
+      "index": 1,
+      "screenId": "5e279d0b-1675-45cb-b12a-319cf38613f0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "76846",
+      "bytes": 76846,
+      "sha256": "191af011e058f6e167a12b28c4d48654c4170ee33198c58be5e23da5bb715267",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/phantom/037-phantom-adding-a-site-to-bookmark-844106b6-f728-4725-ba06-103f216abb7a/001-5e279d0b-1675-45cb-b12a-319cf38613f0-downloadableSrc-191af011e058.webp"
+    },
+    {
+      "flowId": "844106b6-f728-4725-ba06-103f216abb7a",
+      "flowName": "Adding a site to bookmark",
+      "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+      "appName": "Phantom",
+      "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+      "order": 1,
+      "index": 2,
+      "screenId": "74f826c1-735c-4f08-9c6f-307038c23935",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "76636",
+      "bytes": 76636,
+      "sha256": "6eabea7ea3b5e12f8050f6af6bcf417b134511c664c38deb84d1fae68f9fd4d3",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/phantom/037-phantom-adding-a-site-to-bookmark-844106b6-f728-4725-ba06-103f216abb7a/002-74f826c1-735c-4f08-9c6f-307038c23935-downloadableSrc-6eabea7ea3b5.webp"
+    }
+  ]
+}

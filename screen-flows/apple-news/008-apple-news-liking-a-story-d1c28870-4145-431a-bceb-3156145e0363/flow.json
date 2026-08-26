@@ -1,0 +1,69 @@
+{
+  "flowId": "d1c28870-4145-431a-bceb-3156145e0363",
+  "flowName": "Liking a story",
+  "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+  "appName": "Apple News",
+  "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+  "appVersionPublishedAt": "2026-06-15T10:04:54.114Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-news/008-apple-news-liking-a-story-d1c28870-4145-431a-bceb-3156145e0363",
+  "screens": [
+    {
+      "flowId": "d1c28870-4145-431a-bceb-3156145e0363",
+      "flowName": "Liking a story",
+      "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+      "appName": "Apple News",
+      "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+      "order": 0,
+      "index": 1,
+      "screenId": "e5d5f871-0a9c-48e1-a9e2-d2cd6bfc362e",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "165516",
+      "bytes": 165516,
+      "sha256": "378ff64e8b40a17482d73b3bec4be0ff2852523650b3cd57ef4c90148234d835",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-news/008-apple-news-liking-a-story-d1c28870-4145-431a-bceb-3156145e0363/001-e5d5f871-0a9c-48e1-a9e2-d2cd6bfc362e-downloadableSrc-378ff64e8b40.webp"
+    },
+    {
+      "flowId": "d1c28870-4145-431a-bceb-3156145e0363",
+      "flowName": "Liking a story",
+      "appId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+      "appName": "Apple News",
+      "appVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+      "order": 1,
+      "index": 2,
+      "screenId": "fb961f8d-fff1-4a77-8a53-511db8c18fe7",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "173248",
+      "bytes": 173248,
+      "sha256": "c202ab3b920d6beb5ea31ddc53d1a104d075820268e98dd3aeee2462e9e28fb4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-news/008-apple-news-liking-a-story-d1c28870-4145-431a-bceb-3156145e0363/002-fb961f8d-fff1-4a77-8a53-511db8c18fe7-downloadableSrc-c202ab3b920d.webp"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "flowId": "eca33cf2-118b-4ef8-846f-567db3148bb0",
+  "flowName": "Editing amount",
+  "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+  "appName": "Apple Wallet",
+  "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+  "appVersionPublishedAt": "2026-03-16T10:50:58.120Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-wallet/015-apple-wallet-editing-amount-eca33cf2-118b-4ef8-846f-567db3148bb0",
+  "screens": [
+    {
+      "flowId": "eca33cf2-118b-4ef8-846f-567db3148bb0",
+      "flowName": "Editing amount",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 0,
+      "index": 1,
+      "screenId": "dc4557d7-1436-4d90-aef0-70848e2f2332",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "45018",
+      "bytes": 45018,
+      "sha256": "aa0d985c6bbcad1e1d5fecfba32a610ba9952530ac20045aac86514e1259d574",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/015-apple-wallet-editing-amount-eca33cf2-118b-4ef8-846f-567db3148bb0/001-dc4557d7-1436-4d90-aef0-70848e2f2332-downloadableSrc-aa0d985c6bbc.webp"
+    },
+    {
+      "flowId": "eca33cf2-118b-4ef8-846f-567db3148bb0",
+      "flowName": "Editing amount",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 1,
+      "index": 2,
+      "screenId": "e4d05cdc-2267-4205-9e65-8a3ea40dcba0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "42614",
+      "bytes": 42614,
+      "sha256": "9d26cdb4afbba918c973362bbed65fea802a3983d7049e3ca090f656e5781dd1",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/015-apple-wallet-editing-amount-eca33cf2-118b-4ef8-846f-567db3148bb0/002-e4d05cdc-2267-4205-9e65-8a3ea40dcba0-downloadableSrc-9d26cdb4afbb.webp"
+    }
+  ]
+}

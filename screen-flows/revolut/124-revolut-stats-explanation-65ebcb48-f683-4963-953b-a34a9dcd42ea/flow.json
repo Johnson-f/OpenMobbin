@@ -1,0 +1,69 @@
+{
+  "flowId": "65ebcb48-f683-4963-953b-a34a9dcd42ea",
+  "flowName": "Stats explanation",
+  "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+  "appName": "Revolut",
+  "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+  "appVersionPublishedAt": "2025-05-26T11:04:26.035Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/revolut/124-revolut-stats-explanation-65ebcb48-f683-4963-953b-a34a9dcd42ea",
+  "screens": [
+    {
+      "flowId": "65ebcb48-f683-4963-953b-a34a9dcd42ea",
+      "flowName": "Stats explanation",
+      "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+      "appName": "Revolut",
+      "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+      "order": 0,
+      "index": 1,
+      "screenId": "7cf69bbf-8b59-4b90-922c-78a2df69c9cf",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "144364",
+      "bytes": 144364,
+      "sha256": "5ad63d4f63ff5cc0cc8785cf039a91b233ed1784c75b2f8852b3c765f49aedad",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut/124-revolut-stats-explanation-65ebcb48-f683-4963-953b-a34a9dcd42ea/001-7cf69bbf-8b59-4b90-922c-78a2df69c9cf-downloadableSrc-5ad63d4f63ff.webp"
+    },
+    {
+      "flowId": "65ebcb48-f683-4963-953b-a34a9dcd42ea",
+      "flowName": "Stats explanation",
+      "appId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+      "appName": "Revolut",
+      "appVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+      "order": 1,
+      "index": 2,
+      "screenId": "31743e46-55e4-49a8-b2d9-066d510d4421",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "93866",
+      "bytes": 93866,
+      "sha256": "b78f6694cc294f023d7a82259e0c82979fd9d8a19de53f7ce53841dd02c284da",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/revolut/124-revolut-stats-explanation-65ebcb48-f683-4963-953b-a34a9dcd42ea/002-31743e46-55e4-49a8-b2d9-066d510d4421-downloadableSrc-b78f6694cc29.webp"
+    }
+  ]
+}

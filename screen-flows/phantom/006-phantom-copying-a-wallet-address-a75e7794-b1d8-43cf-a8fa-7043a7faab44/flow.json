@@ -1,0 +1,69 @@
+{
+  "flowId": "a75e7794-b1d8-43cf-a8fa-7043a7faab44",
+  "flowName": "Copying a wallet address",
+  "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+  "appName": "Phantom",
+  "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+  "appVersionPublishedAt": "2026-07-20T10:07:31.488Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/phantom/006-phantom-copying-a-wallet-address-a75e7794-b1d8-43cf-a8fa-7043a7faab44",
+  "screens": [
+    {
+      "flowId": "a75e7794-b1d8-43cf-a8fa-7043a7faab44",
+      "flowName": "Copying a wallet address",
+      "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+      "appName": "Phantom",
+      "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+      "order": 0,
+      "index": 1,
+      "screenId": "2a707eff-e0a5-457b-b00c-58ec94bd96cc",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55328",
+      "bytes": 55328,
+      "sha256": "24d3964a28c79ed608c760793f8698f922220ef7f5dc7c6866fa388252a4eef9",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/phantom/006-phantom-copying-a-wallet-address-a75e7794-b1d8-43cf-a8fa-7043a7faab44/001-2a707eff-e0a5-457b-b00c-58ec94bd96cc-downloadableSrc-24d3964a28c7.webp"
+    },
+    {
+      "flowId": "a75e7794-b1d8-43cf-a8fa-7043a7faab44",
+      "flowName": "Copying a wallet address",
+      "appId": "28f44562-240b-48eb-997f-8a1a731499cb",
+      "appName": "Phantom",
+      "appVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+      "order": 1,
+      "index": 2,
+      "screenId": "c0b35d9a-68d9-4d0c-becb-62815fde60ba",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "57858",
+      "bytes": 57858,
+      "sha256": "50cc8e504b02282b6b58760af28b40aac5d68212c0ff2767ab522bb873865246",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/phantom/006-phantom-copying-a-wallet-address-a75e7794-b1d8-43cf-a8fa-7043a7faab44/002-c0b35d9a-68d9-4d0c-becb-62815fde60ba-downloadableSrc-50cc8e504b02.webp"
+    }
+  ]
+}

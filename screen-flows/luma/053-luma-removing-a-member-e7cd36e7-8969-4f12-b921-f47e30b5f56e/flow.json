@@ -1,0 +1,69 @@
+{
+  "flowId": "e7cd36e7-8969-4f12-b921-f47e30b5f56e",
+  "flowName": "Removing a member",
+  "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+  "appName": "Luma",
+  "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+  "appVersionPublishedAt": "2025-07-21T10:32:07.057Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/luma/053-luma-removing-a-member-e7cd36e7-8969-4f12-b921-f47e30b5f56e",
+  "screens": [
+    {
+      "flowId": "e7cd36e7-8969-4f12-b921-f47e30b5f56e",
+      "flowName": "Removing a member",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 0,
+      "index": 1,
+      "screenId": "534b987e-de47-48b6-b800-7509bb006f36",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "49000",
+      "bytes": 49000,
+      "sha256": "a32d12892b6267ba1c80814fb0665d04a6c730a8f0b7d25b03ad60edbee6b3c9",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/053-luma-removing-a-member-e7cd36e7-8969-4f12-b921-f47e30b5f56e/001-534b987e-de47-48b6-b800-7509bb006f36-downloadableSrc-a32d12892b62.webp"
+    },
+    {
+      "flowId": "e7cd36e7-8969-4f12-b921-f47e30b5f56e",
+      "flowName": "Removing a member",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 1,
+      "index": 2,
+      "screenId": "c9b9c0ad-e8ac-40f2-a40d-8b3619e27f99",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "30174",
+      "bytes": 30174,
+      "sha256": "64426ccac9d7fddd0718dd99639bfaa6251e4ee3a7d4e9a4fc6c3cf5230047df",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/053-luma-removing-a-member-e7cd36e7-8969-4f12-b921-f47e30b5f56e/002-c9b9c0ad-e8ac-40f2-a40d-8b3619e27f99-downloadableSrc-64426ccac9d7.webp"
+    }
+  ]
+}

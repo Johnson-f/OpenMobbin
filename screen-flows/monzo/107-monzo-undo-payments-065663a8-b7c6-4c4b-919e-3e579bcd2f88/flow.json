@@ -1,0 +1,69 @@
+{
+  "flowId": "065663a8-b7c6-4c4b-919e-3e579bcd2f88",
+  "flowName": "Undo payments",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/107-monzo-undo-payments-065663a8-b7c6-4c4b-919e-3e579bcd2f88",
+  "screens": [
+    {
+      "flowId": "065663a8-b7c6-4c4b-919e-3e579bcd2f88",
+      "flowName": "Undo payments",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "a0a06b80-d459-48bb-9a57-cd523c95c2a6",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "105010",
+      "bytes": 105010,
+      "sha256": "eb321ec121d202f8bd99ac34ae7cd99604da000167cd833c4b0a68029b32e84a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/107-monzo-undo-payments-065663a8-b7c6-4c4b-919e-3e579bcd2f88/001-a0a06b80-d459-48bb-9a57-cd523c95c2a6-downloadableSrc-eb321ec121d2.webp"
+    },
+    {
+      "flowId": "065663a8-b7c6-4c4b-919e-3e579bcd2f88",
+      "flowName": "Undo payments",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "86f5bf74-4873-44d9-8981-947cf7d766de",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55246",
+      "bytes": 55246,
+      "sha256": "115c0ce5946cb3ad3e8295d99bb04207beec746474c4a2181f59f50a99b4429a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/107-monzo-undo-payments-065663a8-b7c6-4c4b-919e-3e579bcd2f88/002-86f5bf74-4873-44d9-8981-947cf7d766de-downloadableSrc-115c0ce5946c.webp"
+    }
+  ]
+}

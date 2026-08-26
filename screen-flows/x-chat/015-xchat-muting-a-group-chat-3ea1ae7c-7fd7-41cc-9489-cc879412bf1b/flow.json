@@ -1,0 +1,69 @@
+{
+  "flowId": "3ea1ae7c-7fd7-41cc-9489-cc879412bf1b",
+  "flowName": "Muting a group chat",
+  "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+  "appName": "Xchat",
+  "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+  "appVersionPublishedAt": "2026-06-22T10:08:33.752Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x-chat/015-xchat-muting-a-group-chat-3ea1ae7c-7fd7-41cc-9489-cc879412bf1b",
+  "screens": [
+    {
+      "flowId": "3ea1ae7c-7fd7-41cc-9489-cc879412bf1b",
+      "flowName": "Muting a group chat",
+      "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+      "appName": "Xchat",
+      "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+      "order": 0,
+      "index": 1,
+      "screenId": "15e9010f-d007-4d8a-9d56-6b3b35da2dd0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55740",
+      "bytes": 55740,
+      "sha256": "3b610ec3c51f6cdd82258cae6adab0449cd3334c13df1e863e5e8c8fd793ea68",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x-chat/015-xchat-muting-a-group-chat-3ea1ae7c-7fd7-41cc-9489-cc879412bf1b/001-15e9010f-d007-4d8a-9d56-6b3b35da2dd0-downloadableSrc-3b610ec3c51f.webp"
+    },
+    {
+      "flowId": "3ea1ae7c-7fd7-41cc-9489-cc879412bf1b",
+      "flowName": "Muting a group chat",
+      "appId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+      "appName": "Xchat",
+      "appVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+      "order": 1,
+      "index": 2,
+      "screenId": "5e2796b6-caf2-4bde-9543-9086440bd076",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "55656",
+      "bytes": 55656,
+      "sha256": "bcb392ca2b31fb877b6117605d48e08bd8d0b7600f9695fbc1d6b8a36bc3a764",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x-chat/015-xchat-muting-a-group-chat-3ea1ae7c-7fd7-41cc-9489-cc879412bf1b/002-5e2796b6-caf2-4bde-9543-9086440bd076-downloadableSrc-bcb392ca2b31.webp"
+    }
+  ]
+}

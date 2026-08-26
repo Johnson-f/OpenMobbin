@@ -1,0 +1,69 @@
+{
+  "flowId": "8e79d24a-07ae-4073-9f86-314b831f2275",
+  "flowName": "Adding a face to watch",
+  "appId": "d5affeb9-ed0e-4c36-8e80-cd08a6bed4ba",
+  "appName": "Apple Watch",
+  "appVersionId": "effde119-f664-48b0-a60e-979713a7855b",
+  "appVersionPublishedAt": "2026-07-06T10:04:00.936Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-watch/023-apple-watch-adding-a-face-to-watch-8e79d24a-07ae-4073-9f86-314b831f2275",
+  "screens": [
+    {
+      "flowId": "8e79d24a-07ae-4073-9f86-314b831f2275",
+      "flowName": "Adding a face to watch",
+      "appId": "d5affeb9-ed0e-4c36-8e80-cd08a6bed4ba",
+      "appName": "Apple Watch",
+      "appVersionId": "effde119-f664-48b0-a60e-979713a7855b",
+      "order": 0,
+      "index": 1,
+      "screenId": "51646a22-ff28-44b3-be02-ace317e57a13",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "93614",
+      "bytes": 93614,
+      "sha256": "a5dbbe9612805006fbc40390d23483a48cb3e0ea0bc8bfb5002d58ecd1c164d4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-watch/023-apple-watch-adding-a-face-to-watch-8e79d24a-07ae-4073-9f86-314b831f2275/001-51646a22-ff28-44b3-be02-ace317e57a13-downloadableSrc-a5dbbe961280.webp"
+    },
+    {
+      "flowId": "8e79d24a-07ae-4073-9f86-314b831f2275",
+      "flowName": "Adding a face to watch",
+      "appId": "d5affeb9-ed0e-4c36-8e80-cd08a6bed4ba",
+      "appName": "Apple Watch",
+      "appVersionId": "effde119-f664-48b0-a60e-979713a7855b",
+      "order": 1,
+      "index": 2,
+      "screenId": "c6dd58ab-2740-48c2-ad67-bbd3cadcb509",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "111966",
+      "bytes": 111966,
+      "sha256": "eee2aac9cb87cbed53f8679253c374e2b2a63fa4769c3e79d6c07a0d63618cb4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-watch/023-apple-watch-adding-a-face-to-watch-8e79d24a-07ae-4073-9f86-314b831f2275/002-c6dd58ab-2740-48c2-ad67-bbd3cadcb509-downloadableSrc-eee2aac9cb87.webp"
+    }
+  ]
+}

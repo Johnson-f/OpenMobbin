@@ -1,0 +1,69 @@
+{
+  "flowId": "a17e589a-881d-43e7-bf50-d770283aafc1",
+  "flowName": "Delete an account",
+  "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+  "appName": "Eleven Reader",
+  "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+  "appVersionPublishedAt": "2026-06-01T10:05:03.950Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/elevenreader/053-eleven-reader-delete-an-account-a17e589a-881d-43e7-bf50-d770283aafc1",
+  "screens": [
+    {
+      "flowId": "a17e589a-881d-43e7-bf50-d770283aafc1",
+      "flowName": "Delete an account",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 0,
+      "index": 1,
+      "screenId": "e06abe66-b250-46ab-9415-c48a92f9bad3",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "57738",
+      "bytes": 57738,
+      "sha256": "6429a37974d0618b2bb4b8656901f6da16e4a4a88d95ea9567415d98c05ed713",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/053-eleven-reader-delete-an-account-a17e589a-881d-43e7-bf50-d770283aafc1/001-e06abe66-b250-46ab-9415-c48a92f9bad3-downloadableSrc-6429a37974d0.webp"
+    },
+    {
+      "flowId": "a17e589a-881d-43e7-bf50-d770283aafc1",
+      "flowName": "Delete an account",
+      "appId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+      "appName": "Eleven Reader",
+      "appVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+      "order": 1,
+      "index": 2,
+      "screenId": "32d65f8f-6479-4264-a408-b9b0a8579bdb",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "53406",
+      "bytes": 53406,
+      "sha256": "47c7088e9d7e22c320dc6cb1f59dcd14d01f9529cef6aa599582b61be064dca8",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/elevenreader/053-eleven-reader-delete-an-account-a17e589a-881d-43e7-bf50-d770283aafc1/002-32d65f8f-6479-4264-a408-b9b0a8579bdb-downloadableSrc-47c7088e9d7e.webp"
+    }
+  ]
+}

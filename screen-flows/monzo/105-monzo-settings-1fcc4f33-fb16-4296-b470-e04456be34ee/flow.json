@@ -1,0 +1,69 @@
+{
+  "flowId": "1fcc4f33-fb16-4296-b470-e04456be34ee",
+  "flowName": "Settings",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/105-monzo-settings-1fcc4f33-fb16-4296-b470-e04456be34ee",
+  "screens": [
+    {
+      "flowId": "1fcc4f33-fb16-4296-b470-e04456be34ee",
+      "flowName": "Settings",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "47e9ab3e-86cf-4b39-a1c7-c5918a69d1e3",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "65798",
+      "bytes": 65798,
+      "sha256": "bd5fe457fec95e8ca8d0bd8f310b0c6a78934750dbfc6d83bf9805faa42f3957",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/105-monzo-settings-1fcc4f33-fb16-4296-b470-e04456be34ee/001-47e9ab3e-86cf-4b39-a1c7-c5918a69d1e3-downloadableSrc-bd5fe457fec9.webp"
+    },
+    {
+      "flowId": "1fcc4f33-fb16-4296-b470-e04456be34ee",
+      "flowName": "Settings",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "6b891ec1-ab93-464c-b98d-0fef1c262968",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "52496",
+      "bytes": 52496,
+      "sha256": "64da3d9969166946577d0926b236f0774b1474f769459c2f2134167f0fe804f5",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/105-monzo-settings-1fcc4f33-fb16-4296-b470-e04456be34ee/002-6b891ec1-ab93-464c-b98d-0fef1c262968-downloadableSrc-64da3d996916.webp"
+    }
+  ]
+}

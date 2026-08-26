@@ -1,0 +1,69 @@
+{
+  "flowId": "2eb03f20-28b1-4b16-899a-73e75dac597b",
+  "flowName": "Other times & locations",
+  "appId": "c398e404-cbd4-4f86-8a89-18e36b882319",
+  "appName": "Apple Store",
+  "appVersionId": "2c15abd3-2aec-4a0c-bee8-f81995702a6a",
+  "appVersionPublishedAt": "2026-06-08T10:05:23.876Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-store/031-apple-store-other-times-and-locations-2eb03f20-28b1-4b16-899a-73e75dac597b",
+  "screens": [
+    {
+      "flowId": "2eb03f20-28b1-4b16-899a-73e75dac597b",
+      "flowName": "Other times & locations",
+      "appId": "c398e404-cbd4-4f86-8a89-18e36b882319",
+      "appName": "Apple Store",
+      "appVersionId": "2c15abd3-2aec-4a0c-bee8-f81995702a6a",
+      "order": 0,
+      "index": 1,
+      "screenId": "c2d7b97a-ac4c-4d11-a2e2-d9a0dbbaec6b",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "90834",
+      "bytes": 90834,
+      "sha256": "07b823f9731a87e6739cf9827af382dfb72805d73726e37815ef1e88e833a417",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-store/031-apple-store-other-times-and-locations-2eb03f20-28b1-4b16-899a-73e75dac597b/001-c2d7b97a-ac4c-4d11-a2e2-d9a0dbbaec6b-downloadableSrc-07b823f9731a.webp"
+    },
+    {
+      "flowId": "2eb03f20-28b1-4b16-899a-73e75dac597b",
+      "flowName": "Other times & locations",
+      "appId": "c398e404-cbd4-4f86-8a89-18e36b882319",
+      "appName": "Apple Store",
+      "appVersionId": "2c15abd3-2aec-4a0c-bee8-f81995702a6a",
+      "order": 1,
+      "index": 2,
+      "screenId": "52178379-1bd0-47db-a23a-0ac984612b90",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "57220",
+      "bytes": 57220,
+      "sha256": "97b23e91e56468c2748ac847a5976b38ae388434c1fe376ecee17ba570f73a83",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-store/031-apple-store-other-times-and-locations-2eb03f20-28b1-4b16-899a-73e75dac597b/002-52178379-1bd0-47db-a23a-0ac984612b90-downloadableSrc-97b23e91e564.webp"
+    }
+  ]
+}

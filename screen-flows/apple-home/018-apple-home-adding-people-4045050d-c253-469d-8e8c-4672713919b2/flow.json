@@ -1,0 +1,69 @@
+{
+  "flowId": "4045050d-c253-469d-8e8c-4672713919b2",
+  "flowName": "Adding people",
+  "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+  "appName": "Apple Home",
+  "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+  "appVersionPublishedAt": "2023-05-23T09:30:27.866Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-home/018-apple-home-adding-people-4045050d-c253-469d-8e8c-4672713919b2",
+  "screens": [
+    {
+      "flowId": "4045050d-c253-469d-8e8c-4672713919b2",
+      "flowName": "Adding people",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 0,
+      "index": 1,
+      "screenId": "c1008369-f175-4201-8b74-c9a7b7c2eaa4",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "74956",
+      "bytes": 74956,
+      "sha256": "1a16c8dba8d4413806550632fc71ce73422e8bcf37e22da46581bdecdf25ebef",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/018-apple-home-adding-people-4045050d-c253-469d-8e8c-4672713919b2/001-c1008369-f175-4201-8b74-c9a7b7c2eaa4-downloadableSrc-1a16c8dba8d4.webp"
+    },
+    {
+      "flowId": "4045050d-c253-469d-8e8c-4672713919b2",
+      "flowName": "Adding people",
+      "appId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+      "appName": "Apple Home",
+      "appVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+      "order": 1,
+      "index": 2,
+      "screenId": "ddd3cf29-49a7-4df7-9530-f273e9f39315",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "52562",
+      "bytes": 52562,
+      "sha256": "dd5248e3e1fe2142f8ce365fef24589eede91200952c8a092c7f3d00664dcc98",
+      "dimensions": {
+        "format": "WEBP/VP8X",
+        "width": 1126,
+        "height": 2556
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-home/018-apple-home-adding-people-4045050d-c253-469d-8e8c-4672713919b2/002-ddd3cf29-49a7-4df7-9530-f273e9f39315-downloadableSrc-dd5248e3e1fe.webp"
+    }
+  ]
+}

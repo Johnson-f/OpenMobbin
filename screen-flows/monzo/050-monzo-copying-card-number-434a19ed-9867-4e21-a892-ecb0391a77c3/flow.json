@@ -1,0 +1,69 @@
+{
+  "flowId": "434a19ed-9867-4e21-a892-ecb0391a77c3",
+  "flowName": "Copying card number",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/050-monzo-copying-card-number-434a19ed-9867-4e21-a892-ecb0391a77c3",
+  "screens": [
+    {
+      "flowId": "434a19ed-9867-4e21-a892-ecb0391a77c3",
+      "flowName": "Copying card number",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "e49ee4db-e57c-4409-8863-5f83d136e734",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "65862",
+      "bytes": 65862,
+      "sha256": "e6102c1c428cedfb44b54f452285b405a8e60baa91ad30eaae06a5dd2b505c69",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/050-monzo-copying-card-number-434a19ed-9867-4e21-a892-ecb0391a77c3/001-e49ee4db-e57c-4409-8863-5f83d136e734-downloadableSrc-e6102c1c428c.webp"
+    },
+    {
+      "flowId": "434a19ed-9867-4e21-a892-ecb0391a77c3",
+      "flowName": "Copying card number",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "09a5e65b-396d-4282-aa85-264dacf9fb72",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "75690",
+      "bytes": 75690,
+      "sha256": "ee529ec4eda5c51b57ddf77e469673019372a1a947ebe0201737aa29aade40c4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/050-monzo-copying-card-number-434a19ed-9867-4e21-a892-ecb0391a77c3/002-09a5e65b-396d-4282-aa85-264dacf9fb72-downloadableSrc-ee529ec4eda5.webp"
+    }
+  ]
+}

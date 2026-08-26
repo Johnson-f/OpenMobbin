@@ -1,0 +1,69 @@
+{
+  "flowId": "8006ccf4-b77f-4e57-ac0d-6e5365b53bc2",
+  "flowName": "Account",
+  "appId": "f8b3622e-9edd-41af-b49e-41f6528b1da3",
+  "appName": "Apple Fitness",
+  "appVersionId": "41d59266-03f6-4bed-91bf-f84557ccf8c1",
+  "appVersionPublishedAt": "2026-02-02T10:00:27.871Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-fitness/055-apple-fitness-account-8006ccf4-b77f-4e57-ac0d-6e5365b53bc2",
+  "screens": [
+    {
+      "flowId": "8006ccf4-b77f-4e57-ac0d-6e5365b53bc2",
+      "flowName": "Account",
+      "appId": "f8b3622e-9edd-41af-b49e-41f6528b1da3",
+      "appName": "Apple Fitness",
+      "appVersionId": "41d59266-03f6-4bed-91bf-f84557ccf8c1",
+      "order": 0,
+      "index": 1,
+      "screenId": "a69eb6f0-44e3-4b5c-95e6-43a34561d837",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "89460",
+      "bytes": 89460,
+      "sha256": "439a9710ba64fd56848baece38371f722d6c6ec2c7009eb4cd110f636e503fce",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-fitness/055-apple-fitness-account-8006ccf4-b77f-4e57-ac0d-6e5365b53bc2/001-a69eb6f0-44e3-4b5c-95e6-43a34561d837-downloadableSrc-439a9710ba64.webp"
+    },
+    {
+      "flowId": "8006ccf4-b77f-4e57-ac0d-6e5365b53bc2",
+      "flowName": "Account",
+      "appId": "f8b3622e-9edd-41af-b49e-41f6528b1da3",
+      "appName": "Apple Fitness",
+      "appVersionId": "41d59266-03f6-4bed-91bf-f84557ccf8c1",
+      "order": 1,
+      "index": 2,
+      "screenId": "f618bfa8-e996-4cb6-b7b8-f138e29963b1",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "51050",
+      "bytes": 51050,
+      "sha256": "8460f46d30980f057650e51bcd044d0ed8309897ea5612ca3cb260338007202d",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-fitness/055-apple-fitness-account-8006ccf4-b77f-4e57-ac0d-6e5365b53bc2/002-f618bfa8-e996-4cb6-b7b8-f138e29963b1-downloadableSrc-8460f46d3098.webp"
+    }
+  ]
+}

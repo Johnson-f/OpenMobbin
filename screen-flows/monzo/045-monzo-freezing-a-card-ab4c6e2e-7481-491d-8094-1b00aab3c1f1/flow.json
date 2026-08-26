@@ -1,0 +1,69 @@
+{
+  "flowId": "ab4c6e2e-7481-491d-8094-1b00aab3c1f1",
+  "flowName": "Freezing a card",
+  "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "appName": "Monzo",
+  "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "appVersionPublishedAt": "2026-08-03T10:11:38.818Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/monzo/045-monzo-freezing-a-card-ab4c6e2e-7481-491d-8094-1b00aab3c1f1",
+  "screens": [
+    {
+      "flowId": "ab4c6e2e-7481-491d-8094-1b00aab3c1f1",
+      "flowName": "Freezing a card",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "33ff4968-3759-479c-8603-ec1f8ac5726c",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "62462",
+      "bytes": 62462,
+      "sha256": "370ca0292f1c40de7ff4445837599e5d104d6ecbc06260f979021e3f38a703da",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/045-monzo-freezing-a-card-ab4c6e2e-7481-491d-8094-1b00aab3c1f1/001-33ff4968-3759-479c-8603-ec1f8ac5726c-downloadableSrc-370ca0292f1c.webp"
+    },
+    {
+      "flowId": "ab4c6e2e-7481-491d-8094-1b00aab3c1f1",
+      "flowName": "Freezing a card",
+      "appId": "f6915aea-cb42-474d-99f2-066d3177949a",
+      "appName": "Monzo",
+      "appVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "627482f8-9f12-40a2-9c07-392fe4e30eb0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "109288",
+      "bytes": 109288,
+      "sha256": "c3f7684de4c2b20709c6d9c102a30aae7b91041f3076a6a6b711a72a6e1dd681",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/monzo/045-monzo-freezing-a-card-ab4c6e2e-7481-491d-8094-1b00aab3c1f1/002-627482f8-9f12-40a2-9c07-392fe4e30eb0-downloadableSrc-c3f7684de4c2.webp"
+    }
+  ]
+}

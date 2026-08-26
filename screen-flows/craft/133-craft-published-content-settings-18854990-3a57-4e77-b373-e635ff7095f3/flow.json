@@ -1,0 +1,69 @@
+{
+  "flowId": "18854990-3a57-4e77-b373-e635ff7095f3",
+  "flowName": "Published content settings",
+  "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+  "appName": "Craft",
+  "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+  "appVersionPublishedAt": "2025-12-15T10:05:24.445Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/craft/133-craft-published-content-settings-18854990-3a57-4e77-b373-e635ff7095f3",
+  "screens": [
+    {
+      "flowId": "18854990-3a57-4e77-b373-e635ff7095f3",
+      "flowName": "Published content settings",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 0,
+      "index": 1,
+      "screenId": "24864f35-21ca-4f19-8266-53eb425cf070",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "42134",
+      "bytes": 42134,
+      "sha256": "e3443fc9c168f96d111ad3336d6967df65d26d934c5105d1fbf6c74e5dc0b7e7",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/133-craft-published-content-settings-18854990-3a57-4e77-b373-e635ff7095f3/001-24864f35-21ca-4f19-8266-53eb425cf070-downloadableSrc-e3443fc9c168.webp"
+    },
+    {
+      "flowId": "18854990-3a57-4e77-b373-e635ff7095f3",
+      "flowName": "Published content settings",
+      "appId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+      "appName": "Craft",
+      "appVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+      "order": 1,
+      "index": 2,
+      "screenId": "6cf97053-5f9a-4d33-9b45-863a96f5090a",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "73492",
+      "bytes": 73492,
+      "sha256": "f1cbec0693a52162de1940388b7f1eab50605d0169fa9035ffcd3825a0265617",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/craft/133-craft-published-content-settings-18854990-3a57-4e77-b373-e635ff7095f3/002-6cf97053-5f9a-4d33-9b45-863a96f5090a-downloadableSrc-f1cbec0693a5.webp"
+    }
+  ]
+}

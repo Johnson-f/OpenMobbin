@@ -1,0 +1,69 @@
+{
+  "flowId": "ee4b6fd4-d892-46fb-a7e1-ded106b18871",
+  "flowName": "Logging out",
+  "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+  "appName": "Luma",
+  "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+  "appVersionPublishedAt": "2025-07-21T10:32:07.057Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/luma/068-luma-logging-out-ee4b6fd4-d892-46fb-a7e1-ded106b18871",
+  "screens": [
+    {
+      "flowId": "ee4b6fd4-d892-46fb-a7e1-ded106b18871",
+      "flowName": "Logging out",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 0,
+      "index": 1,
+      "screenId": "971f99ce-9a19-4924-8b0d-1a97f397f01d",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "58146",
+      "bytes": 58146,
+      "sha256": "22161d73e6e02b5b952dc116441393ec82233f6cdc509fd478770b81fd0b3e20",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/068-luma-logging-out-ee4b6fd4-d892-46fb-a7e1-ded106b18871/001-971f99ce-9a19-4924-8b0d-1a97f397f01d-downloadableSrc-22161d73e6e0.webp"
+    },
+    {
+      "flowId": "ee4b6fd4-d892-46fb-a7e1-ded106b18871",
+      "flowName": "Logging out",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 1,
+      "index": 2,
+      "screenId": "baf3bb8f-55bf-4df0-adc6-7a620a06f9e5",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "60638",
+      "bytes": 60638,
+      "sha256": "401f0d4a250b39b9a36fb4e5beec51f6862f4fde5dee9643fba66e1435898cb3",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/068-luma-logging-out-ee4b6fd4-d892-46fb-a7e1-ded106b18871/002-baf3bb8f-55bf-4df0-adc6-7a620a06f9e5-downloadableSrc-401f0d4a250b.webp"
+    }
+  ]
+}

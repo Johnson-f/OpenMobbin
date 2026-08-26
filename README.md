@@ -262,6 +262,32 @@ The viewer scans `/Users/user/mobbin-sides/flows`, renders flow-action filters, 
 MOBBIN_EXPORT_ROOT="/path/to/full/mobbin/export/flows" npm run dev
 ```
 
+## Build the Grouped Flow Index
+
+Build a local view organized by flow name, then app:
+
+```bash
+cd /Users/user/mobbin-sides
+node scripts/build-grouped-screen-flows.mjs
+```
+
+The generated structure is `grouped-flows/<flow-name>/<app>/<original-flow-folder>`. It uses relative symbolic links, so it does not duplicate images or modify `screen-flows`. Each run builds a complete temporary index and replaces the previous generated folder only after the new index succeeds.
+
+## Sync Screen Flows to Eagle
+
+Open the `Mobbin` library in Eagle, then run:
+
+```bash
+cd /Users/user/mobbin-sides
+node scripts/sync-screen-flows-to-eagle.mjs
+```
+
+The command incrementally scans `screen-flows/`, recreates the `Flows / App / Flow` hierarchy, and imports only new image content. Exact duplicate images are stored once and linked to every matching flow through Eagle's folder list, so the sync does not open Eagle's duplicate warning.
+
+The ignored `.eagle-sync-state.json` file caches source and Eagle hashes. Unchanged files are not re-hashed on later runs. The sync treats descendants of `Flows` as managed: obsolete flow links are removed, while links to folders outside `Flows` are preserved. A `mobbin-flow` item with no remaining source reference or external folder link is moved to Eagle Trash, where it remains recoverable. Empty managed flow and app folders are then removed from the bottom up; the `Flows` root is always preserved.
+
+For safety, the command refuses to run while `export-mobbin-flows.mjs` is active. Wait for all flow exports to finish, then run the sync against the completed source snapshot.
+
 Example test:
 
 ```bash

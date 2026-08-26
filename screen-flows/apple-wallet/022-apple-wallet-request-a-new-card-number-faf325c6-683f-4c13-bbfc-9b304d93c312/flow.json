@@ -1,0 +1,69 @@
+{
+  "flowId": "faf325c6-683f-4c13-bbfc-9b304d93c312",
+  "flowName": "Request a new card number",
+  "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+  "appName": "Apple Wallet",
+  "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+  "appVersionPublishedAt": "2026-03-16T10:50:58.120Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-wallet/022-apple-wallet-request-a-new-card-number-faf325c6-683f-4c13-bbfc-9b304d93c312",
+  "screens": [
+    {
+      "flowId": "faf325c6-683f-4c13-bbfc-9b304d93c312",
+      "flowName": "Request a new card number",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 0,
+      "index": 1,
+      "screenId": "717476ca-4ca8-414e-9dfa-889e04ab4113",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "73738",
+      "bytes": 73738,
+      "sha256": "f55086e2cb665d42605a4626ad12fbff1387ede5dd223e4deaeb8d0fb930d9ed",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/022-apple-wallet-request-a-new-card-number-faf325c6-683f-4c13-bbfc-9b304d93c312/001-717476ca-4ca8-414e-9dfa-889e04ab4113-downloadableSrc-f55086e2cb66.webp"
+    },
+    {
+      "flowId": "faf325c6-683f-4c13-bbfc-9b304d93c312",
+      "flowName": "Request a new card number",
+      "appId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+      "appName": "Apple Wallet",
+      "appVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+      "order": 1,
+      "index": 2,
+      "screenId": "784b6c62-29d0-4ec3-bfd3-ad1e040edbd0",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "72306",
+      "bytes": 72306,
+      "sha256": "08dc2b285c0295636c0b3a13f9a4befba9bbbc5d8efce94cd3bb79bfed946bfb",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1206,
+        "height": 2742
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-wallet/022-apple-wallet-request-a-new-card-number-faf325c6-683f-4c13-bbfc-9b304d93c312/002-784b6c62-29d0-4ec3-bfd3-ad1e040edbd0-downloadableSrc-08dc2b285c02.webp"
+    }
+  ]
+}

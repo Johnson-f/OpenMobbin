@@ -1,0 +1,69 @@
+{
+  "flowId": "3926432d-a6cd-4f52-9c9f-a907785a6a02",
+  "flowName": "Completing a reading goal",
+  "appId": "67f29e36-ec97-4a65-8e57-ae5595d1223e",
+  "appName": "Apple Books",
+  "appVersionId": "6f87a791-ad26-4efd-9838-6a9490f01267",
+  "appVersionPublishedAt": "2025-11-10T11:17:24.166Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-books/040-apple-books-completing-a-reading-goal-3926432d-a6cd-4f52-9c9f-a907785a6a02",
+  "screens": [
+    {
+      "flowId": "3926432d-a6cd-4f52-9c9f-a907785a6a02",
+      "flowName": "Completing a reading goal",
+      "appId": "67f29e36-ec97-4a65-8e57-ae5595d1223e",
+      "appName": "Apple Books",
+      "appVersionId": "6f87a791-ad26-4efd-9838-6a9490f01267",
+      "order": 0,
+      "index": 1,
+      "screenId": "8585cf43-ea33-4d3c-8d00-e6e7a566f78b",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "152166",
+      "bytes": 152166,
+      "sha256": "18fd43d1e48e1bbe7b2f9e0906798f92a6d591d76e928b6000a68334b5bba07d",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-books/040-apple-books-completing-a-reading-goal-3926432d-a6cd-4f52-9c9f-a907785a6a02/001-8585cf43-ea33-4d3c-8d00-e6e7a566f78b-downloadableSrc-18fd43d1e48e.webp"
+    },
+    {
+      "flowId": "3926432d-a6cd-4f52-9c9f-a907785a6a02",
+      "flowName": "Completing a reading goal",
+      "appId": "67f29e36-ec97-4a65-8e57-ae5595d1223e",
+      "appName": "Apple Books",
+      "appVersionId": "6f87a791-ad26-4efd-9838-6a9490f01267",
+      "order": 1,
+      "index": 2,
+      "screenId": "a1b0626c-068c-41b1-a224-b1622b40d249",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "75326",
+      "bytes": 75326,
+      "sha256": "12c2079f0663c636e8ba287d704be422403f72e3df216ecff73f5715c12aa731",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-books/040-apple-books-completing-a-reading-goal-3926432d-a6cd-4f52-9c9f-a907785a6a02/002-a1b0626c-068c-41b1-a224-b1622b40d249-downloadableSrc-12c2079f0663.webp"
+    }
+  ]
+}

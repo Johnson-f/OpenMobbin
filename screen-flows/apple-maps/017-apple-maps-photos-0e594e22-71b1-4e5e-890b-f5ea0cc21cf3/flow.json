@@ -1,0 +1,69 @@
+{
+  "flowId": "0e594e22-71b1-4e5e-890b-f5ea0cc21cf3",
+  "flowName": "Photos",
+  "appId": "4687909b-d32d-4007-9fd8-466dc5f982c2",
+  "appName": "Apple Maps",
+  "appVersionId": "b4a4f165-23c6-48d3-86e8-f4bc65da064c",
+  "appVersionPublishedAt": "2025-11-03T09:59:50.021Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-maps/017-apple-maps-photos-0e594e22-71b1-4e5e-890b-f5ea0cc21cf3",
+  "screens": [
+    {
+      "flowId": "0e594e22-71b1-4e5e-890b-f5ea0cc21cf3",
+      "flowName": "Photos",
+      "appId": "4687909b-d32d-4007-9fd8-466dc5f982c2",
+      "appName": "Apple Maps",
+      "appVersionId": "b4a4f165-23c6-48d3-86e8-f4bc65da064c",
+      "order": 0,
+      "index": 1,
+      "screenId": "2fad7799-5b40-4ad4-a9ed-6c35a77b8e4b",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "198948",
+      "bytes": 198948,
+      "sha256": "364e2d7f419e719061bfcd1b8d98ccbc217a73b88dceaecbedfc707f21d15a3a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-maps/017-apple-maps-photos-0e594e22-71b1-4e5e-890b-f5ea0cc21cf3/001-2fad7799-5b40-4ad4-a9ed-6c35a77b8e4b-downloadableSrc-364e2d7f419e.webp"
+    },
+    {
+      "flowId": "0e594e22-71b1-4e5e-890b-f5ea0cc21cf3",
+      "flowName": "Photos",
+      "appId": "4687909b-d32d-4007-9fd8-466dc5f982c2",
+      "appName": "Apple Maps",
+      "appVersionId": "b4a4f165-23c6-48d3-86e8-f4bc65da064c",
+      "order": 1,
+      "index": 2,
+      "screenId": "315b1027-f165-48e4-95d9-f6dede99e276",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "310646",
+      "bytes": 310646,
+      "sha256": "b11eab9388d6adec085adc06a294c6505cd53974f8b47ed732211813cb4c404a",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-maps/017-apple-maps-photos-0e594e22-71b1-4e5e-890b-f5ea0cc21cf3/002-315b1027-f165-48e4-95d9-f6dede99e276-downloadableSrc-b11eab9388d6.webp"
+    }
+  ]
+}

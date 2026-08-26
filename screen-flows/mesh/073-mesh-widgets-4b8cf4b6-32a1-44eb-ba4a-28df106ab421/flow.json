@@ -1,0 +1,69 @@
+{
+  "flowId": "4b8cf4b6-32a1-44eb-ba4a-28df106ab421",
+  "flowName": "Widgets",
+  "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+  "appName": "Mesh",
+  "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+  "appVersionPublishedAt": "2026-08-24T10:35:16.637Z",
+  "platform": "ios",
+  "restricted": false,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/mesh/073-mesh-widgets-4b8cf4b6-32a1-44eb-ba4a-28df106ab421",
+  "screens": [
+    {
+      "flowId": "4b8cf4b6-32a1-44eb-ba4a-28df106ab421",
+      "flowName": "Widgets",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 0,
+      "index": 1,
+      "screenId": "4769b45b-af76-409a-9b9b-6ebcc57c9934",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "54004",
+      "bytes": 54004,
+      "sha256": "45f4133820bac1e251674cecea736a27d388ed63df3b487ef9e36fa398cf2cd4",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/073-mesh-widgets-4b8cf4b6-32a1-44eb-ba4a-28df106ab421/001-4769b45b-af76-409a-9b9b-6ebcc57c9934-downloadableSrc-45f4133820ba.webp"
+    },
+    {
+      "flowId": "4b8cf4b6-32a1-44eb-ba4a-28df106ab421",
+      "flowName": "Widgets",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 1,
+      "index": 2,
+      "screenId": "219dff99-2a03-44a2-9ae6-56ae22b8c5f6",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "44010",
+      "bytes": 44010,
+      "sha256": "5618a0cb0e0d439acebca73029213ad2cf90b9b5e43f38aa57fda8ede499814e",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/073-mesh-widgets-4b8cf4b6-32a1-44eb-ba4a-28df106ab421/002-219dff99-2a03-44a2-9ae6-56ae22b8c5f6-downloadableSrc-5618a0cb0e0d.webp"
+    }
+  ]
+}

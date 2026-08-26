@@ -1,0 +1,69 @@
+{
+  "flowId": "47ed1b77-b74e-46fe-99a6-01bae3936523",
+  "flowName": "Turning off automatic downloads",
+  "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+  "appName": "Apple Podcasts",
+  "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+  "appVersionPublishedAt": "2025-11-03T10:00:56.242Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/032-apple-podcasts-turning-off-automatic-downloads-47ed1b77-b74e-46fe-99a6-01bae3936523",
+  "screens": [
+    {
+      "flowId": "47ed1b77-b74e-46fe-99a6-01bae3936523",
+      "flowName": "Turning off automatic downloads",
+      "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+      "appName": "Apple Podcasts",
+      "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+      "order": 0,
+      "index": 1,
+      "screenId": "18eaa112-a0d2-4fe5-bcec-9e56da5ddb0d",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "126636",
+      "bytes": 126636,
+      "sha256": "61ea8f9c8cf426a3d34c968989faa564d0fdee518e2ead4589e4afddf9be5863",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/032-apple-podcasts-turning-off-automatic-downloads-47ed1b77-b74e-46fe-99a6-01bae3936523/001-18eaa112-a0d2-4fe5-bcec-9e56da5ddb0d-downloadableSrc-61ea8f9c8cf4.webp"
+    },
+    {
+      "flowId": "47ed1b77-b74e-46fe-99a6-01bae3936523",
+      "flowName": "Turning off automatic downloads",
+      "appId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+      "appName": "Apple Podcasts",
+      "appVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+      "order": 1,
+      "index": 2,
+      "screenId": "139a6049-52ba-40ec-8c7d-5da43bba9b15",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "115294",
+      "bytes": 115294,
+      "sha256": "9c87543774954ef872fbb068c9cbf8fd0c405d4aab43fe0c5fc70d99e23b16eb",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-podcasts/032-apple-podcasts-turning-off-automatic-downloads-47ed1b77-b74e-46fe-99a6-01bae3936523/002-139a6049-52ba-40ec-8c7d-5da43bba9b15-downloadableSrc-9c8754377495.webp"
+    }
+  ]
+}

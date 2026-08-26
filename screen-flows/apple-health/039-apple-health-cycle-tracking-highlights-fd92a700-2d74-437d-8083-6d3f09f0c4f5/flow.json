@@ -1,0 +1,69 @@
+{
+  "flowId": "fd92a700-2d74-437d-8083-6d3f09f0c4f5",
+  "flowName": "Cycle tracking highlights",
+  "appId": "76436d76-126b-42ea-a287-9bb453f8d97f",
+  "appName": "Apple Health",
+  "appVersionId": "9b150bfa-4e95-489c-9dc0-4af8396899bf",
+  "appVersionPublishedAt": "2025-10-27T09:38:18.533Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/apple-health/039-apple-health-cycle-tracking-highlights-fd92a700-2d74-437d-8083-6d3f09f0c4f5",
+  "screens": [
+    {
+      "flowId": "fd92a700-2d74-437d-8083-6d3f09f0c4f5",
+      "flowName": "Cycle tracking highlights",
+      "appId": "76436d76-126b-42ea-a287-9bb453f8d97f",
+      "appName": "Apple Health",
+      "appVersionId": "9b150bfa-4e95-489c-9dc0-4af8396899bf",
+      "order": 0,
+      "index": 1,
+      "screenId": "42fc0d65-9435-42ab-ac25-75b6ad9dd20f",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "97386",
+      "bytes": 97386,
+      "sha256": "7ce203154a12e44aa92413fa66fb61c36eb013510dc2c13231e212ebd05ac192",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-health/039-apple-health-cycle-tracking-highlights-fd92a700-2d74-437d-8083-6d3f09f0c4f5/001-42fc0d65-9435-42ab-ac25-75b6ad9dd20f-downloadableSrc-7ce203154a12.webp"
+    },
+    {
+      "flowId": "fd92a700-2d74-437d-8083-6d3f09f0c4f5",
+      "flowName": "Cycle tracking highlights",
+      "appId": "76436d76-126b-42ea-a287-9bb453f8d97f",
+      "appName": "Apple Health",
+      "appVersionId": "9b150bfa-4e95-489c-9dc0-4af8396899bf",
+      "order": 1,
+      "index": 2,
+      "screenId": "714b2804-d54c-4bf0-89c4-b4a25249693d",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "96566",
+      "bytes": 96566,
+      "sha256": "b225a65b16e08ac41307f3d844cc2c49afb2bcd573c6536587f2f260e3b36578",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/apple-health/039-apple-health-cycle-tracking-highlights-fd92a700-2d74-437d-8083-6d3f09f0c4f5/002-714b2804-d54c-4bf0-89c4-b4a25249693d-downloadableSrc-b225a65b16e0.webp"
+    }
+  ]
+}

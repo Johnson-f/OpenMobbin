@@ -1,0 +1,69 @@
+{
+  "flowId": "c1f46671-b896-4aa6-9c43-f431e3c790c6",
+  "flowName": "Searching a contact",
+  "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+  "appName": "Mesh",
+  "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+  "appVersionPublishedAt": "2026-08-24T10:35:16.637Z",
+  "platform": "ios",
+  "restricted": false,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/mesh/008-mesh-searching-a-contact-c1f46671-b896-4aa6-9c43-f431e3c790c6",
+  "screens": [
+    {
+      "flowId": "c1f46671-b896-4aa6-9c43-f431e3c790c6",
+      "flowName": "Searching a contact",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 0,
+      "index": 1,
+      "screenId": "2271b532-63bb-4b33-97a8-09e90ea8222d",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "30610",
+      "bytes": 30610,
+      "sha256": "7b1cf0c2f92261eabae7945dd5f0671a50c86b62cf90c448ba5269dddbabde67",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/008-mesh-searching-a-contact-c1f46671-b896-4aa6-9c43-f431e3c790c6/001-2271b532-63bb-4b33-97a8-09e90ea8222d-downloadableSrc-7b1cf0c2f922.webp"
+    },
+    {
+      "flowId": "c1f46671-b896-4aa6-9c43-f431e3c790c6",
+      "flowName": "Searching a contact",
+      "appId": "0d194a4d-d39e-4bef-90d0-7735fe02a329",
+      "appName": "Mesh",
+      "appVersionId": "c70a8fcb-1742-4c5c-b63e-3aae2ce6dad0",
+      "order": 1,
+      "index": 2,
+      "screenId": "1ab4b64a-07ff-4882-8fe7-95ddc6bcf439",
+      "restricted": false,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "31690",
+      "bytes": 31690,
+      "sha256": "74f6fced451e2d9e47cebcd2644e8bffea28a97251888eeb8a8cc826a6a01b01",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/mesh/008-mesh-searching-a-contact-c1f46671-b896-4aa6-9c43-f431e3c790c6/002-1ab4b64a-07ff-4882-8fe7-95ddc6bcf439-downloadableSrc-74f6fced451e.webp"
+    }
+  ]
+}

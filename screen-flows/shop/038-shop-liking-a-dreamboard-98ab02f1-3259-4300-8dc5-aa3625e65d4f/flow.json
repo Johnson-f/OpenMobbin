@@ -1,0 +1,69 @@
+{
+  "flowId": "98ab02f1-3259-4300-8dc5-aa3625e65d4f",
+  "flowName": "Liking a dreamboard",
+  "appId": "1f1a3d5b-cb65-4c7e-af4b-e4cdf1c03e4d",
+  "appName": "Shop",
+  "appVersionId": "3afc9907-97ef-486c-847c-3749b29b51b0",
+  "appVersionPublishedAt": "2025-07-07T09:59:27.724Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/shop/038-shop-liking-a-dreamboard-98ab02f1-3259-4300-8dc5-aa3625e65d4f",
+  "screens": [
+    {
+      "flowId": "98ab02f1-3259-4300-8dc5-aa3625e65d4f",
+      "flowName": "Liking a dreamboard",
+      "appId": "1f1a3d5b-cb65-4c7e-af4b-e4cdf1c03e4d",
+      "appName": "Shop",
+      "appVersionId": "3afc9907-97ef-486c-847c-3749b29b51b0",
+      "order": 0,
+      "index": 1,
+      "screenId": "fc41c3f8-173a-4c1e-babc-69760fd06487",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "142058",
+      "bytes": 142058,
+      "sha256": "b36033b2de116b33c6aea24972daf1edd8e3bdacc9cf84f6937a33505ea3e895",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1180,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/shop/038-shop-liking-a-dreamboard-98ab02f1-3259-4300-8dc5-aa3625e65d4f/001-fc41c3f8-173a-4c1e-babc-69760fd06487-downloadableSrc-b36033b2de11.webp"
+    },
+    {
+      "flowId": "98ab02f1-3259-4300-8dc5-aa3625e65d4f",
+      "flowName": "Liking a dreamboard",
+      "appId": "1f1a3d5b-cb65-4c7e-af4b-e4cdf1c03e4d",
+      "appName": "Shop",
+      "appVersionId": "3afc9907-97ef-486c-847c-3749b29b51b0",
+      "order": 1,
+      "index": 2,
+      "screenId": "5f2ec321-876b-46c7-bfc5-d178ccb22ae9",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "180844",
+      "bytes": 180844,
+      "sha256": "8c76362d503244db2476de209a428b8dc14a9c977d63f1b81b39f4b2427f1b06",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/shop/038-shop-liking-a-dreamboard-98ab02f1-3259-4300-8dc5-aa3625e65d4f/002-5f2ec321-876b-46c7-bfc5-d178ccb22ae9-downloadableSrc-8c76362d5032.webp"
+    }
+  ]
+}

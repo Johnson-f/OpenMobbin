@@ -1,0 +1,69 @@
+{
+  "flowId": "c186b93d-4002-48cc-a0d8-f0359f8e58ec",
+  "flowName": "View ticket",
+  "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+  "appName": "Luma",
+  "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+  "appVersionPublishedAt": "2025-07-21T10:32:07.057Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/luma/032-luma-view-ticket-c186b93d-4002-48cc-a0d8-f0359f8e58ec",
+  "screens": [
+    {
+      "flowId": "c186b93d-4002-48cc-a0d8-f0359f8e58ec",
+      "flowName": "View ticket",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 0,
+      "index": 1,
+      "screenId": "867a69c9-44c8-4daf-bc71-289ab6bb87ac",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "129954",
+      "bytes": 129954,
+      "sha256": "2195eb3d6955054caef60dfc14985e87ea82552cd915a3ce5d027f550576ab06",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/032-luma-view-ticket-c186b93d-4002-48cc-a0d8-f0359f8e58ec/001-867a69c9-44c8-4daf-bc71-289ab6bb87ac-downloadableSrc-2195eb3d6955.webp"
+    },
+    {
+      "flowId": "c186b93d-4002-48cc-a0d8-f0359f8e58ec",
+      "flowName": "View ticket",
+      "appId": "bead4230-994f-47c2-9311-5049bf7bcace",
+      "appName": "Luma",
+      "appVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+      "order": 1,
+      "index": 2,
+      "screenId": "aa52fbb3-9cc8-40e8-a47c-d50ccc906558",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "117364",
+      "bytes": 117364,
+      "sha256": "cb9b3408dfc2aeb8a356e7b759d5b5370ea338cfdeb7c63b6664e1199cdcb2ac",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/luma/032-luma-view-ticket-c186b93d-4002-48cc-a0d8-f0359f8e58ec/002-aa52fbb3-9cc8-40e8-a47c-d50ccc906558-downloadableSrc-cb9b3408dfc2.webp"
+    }
+  ]
+}

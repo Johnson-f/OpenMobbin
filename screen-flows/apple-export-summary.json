@@ -1,0 +1,181 @@
+{
+  "generatedAt": "2026-08-26T13:32:55.003Z",
+  "apps": 19,
+  "missing": 0,
+  "totalFlows": 909,
+  "totalScreens": 3703,
+  "totalFailed": 0,
+  "rows": [
+    {
+      "app": "Apple Books",
+      "slug": "apple-books",
+      "status": "complete",
+      "flows": 69,
+      "screens": 300,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple COVID 19",
+      "slug": "apple-covid-19",
+      "status": "complete",
+      "flows": 0,
+      "screens": 0,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Fitness",
+      "slug": "apple-fitness",
+      "status": "complete",
+      "flows": 61,
+      "screens": 226,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Games",
+      "slug": "apple-games",
+      "status": "complete",
+      "flows": 24,
+      "screens": 102,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Health",
+      "slug": "apple-health",
+      "status": "complete",
+      "flows": 52,
+      "screens": 268,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Home",
+      "slug": "apple-home",
+      "status": "complete",
+      "flows": 34,
+      "screens": 164,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Invites",
+      "slug": "apple-invites",
+      "status": "complete",
+      "flows": 23,
+      "screens": 127,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Mail",
+      "slug": "apple-mail",
+      "status": "complete",
+      "flows": 54,
+      "screens": 225,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Maps",
+      "slug": "apple-maps",
+      "status": "complete",
+      "flows": 46,
+      "screens": 186,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Music",
+      "slug": "apple-music",
+      "status": "complete",
+      "flows": 74,
+      "screens": 292,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple News",
+      "slug": "apple-news",
+      "status": "complete",
+      "flows": 65,
+      "screens": 218,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Notes",
+      "slug": "apple-notes",
+      "status": "complete",
+      "flows": 76,
+      "screens": 303,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Photos",
+      "slug": "apple-photos",
+      "status": "complete",
+      "flows": 52,
+      "screens": 182,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Podcasts",
+      "slug": "apple-podcasts",
+      "status": "complete",
+      "flows": 64,
+      "screens": 221,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Sports",
+      "slug": "apple-sports",
+      "status": "complete",
+      "flows": 18,
+      "screens": 79,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Store",
+      "slug": "apple-store",
+      "status": "complete",
+      "flows": 63,
+      "screens": 289,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple TV",
+      "slug": "apple-tv",
+      "status": "complete",
+      "flows": 54,
+      "screens": 189,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Wallet",
+      "slug": "apple-wallet",
+      "status": "complete",
+      "flows": 47,
+      "screens": 181,
+      "failed": 0,
+      "tiny": 0
+    },
+    {
+      "app": "Apple Watch",
+      "slug": "apple-watch",
+      "status": "complete",
+      "flows": 33,
+      "screens": 151,
+      "failed": 0,
+      "tiny": 0
+    }
+  ]
+}

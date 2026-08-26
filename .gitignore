@@ -5,6 +5,7 @@ node_modules/
 # Generated Mobbin exports and reports
 favorites/
 flows/
+grouped-flows/
 latest-images/
 latest-reports/
 latest-report
@@ -15,6 +16,7 @@ UI-element-reports/
 *.zip
 *.log
 *.pid
+.eagle-sync-state.json
 
 # Exported media artifacts
 *.webp

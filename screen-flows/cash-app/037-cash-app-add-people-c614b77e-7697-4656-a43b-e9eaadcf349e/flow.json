@@ -1,0 +1,69 @@
+{
+  "flowId": "c614b77e-7697-4656-a43b-e9eaadcf349e",
+  "flowName": "Add people",
+  "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+  "appName": "Cash APP",
+  "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+  "appVersionPublishedAt": "2025-11-24T11:03:09.648Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/cash-app/037-cash-app-add-people-c614b77e-7697-4656-a43b-e9eaadcf349e",
+  "screens": [
+    {
+      "flowId": "c614b77e-7697-4656-a43b-e9eaadcf349e",
+      "flowName": "Add people",
+      "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+      "appName": "Cash APP",
+      "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+      "order": 0,
+      "index": 1,
+      "screenId": "f24cda29-569e-47b1-9e79-15a373089f25",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "37372",
+      "bytes": 37372,
+      "sha256": "fc3c073ca81f80ab1593f001598ce88e6905935f4dc66c3b15c93117dfc22a9d",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1284,
+        "height": 2898
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/cash-app/037-cash-app-add-people-c614b77e-7697-4656-a43b-e9eaadcf349e/001-f24cda29-569e-47b1-9e79-15a373089f25-downloadableSrc-fc3c073ca81f.webp"
+    },
+    {
+      "flowId": "c614b77e-7697-4656-a43b-e9eaadcf349e",
+      "flowName": "Add people",
+      "appId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+      "appName": "Cash APP",
+      "appVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+      "order": 1,
+      "index": 2,
+      "screenId": "91b93e02-c6f8-4c5a-9e13-51601e4e4c41",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "44030",
+      "bytes": 44030,
+      "sha256": "82a1e4a21e60458c8ac0c8487fdc0b26234514d9745bfef7131e493cffd26826",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1284,
+        "height": 2898
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/cash-app/037-cash-app-add-people-c614b77e-7697-4656-a43b-e9eaadcf349e/002-91b93e02-c6f8-4c5a-9e13-51601e4e4c41-downloadableSrc-82a1e4a21e60.webp"
+    }
+  ]
+}

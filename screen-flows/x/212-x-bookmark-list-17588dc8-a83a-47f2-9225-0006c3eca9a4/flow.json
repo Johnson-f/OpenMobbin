@@ -1,0 +1,69 @@
+{
+  "flowId": "17588dc8-a83a-47f2-9225-0006c3eca9a4",
+  "flowName": "Bookmark list",
+  "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+  "appName": "X",
+  "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+  "appVersionPublishedAt": "2026-02-02T10:00:37.442Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x/212-x-bookmark-list-17588dc8-a83a-47f2-9225-0006c3eca9a4",
+  "screens": [
+    {
+      "flowId": "17588dc8-a83a-47f2-9225-0006c3eca9a4",
+      "flowName": "Bookmark list",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 0,
+      "index": 1,
+      "screenId": "917d38af-a1b1-4875-81eb-b554f18b183c",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "36564",
+      "bytes": 36564,
+      "sha256": "bd8587b24fd1293e8a723e3d267216667a929f37481fc494da04c495cf278db2",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/212-x-bookmark-list-17588dc8-a83a-47f2-9225-0006c3eca9a4/001-917d38af-a1b1-4875-81eb-b554f18b183c-downloadableSrc-bd8587b24fd1.webp"
+    },
+    {
+      "flowId": "17588dc8-a83a-47f2-9225-0006c3eca9a4",
+      "flowName": "Bookmark list",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 1,
+      "index": 2,
+      "screenId": "77056385-30ab-4ac4-b99b-17481fcbfdbf",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "83372",
+      "bytes": 83372,
+      "sha256": "a6869b4ed197050051e760da792dfd04d8f27237467d41018fe55702a13732bb",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/212-x-bookmark-list-17588dc8-a83a-47f2-9225-0006c3eca9a4/002-77056385-30ab-4ac4-b99b-17481fcbfdbf-downloadableSrc-a6869b4ed197.webp"
+    }
+  ]
+}

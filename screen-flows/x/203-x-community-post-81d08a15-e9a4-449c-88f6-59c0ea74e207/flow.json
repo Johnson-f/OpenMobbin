@@ -1,0 +1,69 @@
+{
+  "flowId": "81d08a15-e9a4-449c-88f6-59c0ea74e207",
+  "flowName": "Community post",
+  "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+  "appName": "X",
+  "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+  "appVersionPublishedAt": "2026-02-02T10:00:37.442Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x/203-x-community-post-81d08a15-e9a4-449c-88f6-59c0ea74e207",
+  "screens": [
+    {
+      "flowId": "81d08a15-e9a4-449c-88f6-59c0ea74e207",
+      "flowName": "Community post",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 0,
+      "index": 1,
+      "screenId": "ac507463-186e-4980-b8be-24243d691f36",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "225156",
+      "bytes": 225156,
+      "sha256": "33bfd5fa0a8c412e303c0794ccb5b57734e6ec0670fb6c3ce747b97b19a44015",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/203-x-community-post-81d08a15-e9a4-449c-88f6-59c0ea74e207/001-ac507463-186e-4980-b8be-24243d691f36-downloadableSrc-33bfd5fa0a8c.webp"
+    },
+    {
+      "flowId": "81d08a15-e9a4-449c-88f6-59c0ea74e207",
+      "flowName": "Community post",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 1,
+      "index": 2,
+      "screenId": "4b83b586-251c-473e-bbb6-31ec112fa153",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "68328",
+      "bytes": 68328,
+      "sha256": "c2d2d2516c27b434b3b9c2ac787300822bfa5bc4adebcf0a463591f10796a66e",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/203-x-community-post-81d08a15-e9a4-449c-88f6-59c0ea74e207/002-4b83b586-251c-473e-bbb6-31ec112fa153-downloadableSrc-c2d2d2516c27.webp"
+    }
+  ]
+}

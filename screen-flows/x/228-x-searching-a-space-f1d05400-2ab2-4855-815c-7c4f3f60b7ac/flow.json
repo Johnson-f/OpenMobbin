@@ -1,0 +1,69 @@
+{
+  "flowId": "f1d05400-2ab2-4855-815c-7c4f3f60b7ac",
+  "flowName": "Searching a Space",
+  "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+  "appName": "X",
+  "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+  "appVersionPublishedAt": "2026-02-02T10:00:37.442Z",
+  "platform": "ios",
+  "restricted": true,
+  "screenCount": 2,
+  "savedImageCount": 2,
+  "folder": "/Users/user/mobbin-sides/screen-flows/x/228-x-searching-a-space-f1d05400-2ab2-4855-815c-7c4f3f60b7ac",
+  "screens": [
+    {
+      "flowId": "f1d05400-2ab2-4855-815c-7c4f3f60b7ac",
+      "flowName": "Searching a Space",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 0,
+      "index": 1,
+      "screenId": "7410a8a6-cf94-4f11-93e4-d6d798cbf08e",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "120096",
+      "bytes": 120096,
+      "sha256": "62a98b7816e8048119146c5559b57bf0a85e65a89e31f1368cd56c380e75bf9f",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/228-x-searching-a-space-f1d05400-2ab2-4855-815c-7c4f3f60b7ac/001-7410a8a6-cf94-4f11-93e4-d6d798cbf08e-downloadableSrc-62a98b7816e8.webp"
+    },
+    {
+      "flowId": "f1d05400-2ab2-4855-815c-7c4f3f60b7ac",
+      "flowName": "Searching a Space",
+      "appId": "578b626b-f3c2-451f-bb56-592afde35f5b",
+      "appName": "X",
+      "appVersionId": "e73dbbdb-63ef-4d1a-b539-d8a0e5f63a88",
+      "order": 1,
+      "index": 2,
+      "screenId": "c930a31d-fedc-47e7-a91d-e55ad8a39e35",
+      "restricted": true,
+      "descriptor": "downloadableSrc",
+      "status": 200,
+      "contentType": "image/webp",
+      "contentLengthHeader": "120630",
+      "bytes": 120630,
+      "sha256": "d683091862e1e904dc2c6b7602c1af10cada12708223e8e8e7f056cf26b462e3",
+      "dimensions": {
+        "format": "WEBP/VP8",
+        "width": 1179,
+        "height": 2676
+      },
+      "declaredWidth": null,
+      "declaredHeight": null,
+      "urlHost": "bytescale.mobbin.com",
+      "urlPathHash": "f7a1807c1ac98ccf0eecf5078d61346ac9a94ca37a547f5708d580528c9e55c0",
+      "savedPath": "/Users/user/mobbin-sides/screen-flows/x/228-x-searching-a-space-f1d05400-2ab2-4855-815c-7c4f3f60b7ac/002-c930a31d-fedc-47e7-a91d-e55ad8a39e35-downloadableSrc-d683091862e1.webp"
+    }
+  ]
+}
