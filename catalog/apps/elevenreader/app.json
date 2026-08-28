@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "elevenreader",
+  "name": "Eleven Reader",
+  "mobbinAppId": "76fa9e1b-337d-4b3a-92cc-ec566f697c8c",
+  "platform": "ios",
+  "currentVersionId": "1c4ca409-7e55-4df0-97f2-301850c24c49",
+  "versionIds": [
+    "1c4ca409-7e55-4df0-97f2-301850c24c49"
+  ]
+}

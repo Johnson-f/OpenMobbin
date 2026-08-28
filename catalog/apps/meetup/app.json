@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "meetup",
+  "name": "Meetup",
+  "mobbinAppId": "9866ea6d-c9b7-49a5-acb6-1b6e8e8c9cbd",
+  "platform": "ios",
+  "currentVersionId": "f1a4823a-e8cb-43e3-b5de-154b04f6f243",
+  "versionIds": [
+    "f1a4823a-e8cb-43e3-b5de-154b04f6f243"
+  ]
+}

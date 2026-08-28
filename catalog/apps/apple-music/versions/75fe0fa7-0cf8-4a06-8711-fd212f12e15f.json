@@ -1,0 +1,3820 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-27T13:07:59.518Z",
+  "app": {
+    "slug": "apple-music",
+    "name": "Apple Music",
+    "mobbinAppId": "90171ea7-acfd-47e1-b2dc-8e70956e9271",
+    "platform": "ios"
+  },
+  "version": {
+    "mobbinVersionId": "75fe0fa7-0cf8-4a06-8711-fd212f12e15f",
+    "publishedAt": "2025-11-10T11:17:35.808Z"
+  },
+  "flows": [
+    {
+      "mobbinFlowId": "3afd5e80-566c-4c10-b466-ad3a24c4076f",
+      "name": "Onboarding",
+      "group": "onboarding",
+      "position": 1,
+      "screens": [
+        {
+          "mobbinScreenId": "610540a9-3294-4826-be51-40381ec5b64f",
+          "position": 1,
+          "sha256": "78e182beeec5e418a856cb2b890f5214d344b613993abe3dadc1638e62179998",
+          "bytes": 115078,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "78e182beeec5e418a856cb2b890f5214d344b613993abe3dadc1638e62179998:1",
+          "eagleItemId": "MT7E28L4UK8NU"
+        },
+        {
+          "mobbinScreenId": "a89cc223-29e0-4d63-a9b4-bab0991c8f86",
+          "position": 2,
+          "sha256": "0876c039a90a68505f7a2fc79190faa98901ffe3c254a396666346a4429bc8fa",
+          "bytes": 49630,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0876c039a90a68505f7a2fc79190faa98901ffe3c254a396666346a4429bc8fa:2",
+          "eagleItemId": "MT7E28L4CJXD1"
+        },
+        {
+          "mobbinScreenId": "60a50d31-9f20-4d26-90fe-7294bc701a11",
+          "position": 3,
+          "sha256": "04d184964b0a38e6495769760bade27329656241e5a5c3a2add8d8bc2e812729",
+          "bytes": 59574,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "04d184964b0a38e6495769760bade27329656241e5a5c3a2add8d8bc2e812729:3",
+          "eagleItemId": "MT7E28L4RFP0E"
+        },
+        {
+          "mobbinScreenId": "0f72693a-c2f6-4128-ab2d-4cf62b29b21d",
+          "position": 4,
+          "sha256": "de1dcf14f5dc22625cea261b50fbcdc7ea934b718fcb3aba3956fe4b7b68aaba",
+          "bytes": 109584,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "de1dcf14f5dc22625cea261b50fbcdc7ea934b718fcb3aba3956fe4b7b68aaba:4",
+          "eagleItemId": "MT7E28L44AXXL"
+        },
+        {
+          "mobbinScreenId": "aab232d0-a5fb-4b6a-96fe-a1dd5b9fd420",
+          "position": 5,
+          "sha256": "4da130899fb9a8ce8a117a8fa117d0a353c6b5eef328d230e01eaea364e46ace",
+          "bytes": 93104,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "4da130899fb9a8ce8a117a8fa117d0a353c6b5eef328d230e01eaea364e46ace:5",
+          "eagleItemId": "MT7E28L5DHNHS"
+        },
+        {
+          "mobbinScreenId": "45aaf7b7-791f-4ef1-b8c2-59760997cf62",
+          "position": 6,
+          "sha256": "a959d005b1a118959cf2c74e2754a71437b93c34612a822e3394ea4d4b62336c",
+          "bytes": 88258,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "a959d005b1a118959cf2c74e2754a71437b93c34612a822e3394ea4d4b62336c:6",
+          "eagleItemId": "MT7E28L5SVFA9"
+        },
+        {
+          "mobbinScreenId": "534c8a8d-41d1-44c7-ba3d-6f370bef57f3",
+          "position": 7,
+          "sha256": "b198241428aa9b87bf71cb44269d7c9db4ca76a0a5d444f585cd9c242dfb8153",
+          "bytes": 93526,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b198241428aa9b87bf71cb44269d7c9db4ca76a0a5d444f585cd9c242dfb8153:7",
+          "eagleItemId": "MT7E28L5IHH2K"
+        },
+        {
+          "mobbinScreenId": "5899ff76-1018-4405-8298-4ffa1ab72e16",
+          "position": 8,
+          "sha256": "1c627fd52ce1a424bb72437f1aedb9c69b005486f0b9e4d9aed36872a2320fa7",
+          "bytes": 31396,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "1c627fd52ce1a424bb72437f1aedb9c69b005486f0b9e4d9aed36872a2320fa7:8",
+          "eagleItemId": "MT7E28L5D4HI2"
+        },
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 9,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:9",
+          "eagleItemId": "MT7E28L5Y01EU"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "367214bc-b709-471a-b5ac-98955135729f",
+      "name": "Home",
+      "group": "home",
+      "position": 2,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "8ac52553-9b44-4a21-ab69-b32c0735cc88",
+          "position": 2,
+          "sha256": "1b0230ed701e9c7dc69d4852f4431f5ab0536cf941037a4195e400a4d6cbb3d0",
+          "bytes": 145982,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "1b0230ed701e9c7dc69d4852f4431f5ab0536cf941037a4195e400a4d6cbb3d0:2",
+          "eagleItemId": "MT7E28L70DNVL"
+        },
+        {
+          "mobbinScreenId": "b936aa8f-0124-4283-ad21-9d9b602fb7b1",
+          "position": 3,
+          "sha256": "c815a5fba7277b64b55373f78a7447709060bce85ce752d7904752d81b6c0a8e",
+          "bytes": 178562,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c815a5fba7277b64b55373f78a7447709060bce85ce752d7904752d81b6c0a8e:3",
+          "eagleItemId": "MT7E28L7E581G"
+        },
+        {
+          "mobbinScreenId": "2c60ded1-770d-4748-b7d8-1c8bf29580d7",
+          "position": 4,
+          "sha256": "fe56bee27e8e0cb910b840b3262944ce81320153ec9c4d8e6b112619b3861891",
+          "bytes": 212834,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fe56bee27e8e0cb910b840b3262944ce81320153ec9c4d8e6b112619b3861891:4",
+          "eagleItemId": "MT7E28L8KYXO3"
+        },
+        {
+          "mobbinScreenId": "90ea4184-4aee-4a14-b11a-17556721b740",
+          "position": 5,
+          "sha256": "305842be7ee40ee0b7f80ba1863aad9a75a7d15960edfed9c0657596cd98e1fc",
+          "bytes": 174772,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "305842be7ee40ee0b7f80ba1863aad9a75a7d15960edfed9c0657596cd98e1fc:5",
+          "eagleItemId": "MT7E28L8RVFGS"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "b4df0602-48b2-41b7-83a8-c352ffadf658",
+      "name": "Transfer music & playlists",
+      "group": "transfer-music-and-playlists",
+      "position": 3,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "4215852c-6e2a-424f-a8b9-5bd2e3a26f9a",
+          "position": 2,
+          "sha256": "1736eebe3b08aa238b795e39cfd4c31d7f1872672f4dac533a32c58527b85c0d",
+          "bytes": 95234,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "1736eebe3b08aa238b795e39cfd4c31d7f1872672f4dac533a32c58527b85c0d:2",
+          "eagleItemId": "MT7E28LCX0GWL"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "dd779492-aec3-4758-9a77-00dd416e5b4a",
+      "name": "Replay",
+      "group": "replay",
+      "position": 4,
+      "screens": [
+        {
+          "mobbinScreenId": "90ea4184-4aee-4a14-b11a-17556721b740",
+          "position": 1,
+          "sha256": "305842be7ee40ee0b7f80ba1863aad9a75a7d15960edfed9c0657596cd98e1fc",
+          "bytes": 174772,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "305842be7ee40ee0b7f80ba1863aad9a75a7d15960edfed9c0657596cd98e1fc:1",
+          "eagleItemId": "MTBJ2RNWA4X3C"
+        },
+        {
+          "mobbinScreenId": "93f7c217-7651-43a4-a182-8df7a1544c1c",
+          "position": 2,
+          "sha256": "cd309bd9e56f65f38e186e65298c792d012f68dfa8dea6201dc34f1a62d5062d",
+          "bytes": 60630,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd309bd9e56f65f38e186e65298c792d012f68dfa8dea6201dc34f1a62d5062d:2",
+          "eagleItemId": "MT7E28L9STT82"
+        },
+        {
+          "mobbinScreenId": "f636d313-5c59-48d8-b146-15a251ced7dc",
+          "position": 3,
+          "sha256": "7c5b8c077dbf99f71c4d2952db87d58a261727950d81277baf5916a3a37c55d7",
+          "bytes": 163508,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7c5b8c077dbf99f71c4d2952db87d58a261727950d81277baf5916a3a37c55d7:3",
+          "eagleItemId": "MT7E28L97C12U"
+        },
+        {
+          "mobbinScreenId": "1c8aba2c-e279-4135-915d-05f977506724",
+          "position": 4,
+          "sha256": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68",
+          "bytes": 171326,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68:4",
+          "eagleItemId": "MT7E28L9JHYIK"
+        },
+        {
+          "mobbinScreenId": "ec5c8c61-7012-416a-b2b0-52ae8993d2f9",
+          "position": 5,
+          "sha256": "3025921d5b546cec51a9dc8f5fa50f8941a756865d0519f326c8b56d427f7230",
+          "bytes": 147932,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3025921d5b546cec51a9dc8f5fa50f8941a756865d0519f326c8b56d427f7230:5",
+          "eagleItemId": "MT7E28LAZDBJP"
+        },
+        {
+          "mobbinScreenId": "41ce0f18-2531-4eda-bb98-00de8eb07ba9",
+          "position": 6,
+          "sha256": "e499dc3c17b7372f9a9739529048a4ced3fc02fb0fc97b46bc5111865c0cce22",
+          "bytes": 107160,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e499dc3c17b7372f9a9739529048a4ced3fc02fb0fc97b46bc5111865c0cce22:6",
+          "eagleItemId": "MT7E28LAX8RX3"
+        },
+        {
+          "mobbinScreenId": "9a2d7a0e-13fd-49a5-a3a9-e9bf6e121af6",
+          "position": 7,
+          "sha256": "3401ef8b58fef8f62c87aefcf8fa95fc87cdbbff66fa76bce7c0957952b9cce7",
+          "bytes": 96678,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3401ef8b58fef8f62c87aefcf8fa95fc87cdbbff66fa76bce7c0957952b9cce7:7",
+          "eagleItemId": "MT7E28LAD089V"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "15004d58-87c4-4650-b09f-a725698963b6",
+      "name": "Switching year",
+      "group": "switching-year",
+      "position": 5,
+      "screens": [
+        {
+          "mobbinScreenId": "1c8aba2c-e279-4135-915d-05f977506724",
+          "position": 1,
+          "sha256": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68",
+          "bytes": 171326,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68:1",
+          "eagleItemId": "MTBJ3BF39SXTR"
+        },
+        {
+          "mobbinScreenId": "efea4dd9-19cc-494e-b87f-db283ca54b7a",
+          "position": 2,
+          "sha256": "4ecb9dedb453d2d5ec29e461da253941a4ad25c3b5eb1318180d8c5e72c38fa7",
+          "bytes": 160614,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "4ecb9dedb453d2d5ec29e461da253941a4ad25c3b5eb1318180d8c5e72c38fa7:2",
+          "eagleItemId": "MT7E28LHX64IR"
+        },
+        {
+          "mobbinScreenId": "5a4dd146-ecb5-42a4-8889-a1a3ab796c9d",
+          "position": 3,
+          "sha256": "5602213bef971042029d253852540cfd5f9120eca16635d8e1fd31dd19f1a76f",
+          "bytes": 114158,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5602213bef971042029d253852540cfd5f9120eca16635d8e1fd31dd19f1a76f:3",
+          "eagleItemId": "MT7E28LHKDS27"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "c71ce6ab-026f-4c08-9553-fd90c9773038",
+      "name": "Playing a highlight reel",
+      "group": "playing-a-highlight-reel",
+      "position": 6,
+      "screens": [
+        {
+          "mobbinScreenId": "5a4dd146-ecb5-42a4-8889-a1a3ab796c9d",
+          "position": 1,
+          "sha256": "5602213bef971042029d253852540cfd5f9120eca16635d8e1fd31dd19f1a76f",
+          "bytes": 114158,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5602213bef971042029d253852540cfd5f9120eca16635d8e1fd31dd19f1a76f:1",
+          "eagleItemId": "MTBJ4T4MIRR89"
+        },
+        {
+          "mobbinScreenId": "5f99995b-f3eb-4aa8-851c-b06feee6656e",
+          "position": 2,
+          "sha256": "d8952c8c805b4963e744a839c73753916c720fa64989e8415876c5ab1997442b",
+          "bytes": 34308,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d8952c8c805b4963e744a839c73753916c720fa64989e8415876c5ab1997442b:2",
+          "eagleItemId": "MT7E28LKSWNDZ"
+        },
+        {
+          "mobbinScreenId": "a9ad905f-120e-4ead-b895-8f1d63fb40ad",
+          "position": 3,
+          "sha256": "5d74877a58d32c4c7605623183fc9cf4f9054913cfffa43f530ed7c2717d8bdc",
+          "bytes": 147726,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5d74877a58d32c4c7605623183fc9cf4f9054913cfffa43f530ed7c2717d8bdc:3",
+          "eagleItemId": "MT7E28LKLQVYE"
+        },
+        {
+          "mobbinScreenId": "d4ed4c0c-1f7d-4c14-bf8a-45c913e0ca49",
+          "position": 4,
+          "sha256": "59d2256d05f729303b9b67201179d30fabd2b21b488ae22e94455cea7ee67bda",
+          "bytes": 166864,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "59d2256d05f729303b9b67201179d30fabd2b21b488ae22e94455cea7ee67bda:4",
+          "eagleItemId": "MT7E28LKVUBBX"
+        },
+        {
+          "mobbinScreenId": "920b2af5-cd88-482d-b480-4f0a6c1a288b",
+          "position": 5,
+          "sha256": "d7228b6a204c48d1095d0b9b7f808d56049344043193a760b7aca8331b91acd8",
+          "bytes": 106346,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d7228b6a204c48d1095d0b9b7f808d56049344043193a760b7aca8331b91acd8:5",
+          "eagleItemId": "MT7E28LK919HH"
+        },
+        {
+          "mobbinScreenId": "332a0a43-69dc-4730-b688-35a72566f562",
+          "position": 6,
+          "sha256": "85230a9ed68eda2311d86f5cdd616ced402bdf43cdd4df581e6cf57854d35675",
+          "bytes": 48328,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "85230a9ed68eda2311d86f5cdd616ced402bdf43cdd4df581e6cf57854d35675:6",
+          "eagleItemId": "MT7E28LLHOEF7"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "a6e550cb-0198-4ab5-b10d-1920be9d3312",
+      "name": "Top artists",
+      "group": "top-artists",
+      "position": 7,
+      "screens": [
+        {
+          "mobbinScreenId": "1c8aba2c-e279-4135-915d-05f977506724",
+          "position": 1,
+          "sha256": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68",
+          "bytes": 171326,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3b5aa87d06eaed52203125a2dba85ba96be9300c5892342ee343f8196435eb68:1",
+          "eagleItemId": "MTBJ3BF39SXTR"
+        },
+        {
+          "mobbinScreenId": "2421b776-96cf-46ee-ae68-99d8a60d8653",
+          "position": 2,
+          "sha256": "aeae5e605c3f947afc1f8f283c1143e0db8790a9fa79efe6b279cc49ed92048e",
+          "bytes": 109792,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "aeae5e605c3f947afc1f8f283c1143e0db8790a9fa79efe6b279cc49ed92048e:2",
+          "eagleItemId": "MT7E28LMATTJG"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "819adf2e-1b5b-4377-9427-0fcf15bb216a",
+      "name": "Milestones",
+      "group": "milestones",
+      "position": 8,
+      "screens": [
+        {
+          "mobbinScreenId": "41ce0f18-2531-4eda-bb98-00de8eb07ba9",
+          "position": 1,
+          "sha256": "e499dc3c17b7372f9a9739529048a4ced3fc02fb0fc97b46bc5111865c0cce22",
+          "bytes": 107160,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e499dc3c17b7372f9a9739529048a4ced3fc02fb0fc97b46bc5111865c0cce22:1",
+          "eagleItemId": "MTBJE2KKEQFZC"
+        },
+        {
+          "mobbinScreenId": "53584c7f-d7f9-419d-a565-a17c2dc2e444",
+          "position": 2,
+          "sha256": "207abb6c9cfbd45b105823b49fa25d13a6bef1cdb27195a35cc44db2d060c31c",
+          "bytes": 153690,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "207abb6c9cfbd45b105823b49fa25d13a6bef1cdb27195a35cc44db2d060c31c:2",
+          "eagleItemId": "MT7E28LOJVX8H"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "65b1f130-8ad3-4def-a305-5380cf78b0a5",
+      "name": "New",
+      "group": "new",
+      "position": 9,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "8a6f3d06-2d50-42bd-84c6-d50757dbd995",
+          "position": 2,
+          "sha256": "d1edfa220a12a7b1ef517a8b253747d81ad6d93e0a8e35cb4c84f729f538995e",
+          "bytes": 159158,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d1edfa220a12a7b1ef517a8b253747d81ad6d93e0a8e35cb4c84f729f538995e:2",
+          "eagleItemId": "MT7E28LP59VAS"
+        },
+        {
+          "mobbinScreenId": "5c79bb05-539c-4599-a4d9-10d3eae073c2",
+          "position": 3,
+          "sha256": "219eb02e6587d44d15812223df9b480d825f2b51f5edfc107566c5222885614a",
+          "bytes": 157496,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "219eb02e6587d44d15812223df9b480d825f2b51f5edfc107566c5222885614a:3",
+          "eagleItemId": "MT7E28LQ42HA2"
+        },
+        {
+          "mobbinScreenId": "3d34a415-571a-48ec-a251-794b75407811",
+          "position": 4,
+          "sha256": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d",
+          "bytes": 194508,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d:4",
+          "eagleItemId": "MT7E28LQG5MMU"
+        },
+        {
+          "mobbinScreenId": "4d1e5e40-97bf-45ea-af76-a566a817c919",
+          "position": 5,
+          "sha256": "ca4e4ee1b571cb2d0397743620f724bca31932c8eb7f65d20aa4645c2bb9806d",
+          "bytes": 221060,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ca4e4ee1b571cb2d0397743620f724bca31932c8eb7f65d20aa4645c2bb9806d:5",
+          "eagleItemId": "MT7E28LQFP6UC"
+        },
+        {
+          "mobbinScreenId": "2ed035ce-f227-4f64-9a7d-cc0775b3b100",
+          "position": 6,
+          "sha256": "5acb7e8e490f7b1a3851b3733aba10ce61e5af0e8dde8285c4c018b553121f22",
+          "bytes": 216554,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5acb7e8e490f7b1a3851b3733aba10ce61e5af0e8dde8285c4c018b553121f22:6",
+          "eagleItemId": "MT7E28LQMN6R4"
+        },
+        {
+          "mobbinScreenId": "f7811d48-3df5-4984-b420-82d0cd75f0d0",
+          "position": 7,
+          "sha256": "947bd261fa49aec1bac081f38a481ccf5e9bbdfba336fa0d31c0625fbe0da3cd",
+          "bytes": 188160,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947bd261fa49aec1bac081f38a481ccf5e9bbdfba336fa0d31c0625fbe0da3cd:7",
+          "eagleItemId": "MT7E28LQ0KGNO"
+        },
+        {
+          "mobbinScreenId": "8c9a4984-d2c0-43b6-bb18-828aedf8aa32",
+          "position": 8,
+          "sha256": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318",
+          "bytes": 144444,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318:8",
+          "eagleItemId": "MT7E28LRQSHVU"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "49c3f48d-5a60-4fa7-885e-15a921569f88",
+      "name": "Featured album",
+      "group": "featured-album",
+      "position": 10,
+      "screens": [
+        {
+          "mobbinScreenId": "5c79bb05-539c-4599-a4d9-10d3eae073c2",
+          "position": 1,
+          "sha256": "219eb02e6587d44d15812223df9b480d825f2b51f5edfc107566c5222885614a",
+          "bytes": 157496,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "219eb02e6587d44d15812223df9b480d825f2b51f5edfc107566c5222885614a:1",
+          "eagleItemId": "MTBJ1VRXUCCMD"
+        },
+        {
+          "mobbinScreenId": "0aa8385e-8b06-4114-a2e1-034ccbcefd28",
+          "position": 2,
+          "sha256": "99d3051e898fc510716c94888553275029d4dc4f27144edcf6d7af4b3a93f214",
+          "bytes": 267956,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "99d3051e898fc510716c94888553275029d4dc4f27144edcf6d7af4b3a93f214:2",
+          "eagleItemId": "MT7E28LSF36DR"
+        },
+        {
+          "mobbinScreenId": "6131b658-0875-4a7a-8c1c-dc7b047b7bb1",
+          "position": 3,
+          "sha256": "be795c825e443110186f3288e85d6576a915419da29614163eb0cc5af01761d5",
+          "bytes": 349026,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "be795c825e443110186f3288e85d6576a915419da29614163eb0cc5af01761d5:3",
+          "eagleItemId": "MT7E28LSN7YSJ"
+        },
+        {
+          "mobbinScreenId": "be1fba82-5da3-48c8-b9fe-f627a31b78c9",
+          "position": 4,
+          "sha256": "08d7c4dab75a74c258871d9048921fca3cd507828a98733b4162a73130372406",
+          "bytes": 248710,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "08d7c4dab75a74c258871d9048921fca3cd507828a98733b4162a73130372406:4",
+          "eagleItemId": "MT7E28LTOI4GA"
+        },
+        {
+          "mobbinScreenId": "c6f9663b-e399-48d8-b700-0389cacad861",
+          "position": 5,
+          "sha256": "3aa3720cc5e8ca3106e500f3835da067ae93ac5e3de57897b2d21540504f8e49",
+          "bytes": 322382,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3aa3720cc5e8ca3106e500f3835da067ae93ac5e3de57897b2d21540504f8e49:5",
+          "eagleItemId": "MT7E28LTOBZSE"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "829b86ed-4c0f-4caf-be76-9fc610b4b686",
+      "name": "Latest songs",
+      "group": "latest-songs",
+      "position": 11,
+      "screens": [
+        {
+          "mobbinScreenId": "3d34a415-571a-48ec-a251-794b75407811",
+          "position": 1,
+          "sha256": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d",
+          "bytes": 194508,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d:1",
+          "eagleItemId": "MTBJ5KN772VVV"
+        },
+        {
+          "mobbinScreenId": "3dc82c55-bb68-49a4-bdfa-2f71f2b8a90e",
+          "position": 2,
+          "sha256": "f99fb537cf3c0ed9586fc1d804b0d3332198ad2c2b3c7fe5da85f0476e208bec",
+          "bytes": 140522,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f99fb537cf3c0ed9586fc1d804b0d3332198ad2c2b3c7fe5da85f0476e208bec:2",
+          "eagleItemId": "MT7E28LU4YZ90"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "3d221445-187d-4d5a-b903-10bd2d57726c",
+      "name": "Playing a song",
+      "group": "playing-a-song",
+      "position": 12,
+      "screens": [
+        {
+          "mobbinScreenId": "3d34a415-571a-48ec-a251-794b75407811",
+          "position": 1,
+          "sha256": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d",
+          "bytes": 194508,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "622934e8a6338c0931cd7355f7ff51ba7794eb7677de22bc0c589ed9a25d6f0d:1",
+          "eagleItemId": "MTBJ5KN772VVV"
+        },
+        {
+          "mobbinScreenId": "3740859e-1d83-4ef4-a58d-5f17fade4378",
+          "position": 2,
+          "sha256": "4a219c03495785511f903568b3d797b2b97aa1b5ad4be4c570b2dacedb6274d8",
+          "bytes": 216496,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "4a219c03495785511f903568b3d797b2b97aa1b5ad4be4c570b2dacedb6274d8:2",
+          "eagleItemId": "MT7E28LV285ZT"
+        },
+        {
+          "mobbinScreenId": "c2f55287-b96b-4df0-9e13-de58b7400eb0",
+          "position": 3,
+          "sha256": "b025b2b09e519ae4ff2eb5eee0715516df56b9a8417f6a0c05c8bc59ff58ba01",
+          "bytes": 68980,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b025b2b09e519ae4ff2eb5eee0715516df56b9a8417f6a0c05c8bc59ff58ba01:3",
+          "eagleItemId": "MT7E28LVSR3VE"
+        },
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 4,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:4",
+          "eagleItemId": "MT7E28LW7SA7W"
+        },
+        {
+          "mobbinScreenId": "d4df9c1d-7006-4d78-87e2-852058c3ec53",
+          "position": 5,
+          "sha256": "7ce25134357d9a33581131fc562d7067449f4580a86c6c8197a7cdc132a3b51c",
+          "bytes": 56576,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7ce25134357d9a33581131fc562d7067449f4580a86c6c8197a7cdc132a3b51c:5",
+          "eagleItemId": "MT7E28LWQBMCM"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "3300304c-440b-4c31-96c5-c0b9f6870257",
+      "name": "Adjusting vocal volume",
+      "group": "adjusting-vocal-volume",
+      "position": 13,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "d36c3dea-5c6e-4088-aaed-40d79b6407e3",
+          "position": 2,
+          "sha256": "bf60c1780fa9cac443f518bef1bf506689e3855655264fba4e6d6b88395164b1",
+          "bytes": 55222,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bf60c1780fa9cac443f518bef1bf506689e3855655264fba4e6d6b88395164b1:2",
+          "eagleItemId": "MT7E28LYZP18J"
+        },
+        {
+          "mobbinScreenId": "d4a6d414-51a2-4b37-8a3a-aa279a037e0f",
+          "position": 3,
+          "sha256": "5109d38394d0ea9c60a9960bf1c808f3c70a711833d3dfab4fd785c6d971fe63",
+          "bytes": 61368,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5109d38394d0ea9c60a9960bf1c808f3c70a711833d3dfab4fd785c6d971fe63:3",
+          "eagleItemId": "MT7E28LYADICM"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "c30f2a92-28ac-4ade-a9b7-431ff688609f",
+      "name": "Hiding lyrics",
+      "group": "hiding-lyrics",
+      "position": 14,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "c2cbe777-b220-4f75-9872-d536ffce2da1",
+          "position": 2,
+          "sha256": "18d10251b262501f0df30ac69b25937bf55cfd05ba3845ba805801972373eb30",
+          "bytes": 119340,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "18d10251b262501f0df30ac69b25937bf55cfd05ba3845ba805801972373eb30:2",
+          "eagleItemId": "MT7E28M0L4XJ3"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "2dc5980e-9a7a-47fc-9a97-096449a69f00",
+      "name": "Select sound output",
+      "group": "select-sound-output",
+      "position": 15,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "6b829c48-c9b5-42ae-941e-43b5f49b47dd",
+          "position": 2,
+          "sha256": "b5556fe28ad1c3f5877090be34038c54a58107d2321292f6ae123cb11c82f4cd",
+          "bytes": 63076,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b5556fe28ad1c3f5877090be34038c54a58107d2321292f6ae123cb11c82f4cd:2",
+          "eagleItemId": "MT7E28M1RZ330"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "279cb2ae-0acf-4e94-8f39-0d875d48459b",
+      "name": "Queue",
+      "group": "queue",
+      "position": 16,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "e495e3ba-7040-4804-80a4-ee6b4967e504",
+          "position": 2,
+          "sha256": "6a53418756e3523b21d449ea9b5b7e4d6be0984b6744f65b6e42d7b360ddcf00",
+          "bytes": 98918,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6a53418756e3523b21d449ea9b5b7e4d6be0984b6744f65b6e42d7b360ddcf00:2",
+          "eagleItemId": "MT7E28M3XVNAI"
+        },
+        {
+          "mobbinScreenId": "1ff809d9-009d-4d42-acb6-0d3db2680eab",
+          "position": 3,
+          "sha256": "d987170451f2cc3019d7122560dd8a4a04d55e4c3aab7656c453c5ff0c87e2ba",
+          "bytes": 83620,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d987170451f2cc3019d7122560dd8a4a04d55e4c3aab7656c453c5ff0c87e2ba:3",
+          "eagleItemId": "MT7E28M4VSSHH"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "8a391b55-357b-4f69-88cf-7b0202a7d44d",
+      "name": "Adding to library",
+      "group": "adding-to-library",
+      "position": 17,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 2,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:2",
+          "eagleItemId": "MT7E28M5AQ4FF"
+        },
+        {
+          "mobbinScreenId": "9497991d-708e-4882-9da8-e9ca913eb16d",
+          "position": 3,
+          "sha256": "fd52964c5b567415a28f0f920d1d12fa46f796b9825d6bea2b7271658740123c",
+          "bytes": 56178,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fd52964c5b567415a28f0f920d1d12fa46f796b9825d6bea2b7271658740123c:3",
+          "eagleItemId": "MT7E28M6IN6JQ"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "55f01f7a-2a18-4d7b-8fcf-c4920c19a0ef",
+      "name": "Favoriting a song",
+      "group": "favoriting-a-song",
+      "position": 18,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "0256b816-6004-4fac-8f40-85bfb72f7b7e",
+          "position": 2,
+          "sha256": "0d78ccf70e2c32b2cf1772963856d64cec5074f2a2c1a55861a6bea40795afff",
+          "bytes": 62848,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d78ccf70e2c32b2cf1772963856d64cec5074f2a2c1a55861a6bea40795afff:2",
+          "eagleItemId": "MT7E28MEIXBZ0"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "f16271f0-28a4-4894-b874-aa802efb12af",
+      "name": "Share a song",
+      "group": "share-a-song",
+      "position": 19,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "b92d1564-3388-4acb-8f0a-f2138b75de65",
+          "position": 2,
+          "sha256": "71212b400d4c9c75777f32f2d6ee2cc1cb7ab00d42039136e8345791926683cf",
+          "bytes": 103450,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "71212b400d4c9c75777f32f2d6ee2cc1cb7ab00d42039136e8345791926683cf:2",
+          "eagleItemId": "MT7E28MH9CN6H"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "f5c27974-3d0f-4cac-9acd-c51520f16bf1",
+      "name": "Adding to a playlist",
+      "group": "adding-to-a-playlist",
+      "position": 20,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "606fe8e5-ecf8-499b-84ad-a2708072c8cf",
+          "position": 2,
+          "sha256": "1511dbc05a6863ce89120d2b44dcfeb27ea02f83be0380dc1abc04e677284f1e",
+          "bytes": 26034,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "1511dbc05a6863ce89120d2b44dcfeb27ea02f83be0380dc1abc04e677284f1e:2",
+          "eagleItemId": "MT7E28MINFZRL"
+        },
+        {
+          "mobbinScreenId": "3a020c85-f4f1-42b5-a16a-8dac7c0b44e1",
+          "position": 3,
+          "sha256": "6e35284832a8363a85420a9c186a6b77469e74408511927a7ae83690af61fc95",
+          "bytes": 56420,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6e35284832a8363a85420a9c186a6b77469e74408511927a7ae83690af61fc95:3",
+          "eagleItemId": "MT7E28MIMX1BV"
+        },
+        {
+          "mobbinScreenId": "20cd7d9a-77b7-412b-9581-a71b35bdb00f",
+          "position": 4,
+          "sha256": "03e01cd5718b24df09a1b7d1ba5d0d8f658c84d759b321d0694f41462c6e4b81",
+          "bytes": 54084,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "03e01cd5718b24df09a1b7d1ba5d0d8f658c84d759b321d0694f41462c6e4b81:4",
+          "eagleItemId": "MT7E28MI9AFRP"
+        },
+        {
+          "mobbinScreenId": "f480fe3d-d417-411f-bff5-aeaabc3bcd56",
+          "position": 5,
+          "sha256": "172a96a36d6a896b24a1394d8cb1af8495e7fa342ca87e2bf5cd5004f45388a8",
+          "bytes": 56048,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "172a96a36d6a896b24a1394d8cb1af8495e7fa342ca87e2bf5cd5004f45388a8:5",
+          "eagleItemId": "MT7E28MJ9OXSZ"
+        },
+        {
+          "mobbinScreenId": "2a461f9d-bec4-4668-9622-7f725516843b",
+          "position": 6,
+          "sha256": "85cf9bb0c63213c1bbe292f8633e434df948bd0d3c75e3a2d347045704f3bd54",
+          "bytes": 33118,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "85cf9bb0c63213c1bbe292f8633e434df948bd0d3c75e3a2d347045704f3bd54:6",
+          "eagleItemId": "MT7E28MJ3LNPY"
+        },
+        {
+          "mobbinScreenId": "cc5e5fd9-cb72-48d6-abb9-1d08aa8b0942",
+          "position": 7,
+          "sha256": "6baf65a6a061aea3c66bb2d9dee2f62e4addabd4481291bb38dd12b77ef257e8",
+          "bytes": 54266,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6baf65a6a061aea3c66bb2d9dee2f62e4addabd4481291bb38dd12b77ef257e8:7",
+          "eagleItemId": "MT7E28MJ45EC8"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "bcdea9c7-5531-409f-ab13-09656b381897",
+      "name": "Creating a station",
+      "group": "creating-a-station",
+      "position": 21,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "d869e223-b0f8-4cec-a965-c1955fe513c6",
+          "position": 2,
+          "sha256": "173f0c2568a4486f26233b62c27793e55ab913e94650f148bd56d3e027b57c92",
+          "bytes": 51178,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "173f0c2568a4486f26233b62c27793e55ab913e94650f148bd56d3e027b57c92:2",
+          "eagleItemId": "MT7E28MMENKL6"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "e9d6e06b-c06d-4647-8749-723ed134801d",
+      "name": "Album detail",
+      "group": "album-detail",
+      "position": 22,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "c76bda04-1024-49ff-99a4-19ea112e6fe3",
+          "position": 2,
+          "sha256": "d5c78e7fdf8c89dc94ed017572b65e0778f209ac0baec67ca989ba6404fe8802",
+          "bytes": 137354,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d5c78e7fdf8c89dc94ed017572b65e0778f209ac0baec67ca989ba6404fe8802:2",
+          "eagleItemId": "MT7E28MNO6S4V"
+        },
+        {
+          "mobbinScreenId": "cbc1732f-d3cb-490a-8392-d2a7cec5acd9",
+          "position": 3,
+          "sha256": "47736723a28fcca67b4f35227a1c95291c015b819bfd24bd6c6e41720ca7d5e8",
+          "bytes": 95114,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "47736723a28fcca67b4f35227a1c95291c015b819bfd24bd6c6e41720ca7d5e8:3",
+          "eagleItemId": "MT7E28MNNEP4R"
+        },
+        {
+          "mobbinScreenId": "2309c3c2-2208-4d78-b8f5-7754acbaeec8",
+          "position": 4,
+          "sha256": "0367b4f12ecad6667ee10a8862bc7b51c02925b00289a7b3e3ecf01a522ba092",
+          "bytes": 165784,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0367b4f12ecad6667ee10a8862bc7b51c02925b00289a7b3e3ecf01a522ba092:4",
+          "eagleItemId": "MT7E28MOWZ66H"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "c226330c-007d-440e-bc7b-fb44bf4125ea",
+      "name": "Deleting from library",
+      "group": "deleting-from-library",
+      "position": 23,
+      "screens": [
+        {
+          "mobbinScreenId": "c76bda04-1024-49ff-99a4-19ea112e6fe3",
+          "position": 1,
+          "sha256": "d5c78e7fdf8c89dc94ed017572b65e0778f209ac0baec67ca989ba6404fe8802",
+          "bytes": 137354,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d5c78e7fdf8c89dc94ed017572b65e0778f209ac0baec67ca989ba6404fe8802:1",
+          "eagleItemId": "MTBJD1UFVGD09"
+        },
+        {
+          "mobbinScreenId": "dd6b851f-d4b0-4288-a32d-f77f3b8e156f",
+          "position": 2,
+          "sha256": "92390520682c7a1fd19d5a40d3dc8c68b3b9e450f4b12c71801d67eebab214f4",
+          "bytes": 113140,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92390520682c7a1fd19d5a40d3dc8c68b3b9e450f4b12c71801d67eebab214f4:2",
+          "eagleItemId": "MT7E28MQKKALK"
+        },
+        {
+          "mobbinScreenId": "2c211a27-d000-451b-8aaf-232a64502ccf",
+          "position": 3,
+          "sha256": "a460a8a4ff1e410c202a73bd4caec74e45262cb2994924506a7d6ce326070f1a",
+          "bytes": 114710,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "a460a8a4ff1e410c202a73bd4caec74e45262cb2994924506a7d6ce326070f1a:3",
+          "eagleItemId": "MT7E28MQEWC1C"
+        },
+        {
+          "mobbinScreenId": "983fe71d-91ab-48bc-86aa-c69c08a6f5ac",
+          "position": 4,
+          "sha256": "74d5a5cc3e8e820cfb6a1e33327945c63e7b9d139184665fb2becb1bdd1be54a",
+          "bytes": 122474,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "74d5a5cc3e8e820cfb6a1e33327945c63e7b9d139184665fb2becb1bdd1be54a:4",
+          "eagleItemId": "MT7E28MRH80S7"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "891b4b06-c06c-4f14-ba8d-6369c9e863a7",
+      "name": "Song credits",
+      "group": "song-credits",
+      "position": 24,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "e809f6a3-8f2b-4a22-9c02-e9a33cdd88ce",
+          "position": 2,
+          "sha256": "65211da369ffb3cb36f86b7001549c5aa006fe3cc8c93225f7cfd0f4ce7ffa70",
+          "bytes": 107190,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "65211da369ffb3cb36f86b7001549c5aa006fe3cc8c93225f7cfd0f4ce7ffa70:2",
+          "eagleItemId": "MT7E28MTBCJOD"
+        },
+        {
+          "mobbinScreenId": "701dfd32-4d54-4805-9faa-3f0f53369b56",
+          "position": 3,
+          "sha256": "c8a1466b3d7aae680d20884950e844315ff3a42a7df87c4f974d2ebe6029347b",
+          "bytes": 105754,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c8a1466b3d7aae680d20884950e844315ff3a42a7df87c4f974d2ebe6029347b:3",
+          "eagleItemId": "MT7E28MTUNLC8"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "e0835677-a285-4555-b6ff-e25b5baca815",
+      "name": "Share lyrics",
+      "group": "share-lyrics",
+      "position": 25,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "857cb328-60ff-4db3-a7bf-15a8baaed97d",
+          "position": 2,
+          "sha256": "ecde13a768348f31ed3ff898256899f6c4ba43aa0e1c044919241a4c57daa0fb",
+          "bytes": 84952,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ecde13a768348f31ed3ff898256899f6c4ba43aa0e1c044919241a4c57daa0fb:2",
+          "eagleItemId": "MT7E28MVFGFG3"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "b35eeb1d-74bd-46e5-98b2-1313919eaca0",
+      "name": "Reporting a concern",
+      "group": "reporting-a-concern",
+      "position": 26,
+      "screens": [
+        {
+          "mobbinScreenId": "2fdb9db9-ee5c-4bf3-8673-853641f4c967",
+          "position": 1,
+          "sha256": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef",
+          "bytes": 64108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "48c659c715b9edff7ed44c4079f610d3356598427e7e2b5579e3f2a4f7f67cef:1",
+          "eagleItemId": "MTBJ40B3A9JYV"
+        },
+        {
+          "mobbinScreenId": "693fb120-8cf0-4db1-9ddb-4872ba7fb549",
+          "position": 2,
+          "sha256": "b2ed2ee1e196ee07a88080864db06733131b0c064c238118354ce9470ed2df0b",
+          "bytes": 68304,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b2ed2ee1e196ee07a88080864db06733131b0c064c238118354ce9470ed2df0b:2",
+          "eagleItemId": "MT7E28MY83Z5J"
+        },
+        {
+          "mobbinScreenId": "a198c028-a1ab-4ad9-a347-73367493eee3",
+          "position": 3,
+          "sha256": "b411efabe7e01a6d65fda7c69266b70f6337704708c9a0f88e0133d0677dc3d1",
+          "bytes": 68898,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b411efabe7e01a6d65fda7c69266b70f6337704708c9a0f88e0133d0677dc3d1:3",
+          "eagleItemId": "MT7E28MYZ77RK"
+        },
+        {
+          "mobbinScreenId": "a5c5547c-6640-41ea-bed4-bb50ae6f3b41",
+          "position": 4,
+          "sha256": "9809af482482b64d23eb35724957b480dff6aaf285661e9b80b38c793cd4b37d",
+          "bytes": 61504,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9809af482482b64d23eb35724957b480dff6aaf285661e9b80b38c793cd4b37d:4",
+          "eagleItemId": "MT7E28MYUQO32"
+        },
+        {
+          "mobbinScreenId": "a52b117c-3fe0-448b-b6dd-0e66506fa159",
+          "position": 5,
+          "sha256": "3b23560238c9e889d9f6b80c944043bb3f537917f1bf484a7d007ea0f68242e4",
+          "bytes": 71942,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3b23560238c9e889d9f6b80c944043bb3f537917f1bf484a7d007ea0f68242e4:5",
+          "eagleItemId": "MT7E28MYPRR7N"
+        },
+        {
+          "mobbinScreenId": "5c60677c-786a-4bac-b4fc-8cadf1750dfe",
+          "position": 6,
+          "sha256": "10f3bcb319eea428ac4b6b94fa9278c81c799ae19c5c1eee0ae22eefedaef011",
+          "bytes": 50654,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "10f3bcb319eea428ac4b6b94fa9278c81c799ae19c5c1eee0ae22eefedaef011:6",
+          "eagleItemId": "MT7E28MZO88F1"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "0c54265b-cb9f-46a4-8abd-6785e8194460",
+      "name": "Artist profile",
+      "group": "artist-profile",
+      "position": 27,
+      "screens": [
+        {
+          "mobbinScreenId": "cb958c7e-d09c-4a3c-95dd-4f14b2dbd066",
+          "position": 1,
+          "sha256": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9",
+          "bytes": 57282,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0d76775b5b882f3e8c781ded73d5c448def28dd8c402a856db49caf89aa570f9:1",
+          "eagleItemId": "MTBJ0CWZ5OWF7"
+        },
+        {
+          "mobbinScreenId": "2c53d974-bdb8-4429-9538-17ac15f9dc05",
+          "position": 2,
+          "sha256": "f327fe637bb9b485d4cdfeaab91f1f08331c17b4e08ee01ad6ffe321d4f1dcfb",
+          "bytes": 54094,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f327fe637bb9b485d4cdfeaab91f1f08331c17b4e08ee01ad6ffe321d4f1dcfb:2",
+          "eagleItemId": "MT7E28N1FS5ZV"
+        },
+        {
+          "mobbinScreenId": "47168de5-de46-4cbf-affd-e56fff961b48",
+          "position": 3,
+          "sha256": "45ab7f44e98f4eabc978ceafd7e8b58e0ff5aedf2f0cd537addab2ecbe68ecb6",
+          "bytes": 155144,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "45ab7f44e98f4eabc978ceafd7e8b58e0ff5aedf2f0cd537addab2ecbe68ecb6:3",
+          "eagleItemId": "MT7E28N1BFCQI"
+        },
+        {
+          "mobbinScreenId": "9641ddc6-837c-44f6-a238-e68c527fc100",
+          "position": 4,
+          "sha256": "3d9ee6a256803e5c792dc52b40cfedc06693d733956fd61b83f343836ccf5af9",
+          "bytes": 165710,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3d9ee6a256803e5c792dc52b40cfedc06693d733956fd61b83f343836ccf5af9:4",
+          "eagleItemId": "MT7E28N1BDVA7"
+        },
+        {
+          "mobbinScreenId": "282b1a86-c724-4251-88fc-6b2504a565b1",
+          "position": 5,
+          "sha256": "b8ead57144aa34a9e57dd9a70ef839cb2a7dfe2ccc742bb6689f0913307d11e8",
+          "bytes": 188678,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b8ead57144aa34a9e57dd9a70ef839cb2a7dfe2ccc742bb6689f0913307d11e8:5",
+          "eagleItemId": "MT7E28N1O5UYM"
+        },
+        {
+          "mobbinScreenId": "9da28625-e2c0-4af9-a5d8-5c275f2059de",
+          "position": 6,
+          "sha256": "ab973752eee6dd0d70853057cd50f5f86cbefa1eb8c2247c990a03539fb27901",
+          "bytes": 214638,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ab973752eee6dd0d70853057cd50f5f86cbefa1eb8c2247c990a03539fb27901:6",
+          "eagleItemId": "MT7E28N2N6TYZ"
+        },
+        {
+          "mobbinScreenId": "8cc144cb-f882-4ddf-877d-0df3bf9fb538",
+          "position": 7,
+          "sha256": "0372c2e6803548b68048fa9502345153b7d3498f9e15ec3fb1cfa8fbd434e556",
+          "bytes": 136416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0372c2e6803548b68048fa9502345153b7d3498f9e15ec3fb1cfa8fbd434e556:7",
+          "eagleItemId": "MT7E28N2BCWPS"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "ad9df7d5-048c-4d6c-9541-daf54421926f",
+      "name": "Watching a video",
+      "group": "watching-a-video",
+      "position": 28,
+      "screens": [
+        {
+          "mobbinScreenId": "f7811d48-3df5-4984-b420-82d0cd75f0d0",
+          "position": 1,
+          "sha256": "947bd261fa49aec1bac081f38a481ccf5e9bbdfba336fa0d31c0625fbe0da3cd",
+          "bytes": 188160,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947bd261fa49aec1bac081f38a481ccf5e9bbdfba336fa0d31c0625fbe0da3cd:1",
+          "eagleItemId": "MTBJ8U0ESLT7P"
+        },
+        {
+          "mobbinScreenId": "078fb907-201e-446e-b624-0999a77e84aa",
+          "position": 2,
+          "sha256": "f3694e3fec3514da81ab284f836674ac5c401360a597dac121c1641bd5912f30",
+          "bytes": 70698,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f3694e3fec3514da81ab284f836674ac5c401360a597dac121c1641bd5912f30:2",
+          "eagleItemId": "MT7E28N4MO6FU"
+        },
+        {
+          "mobbinScreenId": "5a0681ac-ef2a-481d-ae2b-2785dba40a0d",
+          "position": 3,
+          "sha256": "9e3907473f993c76e534b4c253a30400ddc9c35d0cbbec43f4520bde6199d922",
+          "bytes": 32810,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9e3907473f993c76e534b4c253a30400ddc9c35d0cbbec43f4520bde6199d922:3",
+          "eagleItemId": "MT7E28N46WBHN"
+        },
+        {
+          "mobbinScreenId": "6e49f9e3-b63f-4d99-a695-47f3c5221959",
+          "position": 4,
+          "sha256": "80dc392f64fc48375d941923ae11546136552c22d94e92cdd8ea0b475d861533",
+          "bytes": 34950,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "80dc392f64fc48375d941923ae11546136552c22d94e92cdd8ea0b475d861533:4",
+          "eagleItemId": "MT7E28N4MN10S"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "79755c3a-fc3f-4554-ae49-4a66b4c3efe7",
+      "name": "Charts",
+      "group": "charts",
+      "position": 29,
+      "screens": [
+        {
+          "mobbinScreenId": "8c9a4984-d2c0-43b6-bb18-828aedf8aa32",
+          "position": 1,
+          "sha256": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318",
+          "bytes": 144444,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318:1",
+          "eagleItemId": "MTBJBN1JYJ21R"
+        },
+        {
+          "mobbinScreenId": "9ec32722-c5b8-404f-9163-1986c24ce627",
+          "position": 2,
+          "sha256": "5d46655eafa3de14d14906da9b5f29fa0a2819d216bfd14562c90373788e4c52",
+          "bytes": 215844,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5d46655eafa3de14d14906da9b5f29fa0a2819d216bfd14562c90373788e4c52:2",
+          "eagleItemId": "MT7E28N6XMQL5"
+        },
+        {
+          "mobbinScreenId": "d249aade-1464-4df3-aa7a-80d5a5a9aab2",
+          "position": 3,
+          "sha256": "381888a9e7abb0f273c85fe6b5fceac4b7a6e94f5e85b3951f492d8dac37ece7",
+          "bytes": 240434,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "381888a9e7abb0f273c85fe6b5fceac4b7a6e94f5e85b3951f492d8dac37ece7:3",
+          "eagleItemId": "MT7E28N6R0EU4"
+        },
+        {
+          "mobbinScreenId": "589eb7d6-813b-4ba2-a3ab-f8fb941e5796",
+          "position": 4,
+          "sha256": "93188c8ba8bb125ad1f9430265e86142159e022ca29e7a796345771cecc0e857",
+          "bytes": 224126,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "93188c8ba8bb125ad1f9430265e86142159e022ca29e7a796345771cecc0e857:4",
+          "eagleItemId": "MT7E28N6ADTZX"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "a3a01429-d993-416d-9a07-a862951a6bb5",
+      "name": "Filtering charts",
+      "group": "filtering-charts",
+      "position": 30,
+      "screens": [
+        {
+          "mobbinScreenId": "9ec32722-c5b8-404f-9163-1986c24ce627",
+          "position": 1,
+          "sha256": "5d46655eafa3de14d14906da9b5f29fa0a2819d216bfd14562c90373788e4c52",
+          "bytes": 215844,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5d46655eafa3de14d14906da9b5f29fa0a2819d216bfd14562c90373788e4c52:1",
+          "eagleItemId": "MTBJ59RM62JPV"
+        },
+        {
+          "mobbinScreenId": "9c804de5-6d56-4f1a-b77c-4824251ea247",
+          "position": 2,
+          "sha256": "b5dbf5c48f00d80da03949db3a3bcfdf5da8210c7072d04282dafbed734a65b5",
+          "bytes": 112986,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b5dbf5c48f00d80da03949db3a3bcfdf5da8210c7072d04282dafbed734a65b5:2",
+          "eagleItemId": "MT7E28NDHVQCK"
+        },
+        {
+          "mobbinScreenId": "713b4ae4-0a2d-45d5-b9c2-780b678146d3",
+          "position": 3,
+          "sha256": "b8cf700a867070d0c12450d7481c994acebf759def49b26688dafe25d2769eff",
+          "bytes": 173958,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b8cf700a867070d0c12450d7481c994acebf759def49b26688dafe25d2769eff:3",
+          "eagleItemId": "MT7E28NDY744V"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "8c266927-b319-49b8-ab21-c350354571d0",
+      "name": "Browse by genre",
+      "group": "browse-by-genre",
+      "position": 31,
+      "screens": [
+        {
+          "mobbinScreenId": "8c9a4984-d2c0-43b6-bb18-828aedf8aa32",
+          "position": 1,
+          "sha256": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318",
+          "bytes": 144444,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bec233728ba6f422ffd9d137449d38318fb15dc91db77e09b9bd0eef274f1318:1",
+          "eagleItemId": "MTBJBN1JYJ21R"
+        },
+        {
+          "mobbinScreenId": "ce281bd7-e8b5-4e80-96db-3fd4f8ae6452",
+          "position": 2,
+          "sha256": "02463a0b4adcbf4796e38ca4e4ae3de1a0499cafe1f108363839e2ac40ef1bac",
+          "bytes": 167368,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "02463a0b4adcbf4796e38ca4e4ae3de1a0499cafe1f108363839e2ac40ef1bac:2",
+          "eagleItemId": "MT7E28NFX8IG8"
+        },
+        {
+          "mobbinScreenId": "35c773d7-980d-46f3-988c-8984a7a66219",
+          "position": 3,
+          "sha256": "b568168ef30cc045b8852275c72b4cfb752fcfbcfe6d2d6aef394da1c9c9bb98",
+          "bytes": 129222,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b568168ef30cc045b8852275c72b4cfb752fcfbcfe6d2d6aef394da1c9c9bb98:3",
+          "eagleItemId": "MT7E28NFO8XOZ"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "ce40b856-844a-4b82-ba73-63e58f955995",
+      "name": "Radio",
+      "group": "radio",
+      "position": 32,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "ceab8a05-3cbf-46a0-9fa4-6d56352dce9e",
+          "position": 2,
+          "sha256": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5",
+          "bytes": 160324,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5:2",
+          "eagleItemId": "MT7E28NG1D1JM"
+        },
+        {
+          "mobbinScreenId": "c5a03008-9fd6-4eaf-8d23-eb0c8f35016a",
+          "position": 3,
+          "sha256": "fdbc681809fe89e2585ed3b14262b24cebb5d9762f40a7833aaa34ff2cc5ad69",
+          "bytes": 200024,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fdbc681809fe89e2585ed3b14262b24cebb5d9762f40a7833aaa34ff2cc5ad69:3",
+          "eagleItemId": "MT7E28NHFQWB4"
+        },
+        {
+          "mobbinScreenId": "05652fc2-1328-4964-ae1a-2683f29aaddf",
+          "position": 4,
+          "sha256": "89c5a82b2117e7637690c4b6f4d8d79d0516d37c46f8096f62981bb9d88cd366",
+          "bytes": 222824,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "89c5a82b2117e7637690c4b6f4d8d79d0516d37c46f8096f62981bb9d88cd366:4",
+          "eagleItemId": "MT7E28NHX0S9Z"
+        },
+        {
+          "mobbinScreenId": "6821d024-eb52-4fa0-84bd-bb704460a62b",
+          "position": 5,
+          "sha256": "308f3caea352fc0a8653c2967a1fdbeabca7f763b73e27546407f4bc9ebd2ed3",
+          "bytes": 98398,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "308f3caea352fc0a8653c2967a1fdbeabca7f763b73e27546407f4bc9ebd2ed3:5",
+          "eagleItemId": "MT7E28NHCS17M"
+        },
+        {
+          "mobbinScreenId": "53a97bab-2b5e-4cb8-85d6-78c51f995f61",
+          "position": 6,
+          "sha256": "c4f7233a75d84ac602caaea6cf85d1748e38f2bf9a28ce34f0ba54dd6352e411",
+          "bytes": 71562,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c4f7233a75d84ac602caaea6cf85d1748e38f2bf9a28ce34f0ba54dd6352e411:6",
+          "eagleItemId": "MT7E28NIEM81R"
+        },
+        {
+          "mobbinScreenId": "318022f7-207e-4b38-894a-50b3847be0c6",
+          "position": 7,
+          "sha256": "ebaa0f79aa520d28e2ed9626dac695302791dccd5897231ac484563de4c47f82",
+          "bytes": 58532,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ebaa0f79aa520d28e2ed9626dac695302791dccd5897231ac484563de4c47f82:7",
+          "eagleItemId": "MT7E28NI6XE0Y"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "5264dc49-15d5-420d-a1b3-e56d40f8363b",
+      "name": "Playing a live radio",
+      "group": "playing-a-live-radio",
+      "position": 33,
+      "screens": [
+        {
+          "mobbinScreenId": "ceab8a05-3cbf-46a0-9fa4-6d56352dce9e",
+          "position": 1,
+          "sha256": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5",
+          "bytes": 160324,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5:1",
+          "eagleItemId": "MTBJEIM6H145S"
+        },
+        {
+          "mobbinScreenId": "88e450cf-e1b1-4d62-a4ce-af2988757434",
+          "position": 2,
+          "sha256": "75ce8451d3fb0fe6c4e590e001afdf61f65dc7c3b9b0c9afb94d2d18a026cfed",
+          "bytes": 61936,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "75ce8451d3fb0fe6c4e590e001afdf61f65dc7c3b9b0c9afb94d2d18a026cfed:2",
+          "eagleItemId": "MT7E28NMEYQWI"
+        },
+        {
+          "mobbinScreenId": "7dffdd20-1c22-4248-af23-0baeed61bb76",
+          "position": 3,
+          "sha256": "9cb7483e00aff4a006f7112128a38e2f9d26449e53ceb7ca488f2bbd753e2fa2",
+          "bytes": 126106,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9cb7483e00aff4a006f7112128a38e2f9d26449e53ceb7ca488f2bbd753e2fa2:3",
+          "eagleItemId": "MT7E28NMEAQJ2"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "9e4e2cf7-c79e-49d2-89c9-58781fe89c88",
+      "name": "Radio detail",
+      "group": "radio-detail",
+      "position": 34,
+      "screens": [
+        {
+          "mobbinScreenId": "ceab8a05-3cbf-46a0-9fa4-6d56352dce9e",
+          "position": 1,
+          "sha256": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5",
+          "bytes": 160324,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e9d948fc89d6288d25cdd22c99f1cde0de9302442d81c3a1064c37498dc4c6f5:1",
+          "eagleItemId": "MTBJEIM6H145S"
+        },
+        {
+          "mobbinScreenId": "84d9d9e0-5e3a-4692-b43b-7ea8f2f5b2df",
+          "position": 2,
+          "sha256": "54d55e3d6b7bf59e094cb32a6e6a10f3c20d25235b8ad4d20285281eb37364fe",
+          "bytes": 201738,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "54d55e3d6b7bf59e094cb32a6e6a10f3c20d25235b8ad4d20285281eb37364fe:2",
+          "eagleItemId": "MT7E28NUYO50B"
+        },
+        {
+          "mobbinScreenId": "e3aa31f4-7cf5-4941-9cb5-fd9c34e2eb1b",
+          "position": 3,
+          "sha256": "46caabb3b7765df314c25040f55e43dc7d2b83d3795c8a72bc5c05c67a9ca2dd",
+          "bytes": 201016,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "46caabb3b7765df314c25040f55e43dc7d2b83d3795c8a72bc5c05c67a9ca2dd:3",
+          "eagleItemId": "MT7E28NU2QOM9"
+        },
+        {
+          "mobbinScreenId": "cbbe43ca-7694-4f53-bb8b-eda21570c869",
+          "position": 4,
+          "sha256": "fb33b7931b50f35a1751d46a44547eb2182f6f037d91b6312eeae9d6930d09b7",
+          "bytes": 194074,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fb33b7931b50f35a1751d46a44547eb2182f6f037d91b6312eeae9d6930d09b7:4",
+          "eagleItemId": "MT7E28NVS6I4Y"
+        },
+        {
+          "mobbinScreenId": "157f93ac-5261-4da0-90b9-e4493900b211",
+          "position": 5,
+          "sha256": "76a7f9eecab73aa5e792534a9a0bbd9fe03ba2f9f198e91ea40c053da4b92c36",
+          "bytes": 182108,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "76a7f9eecab73aa5e792534a9a0bbd9fe03ba2f9f198e91ea40c053da4b92c36:5",
+          "eagleItemId": "MT7E28NVIBJCJ"
+        },
+        {
+          "mobbinScreenId": "7ccff33b-4781-4c1e-b59c-1203a375fa53",
+          "position": 6,
+          "sha256": "638f1a51ff4a18a15e825c2461f7e422c188cd77dd9b7a6e4b409d04c29c365c",
+          "bytes": 148654,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "638f1a51ff4a18a15e825c2461f7e422c188cd77dd9b7a6e4b409d04c29c365c:6",
+          "eagleItemId": "MT7E28NVVPZ1L"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "e74633a9-6ff2-4629-903d-f81a25fe5f68",
+      "name": "Playing a radio episode",
+      "group": "playing-a-radio-episode",
+      "position": 35,
+      "screens": [
+        {
+          "mobbinScreenId": "84d9d9e0-5e3a-4692-b43b-7ea8f2f5b2df",
+          "position": 1,
+          "sha256": "54d55e3d6b7bf59e094cb32a6e6a10f3c20d25235b8ad4d20285281eb37364fe",
+          "bytes": 201738,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "54d55e3d6b7bf59e094cb32a6e6a10f3c20d25235b8ad4d20285281eb37364fe:1",
+          "eagleItemId": "MTBJ4PYQHQK4M"
+        },
+        {
+          "mobbinScreenId": "1668679b-e09f-43b0-928e-736a7b58dc40",
+          "position": 2,
+          "sha256": "3bc1e0f79b4173b6565581afee1846d0e22854bcdea95c8a0b89615073a58337",
+          "bytes": 213156,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3bc1e0f79b4173b6565581afee1846d0e22854bcdea95c8a0b89615073a58337:2",
+          "eagleItemId": "MT7E28NWITN26"
+        },
+        {
+          "mobbinScreenId": "5170ed5a-011c-4b63-80d2-c53f6bcfa9bf",
+          "position": 3,
+          "sha256": "e5274dce6108e27fd0bb9b71971b6f69ef04c98cbe3a233962d15aed42805d91",
+          "bytes": 115348,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e5274dce6108e27fd0bb9b71971b6f69ef04c98cbe3a233962d15aed42805d91:3",
+          "eagleItemId": "MT7E28NXRE6YK"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "7aa2784b-9c90-468b-997b-ef34d67fbfbf",
+      "name": "Library",
+      "group": "library",
+      "position": 36,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 2,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:2",
+          "eagleItemId": "MT7E28NYVKJ65"
+        },
+        {
+          "mobbinScreenId": "98264793-0d40-4f0f-93c9-c5ca32a2cb78",
+          "position": 3,
+          "sha256": "b0fce03cb00c70f0fcd9f94a2eabc7600a41c00c94c2a57ead2aacd5a9d16722",
+          "bytes": 158582,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b0fce03cb00c70f0fcd9f94a2eabc7600a41c00c94c2a57ead2aacd5a9d16722:3",
+          "eagleItemId": "MT7E28NYZ33F3"
+        },
+        {
+          "mobbinScreenId": "e7448a59-c90f-4dce-992b-6bab55501c18",
+          "position": 4,
+          "sha256": "5eb0d43e1c26b7067f4773de6567345ccc3a67a393232ae6d5979a4fb3f4054f",
+          "bytes": 122900,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5eb0d43e1c26b7067f4773de6567345ccc3a67a393232ae6d5979a4fb3f4054f:4",
+          "eagleItemId": "MT7E28NZZ6WM9"
+        },
+        {
+          "mobbinScreenId": "81599485-eb26-4bde-acb6-8eba65af4c14",
+          "position": 5,
+          "sha256": "d58a4f809bded652db9745ca826dd7752021e4920dded7ce3d795af4a3652067",
+          "bytes": 137842,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d58a4f809bded652db9745ca826dd7752021e4920dded7ce3d795af4a3652067:5",
+          "eagleItemId": "MT7E28NZVVLTN"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "f1667437-33be-4628-a4c7-be6f6253f8fd",
+      "name": "Playlists",
+      "group": "playlists",
+      "position": 37,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "f5205195-c3a7-4a63-a183-0b639887b47f",
+          "position": 2,
+          "sha256": "a47bf823a9a959063b7702350b25b1118cecddb5dc5a54bebf20197187ff626d",
+          "bytes": 48314,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "a47bf823a9a959063b7702350b25b1118cecddb5dc5a54bebf20197187ff626d:2",
+          "eagleItemId": "MT7E28O16UW77"
+        },
+        {
+          "mobbinScreenId": "eabdf610-5137-47b6-a550-8c2d32ff659d",
+          "position": 3,
+          "sha256": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd",
+          "bytes": 77000,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd:3",
+          "eagleItemId": "MTBJ8UECVSYOU"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "a0e95abf-5335-4cc2-a96e-4c4fee8c35b2",
+      "name": "Playlist detail",
+      "group": "playlist-detail",
+      "position": 38,
+      "screens": [
+        {
+          "mobbinScreenId": "eabdf610-5137-47b6-a550-8c2d32ff659d",
+          "position": 1,
+          "sha256": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd",
+          "bytes": 77000,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd:1",
+          "eagleItemId": "MT7E28O42LX5A"
+        },
+        {
+          "mobbinScreenId": "f78e3e00-5409-4d6a-a61e-d8a967b6f797",
+          "position": 2,
+          "sha256": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36",
+          "bytes": 77058,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36:2",
+          "eagleItemId": "MT7E28O5VH01X"
+        },
+        {
+          "mobbinScreenId": "be10ba69-1dc7-421c-9041-c09059eed9c6",
+          "position": 3,
+          "sha256": "2e3cd3ae687b113737a0197e2814dac341b1aa8813714296c0e35782404ac73d",
+          "bytes": 111632,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "2e3cd3ae687b113737a0197e2814dac341b1aa8813714296c0e35782404ac73d:3",
+          "eagleItemId": "MT7E28O5POFKD"
+        },
+        {
+          "mobbinScreenId": "b7360cb5-a6b9-47a9-81c7-bb290893569f",
+          "position": 4,
+          "sha256": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58",
+          "bytes": 77580,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58:4",
+          "eagleItemId": "MT7E28O5O4S8H"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "edfb5a68-5410-4e7f-a3f8-7e33bc809fc0",
+      "name": "Searching a song (playlist)",
+      "group": "searching-a-song-playlist",
+      "position": 39,
+      "screens": [
+        {
+          "mobbinScreenId": "f78e3e00-5409-4d6a-a61e-d8a967b6f797",
+          "position": 1,
+          "sha256": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36",
+          "bytes": 77058,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36:1",
+          "eagleItemId": "MTBJ4XR8FPZ20"
+        },
+        {
+          "mobbinScreenId": "a426b1ab-57e7-411e-b4d5-1c3c7c366b60",
+          "position": 2,
+          "sha256": "fe0fce0e08be0b378161092efca9f9009028621b9dbf8500c78689eb98e5efe3",
+          "bytes": 76464,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fe0fce0e08be0b378161092efca9f9009028621b9dbf8500c78689eb98e5efe3:2",
+          "eagleItemId": "MT7E28O811Z8L"
+        },
+        {
+          "mobbinScreenId": "c2bb37b0-c9e7-4994-a054-5a58c923bc6d",
+          "position": 3,
+          "sha256": "dbe091bfe2909f60c85168b491243526ecbba64f8a2a6d5990471bdcf509838c",
+          "bytes": 94636,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "dbe091bfe2909f60c85168b491243526ecbba64f8a2a6d5990471bdcf509838c:3",
+          "eagleItemId": "MT7E28O94ZW3J"
+        },
+        {
+          "mobbinScreenId": "4db18bb6-5571-44fa-bfd2-a6b7d4869a14",
+          "position": 4,
+          "sha256": "d1eca85d2587a2d1de5a78485c9d9329ce26a38d0843c4ccca90ab818cb46515",
+          "bytes": 47610,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d1eca85d2587a2d1de5a78485c9d9329ce26a38d0843c4ccca90ab818cb46515:4",
+          "eagleItemId": "MT7E28OAS6LI9"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "12f9451f-a5d3-45d7-98d6-f9b1e946e169",
+      "name": "Adding songs to a playlist",
+      "group": "adding-songs-to-a-playlist",
+      "position": 40,
+      "screens": [
+        {
+          "mobbinScreenId": "f78e3e00-5409-4d6a-a61e-d8a967b6f797",
+          "position": 1,
+          "sha256": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36",
+          "bytes": 77058,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36:1",
+          "eagleItemId": "MTBJ4XR8FPZ20"
+        },
+        {
+          "mobbinScreenId": "612d5f66-8b89-4554-a605-2d520d693a2a",
+          "position": 2,
+          "sha256": "7eb02b731bd66fbe39a00b1e4c4fde74af2478baac62b73c46f97141aaad6bb6",
+          "bytes": 94690,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7eb02b731bd66fbe39a00b1e4c4fde74af2478baac62b73c46f97141aaad6bb6:2",
+          "eagleItemId": "MT7E28OCBREVO"
+        },
+        {
+          "mobbinScreenId": "ed2e6e17-cad3-4f37-8659-82dae2909e82",
+          "position": 3,
+          "sha256": "87261e684e0c255380dfc96fceea119aa9902b64da6b0fbc4638169c66b78d8e",
+          "bytes": 106800,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "87261e684e0c255380dfc96fceea119aa9902b64da6b0fbc4638169c66b78d8e:3",
+          "eagleItemId": "MT7E28OCZFXHG"
+        },
+        {
+          "mobbinScreenId": "01f52f90-91cd-4b22-9b10-3b362d30e5fe",
+          "position": 4,
+          "sha256": "3fcf91b0bf2d10b8bd37bdc006c55d033a789a869554a5228dfa0978b131e530",
+          "bytes": 108188,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3fcf91b0bf2d10b8bd37bdc006c55d033a789a869554a5228dfa0978b131e530:4",
+          "eagleItemId": "MT7E28ODDLP5K"
+        },
+        {
+          "mobbinScreenId": "e9881c08-8c52-4b09-ad63-8427b40bafff",
+          "position": 5,
+          "sha256": "b61c83071406e86aa069395d23db3bcebab7ef489f592321f58114f2fba1ffd5",
+          "bytes": 77856,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b61c83071406e86aa069395d23db3bcebab7ef489f592321f58114f2fba1ffd5:5",
+          "eagleItemId": "MT7E28ODH0AX7"
+        },
+        {
+          "mobbinScreenId": "b7360cb5-a6b9-47a9-81c7-bb290893569f",
+          "position": 6,
+          "sha256": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58",
+          "bytes": 77580,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58:6",
+          "eagleItemId": "MTBJ2XH87JK72"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "f95205a4-9491-4d8d-95d0-284a23d2d6de",
+      "name": "Inviting a collaborator",
+      "group": "inviting-a-collaborator",
+      "position": 41,
+      "screens": [
+        {
+          "mobbinScreenId": "f78e3e00-5409-4d6a-a61e-d8a967b6f797",
+          "position": 1,
+          "sha256": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36",
+          "bytes": 77058,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "584dd8cd62f2210e3ddb03ffab52f6dad6f09901241cf7877fbf31a668583a36:1",
+          "eagleItemId": "MTBJ4XR8FPZ20"
+        },
+        {
+          "mobbinScreenId": "395fb6fd-9314-4deb-88bc-cb3fcd818418",
+          "position": 2,
+          "sha256": "25e212ecc85b708f5422b3536f95869ea10ffd52adb70ad997e335040580065c",
+          "bytes": 70754,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "25e212ecc85b708f5422b3536f95869ea10ffd52adb70ad997e335040580065c:2",
+          "eagleItemId": "MT7E28OFKEME3"
+        },
+        {
+          "mobbinScreenId": "7c60af06-265a-4195-b001-1bf846124e95",
+          "position": 3,
+          "sha256": "c30e72f153b0dbee60ba1aa09e47692176dfff5de7a0d0f2037197c951704bc0",
+          "bytes": 72996,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c30e72f153b0dbee60ba1aa09e47692176dfff5de7a0d0f2037197c951704bc0:3",
+          "eagleItemId": "MT7E28OFA2MA0"
+        },
+        {
+          "mobbinScreenId": "8b148655-a136-4c17-b237-72bd1010758d",
+          "position": 4,
+          "sha256": "34b72dfeebc8ebcd0c6b1a4700380bb7af4441a96ccf601a8c3fe969e943024a",
+          "bytes": 71558,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "34b72dfeebc8ebcd0c6b1a4700380bb7af4441a96ccf601a8c3fe969e943024a:4",
+          "eagleItemId": "MT7E28OFHKOBX"
+        },
+        {
+          "mobbinScreenId": "581b8a4e-fa0a-4146-9e79-d135945f839e",
+          "position": 5,
+          "sha256": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30",
+          "bytes": 86492,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30:5",
+          "eagleItemId": "MT7E28OF65GZJ"
+        },
+        {
+          "mobbinScreenId": "298596f0-7631-4e52-8523-95ce75e8cffd",
+          "position": 6,
+          "sha256": "e152f5031ac298b369e6d85b2c40d79f410e756cb4e73383eda08a22e39e54e8",
+          "bytes": 121618,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e152f5031ac298b369e6d85b2c40d79f410e756cb4e73383eda08a22e39e54e8:6",
+          "eagleItemId": "MT7E28OGFUIMD"
+        },
+        {
+          "mobbinScreenId": "bafbfeea-9c3b-4a67-9d75-4ed2e167fbce",
+          "position": 7,
+          "sha256": "0a2f5e82260a97aacb5e1931ec826770c9a41aba7e54a8797ff80c6c179ec9e3",
+          "bytes": 128416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "0a2f5e82260a97aacb5e1931ec826770c9a41aba7e54a8797ff80c6c179ec9e3:7",
+          "eagleItemId": "MT7E28OG8LNL4"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "abed4fce-8376-4d57-be17-54c33feab41f",
+      "name": "Playlist collaborators",
+      "group": "playlist-collaborators",
+      "position": 42,
+      "screens": [
+        {
+          "mobbinScreenId": "581b8a4e-fa0a-4146-9e79-d135945f839e",
+          "position": 1,
+          "sha256": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30",
+          "bytes": 86492,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30:1",
+          "eagleItemId": "MTBJ5BPG4MDFC"
+        },
+        {
+          "mobbinScreenId": "f73e2491-6cfc-4020-86fe-0a34ba534157",
+          "position": 2,
+          "sha256": "59759bbe38ef50bdd722d5c240ab5aef0c7dfa283926a714f1fa3e85e1b46052",
+          "bytes": 46718,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "59759bbe38ef50bdd722d5c240ab5aef0c7dfa283926a714f1fa3e85e1b46052:2",
+          "eagleItemId": "MT7E28OKR0TEI"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "5d6260d7-a2b2-447a-a7bf-f7d61f77522e",
+      "name": "Playing a collaboration playlist",
+      "group": "playing-a-collaboration-playlist",
+      "position": 43,
+      "screens": [
+        {
+          "mobbinScreenId": "581b8a4e-fa0a-4146-9e79-d135945f839e",
+          "position": 1,
+          "sha256": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30",
+          "bytes": 86492,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5e724449a8f7f15424a0754be97dea76e9e6e1d55e6b9ec0219d109a26e16e30:1",
+          "eagleItemId": "MTBJ5BPG4MDFC"
+        },
+        {
+          "mobbinScreenId": "d89d38cd-f756-41e2-9558-9234a1b64dca",
+          "position": 2,
+          "sha256": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113",
+          "bytes": 124820,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113:2",
+          "eagleItemId": "MT7E28OMWZ2EQ"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "8d113c98-962d-4a84-8b63-aa4a5e9df026",
+      "name": "Liking a song",
+      "group": "liking-a-song",
+      "position": 44,
+      "screens": [
+        {
+          "mobbinScreenId": "d89d38cd-f756-41e2-9558-9234a1b64dca",
+          "position": 1,
+          "sha256": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113",
+          "bytes": 124820,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113:1",
+          "eagleItemId": "MTBJ9A0PX93SE"
+        },
+        {
+          "mobbinScreenId": "b166b10a-4ed4-4ed1-8a8a-1446dad381a9",
+          "position": 2,
+          "sha256": "14ddb5c94c1cfd8a12fffb84c0454f784ccdb706b9fff44e4e93baf1bb065d67",
+          "bytes": 109534,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "14ddb5c94c1cfd8a12fffb84c0454f784ccdb706b9fff44e4e93baf1bb065d67:2",
+          "eagleItemId": "MT7E28OOKJ3IF"
+        },
+        {
+          "mobbinScreenId": "d06ea6fd-89e9-429f-9b76-322ad2b1c7fc",
+          "position": 3,
+          "sha256": "e924513e69496ee523e56fdd7e45876eb216c05d565054740c6b530c94dc471d",
+          "bytes": 129308,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e924513e69496ee523e56fdd7e45876eb216c05d565054740c6b530c94dc471d:3",
+          "eagleItemId": "MT7E28OOY7E2M"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "fbae867a-9c22-48fb-9d7d-f48eff3a2e08",
+      "name": "Queue (collaboration playlist)",
+      "group": "queue-collaboration-playlist",
+      "position": 45,
+      "screens": [
+        {
+          "mobbinScreenId": "d89d38cd-f756-41e2-9558-9234a1b64dca",
+          "position": 1,
+          "sha256": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113",
+          "bytes": 124820,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9b253e00118a4191b058889092b90b7c741f0741b5a0be23c796fa720bfc3113:1",
+          "eagleItemId": "MTBJ9A0PX93SE"
+        },
+        {
+          "mobbinScreenId": "5c5c4c58-a6a3-4b2e-8f9c-aa13c6454c7f",
+          "position": 2,
+          "sha256": "49d68309de3dd50dc36a48c39fe191115e374aa1d8a80d5e73693737221a8d2c",
+          "bytes": 85708,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "49d68309de3dd50dc36a48c39fe191115e374aa1d8a80d5e73693737221a8d2c:2",
+          "eagleItemId": "MT7E28OPYR7TX"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "86ccad90-f762-4b70-92a5-f370368bd1d5",
+      "name": "Downloading a playlist",
+      "group": "downloading-a-playlist",
+      "position": 46,
+      "screens": [
+        {
+          "mobbinScreenId": "b7360cb5-a6b9-47a9-81c7-bb290893569f",
+          "position": 1,
+          "sha256": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58",
+          "bytes": 77580,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58:1",
+          "eagleItemId": "MTBJ2X3414X2M"
+        },
+        {
+          "mobbinScreenId": "0428f139-f9c8-4f8b-b76f-0e6adcf5e7d6",
+          "position": 2,
+          "sha256": "ca89ef5a86329423c51f7e641db9a9d7eca8a8a63dfd5cbd5dc319c1763d28f1",
+          "bytes": 82406,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ca89ef5a86329423c51f7e641db9a9d7eca8a8a63dfd5cbd5dc319c1763d28f1:2",
+          "eagleItemId": "MT7E28OUBVDZL"
+        },
+        {
+          "mobbinScreenId": "8ef5f209-0e4a-4ed9-b742-cef6a47acc6f",
+          "position": 3,
+          "sha256": "3f9a5916b56e52aad8a2070be7203b6b25fd7dd08f20c75283d3e3a4f0e9d879",
+          "bytes": 81650,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3f9a5916b56e52aad8a2070be7203b6b25fd7dd08f20c75283d3e3a4f0e9d879:3",
+          "eagleItemId": "MT7E28OUL2XJ7"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "6c28e132-21e8-4ff0-a441-443d71f06d44",
+      "name": "Stopping collaboration",
+      "group": "stopping-collaboration",
+      "position": 47,
+      "screens": [
+        {
+          "mobbinScreenId": "b7360cb5-a6b9-47a9-81c7-bb290893569f",
+          "position": 1,
+          "sha256": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58",
+          "bytes": 77580,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "33d19a8bd090fa89679be678aa43645aed4717733f54f4aa7235f638e1aebe58:1",
+          "eagleItemId": "MTBJ2X3414X2M"
+        },
+        {
+          "mobbinScreenId": "9bbd868b-2e15-4da4-a7db-0b2124ec9e7e",
+          "position": 2,
+          "sha256": "745536f1e39762b58ac6276f66d3719569e5d36c031d643b2d1228ff237b00c8",
+          "bytes": 95606,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "745536f1e39762b58ac6276f66d3719569e5d36c031d643b2d1228ff237b00c8:2",
+          "eagleItemId": "MT7E28OVJNJG1"
+        },
+        {
+          "mobbinScreenId": "2b526743-686c-48b3-bf4d-09b122eeb9b4",
+          "position": 3,
+          "sha256": "3737acb7d02a0767d02dd1a10c5d58c6ce200ac044b9bf4bc4135ac87c88b0be",
+          "bytes": 69908,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3737acb7d02a0767d02dd1a10c5d58c6ce200ac044b9bf4bc4135ac87c88b0be:3",
+          "eagleItemId": "MTBJ3393XXEWU"
+        },
+        {
+          "mobbinScreenId": "8806eee3-f57f-4b5e-8135-694ee28f0359",
+          "position": 4,
+          "sha256": "f55b71b255cb8ba12d353a54ce6a30737a80dfb6047a2b5ede5a878299366acb",
+          "bytes": 61246,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f55b71b255cb8ba12d353a54ce6a30737a80dfb6047a2b5ede5a878299366acb:4",
+          "eagleItemId": "MT7E28OWEBEJJ"
+        },
+        {
+          "mobbinScreenId": "46d34dbf-5b97-4704-9427-6c9385374f57",
+          "position": 5,
+          "sha256": "ec9f313aefe15129f86bc15f4a78918262d3b8c26372d07d99f0cbd5f82c6422",
+          "bytes": 78800,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ec9f313aefe15129f86bc15f4a78918262d3b8c26372d07d99f0cbd5f82c6422:5",
+          "eagleItemId": "MT7E28OW7YUC6"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "0434d744-be9b-467e-80d6-4234235a1637",
+      "name": "Playlist QR code",
+      "group": "playlist-qr-code",
+      "position": 48,
+      "screens": [
+        {
+          "mobbinScreenId": "2b526743-686c-48b3-bf4d-09b122eeb9b4",
+          "position": 1,
+          "sha256": "3737acb7d02a0767d02dd1a10c5d58c6ce200ac044b9bf4bc4135ac87c88b0be",
+          "bytes": 69908,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3737acb7d02a0767d02dd1a10c5d58c6ce200ac044b9bf4bc4135ac87c88b0be:1",
+          "eagleItemId": "MT7E28OS6LQFQ"
+        },
+        {
+          "mobbinScreenId": "de7d0866-c46b-4931-995f-31341218cd33",
+          "position": 2,
+          "sha256": "59d8b585fc4c7fef7fce7e552cf0961263c419dd58fd00e985672e71793f7bd7",
+          "bytes": 90868,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "59d8b585fc4c7fef7fce7e552cf0961263c419dd58fd00e985672e71793f7bd7:2",
+          "eagleItemId": "MT7E28OSKNWCM"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "a0cd6186-26b8-450d-8714-33c92090e419",
+      "name": "Creating a playlist",
+      "group": "creating-a-playlist",
+      "position": 49,
+      "screens": [
+        {
+          "mobbinScreenId": "eabdf610-5137-47b6-a550-8c2d32ff659d",
+          "position": 1,
+          "sha256": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd",
+          "bytes": 77000,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd:1",
+          "eagleItemId": "MT7E28O42LX5A"
+        },
+        {
+          "mobbinScreenId": "38fa391b-12ed-4769-9b8e-b5892fadbc7c",
+          "position": 2,
+          "sha256": "6794594cb0a1129743158b21d0959c1d3d84f998f7e1690098385a4788b60469",
+          "bytes": 92472,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6794594cb0a1129743158b21d0959c1d3d84f998f7e1690098385a4788b60469:2",
+          "eagleItemId": "MT7E28OXQR3BM"
+        },
+        {
+          "mobbinScreenId": "0d74c6c9-049b-430e-be02-bd30a472b98e",
+          "position": 3,
+          "sha256": "33b214d48f3ec59e237cb1f12e6e6ef38aaefd4df1bda0128ce498baccf8fa45",
+          "bytes": 50702,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "33b214d48f3ec59e237cb1f12e6e6ef38aaefd4df1bda0128ce498baccf8fa45:3",
+          "eagleItemId": "MT7E28OXZI18J"
+        },
+        {
+          "mobbinScreenId": "1876527d-5126-4cca-95c7-53f15a216c92",
+          "position": 4,
+          "sha256": "9553abfd0da20ad480e665b5cb8e4efa4786fcbc845ebce2708095f6c5c8d49e",
+          "bytes": 57540,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9553abfd0da20ad480e665b5cb8e4efa4786fcbc845ebce2708095f6c5c8d49e:4",
+          "eagleItemId": "MT7E28OY5YDGM"
+        },
+        {
+          "mobbinScreenId": "5b5aea08-c6f2-4a9e-97e0-cbf075dd14c1",
+          "position": 5,
+          "sha256": "fa36e34c866cea52b700157f60997b425f4c829458076db49ebd0d76ac762ba5",
+          "bytes": 126802,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fa36e34c866cea52b700157f60997b425f4c829458076db49ebd0d76ac762ba5:5",
+          "eagleItemId": "MT7E28OY4TVAJ"
+        },
+        {
+          "mobbinScreenId": "dc9238b4-a10f-45d4-995d-6d792c73f50e",
+          "position": 6,
+          "sha256": "be5e52b47d0c069b456ada67be5bbe7aa4402c9314674041c5f3977df87be650",
+          "bytes": 131892,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "be5e52b47d0c069b456ada67be5bbe7aa4402c9314674041c5f3977df87be650:6",
+          "eagleItemId": "MT7E28OYFCG70"
+        },
+        {
+          "mobbinScreenId": "207ca51b-826f-4d15-91ee-77b83a9f1e89",
+          "position": 7,
+          "sha256": "ab2eda4b0b5c5c9037df3b859c2c19cbdcad5cf48547be62d06a68151a554f29",
+          "bytes": 203598,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ab2eda4b0b5c5c9037df3b859c2c19cbdcad5cf48547be62d06a68151a554f29:7",
+          "eagleItemId": "MT7E28OY27IC2"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "34cd02bd-c7de-4178-90e2-f31408da94a1",
+      "name": "Creating a new folder",
+      "group": "creating-a-new-folder",
+      "position": 50,
+      "screens": [
+        {
+          "mobbinScreenId": "38fa391b-12ed-4769-9b8e-b5892fadbc7c",
+          "position": 1,
+          "sha256": "6794594cb0a1129743158b21d0959c1d3d84f998f7e1690098385a4788b60469",
+          "bytes": 92472,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6794594cb0a1129743158b21d0959c1d3d84f998f7e1690098385a4788b60469:1",
+          "eagleItemId": "MTBJ5WBNQXH1A"
+        },
+        {
+          "mobbinScreenId": "7cf5d9da-a604-4e55-950d-52f9a24ab979",
+          "position": 2,
+          "sha256": "423d13ab25379c7217617121d9f5651cb11ddd9122b9d460fe99dfc2280bb3d0",
+          "bytes": 78610,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "423d13ab25379c7217617121d9f5651cb11ddd9122b9d460fe99dfc2280bb3d0:2",
+          "eagleItemId": "MT7E28P1L5B2N"
+        },
+        {
+          "mobbinScreenId": "01fc587d-2ad7-42d2-a502-f1205a846509",
+          "position": 3,
+          "sha256": "d96a46ada8caccd9323f691522117874ea7ef987e6e2f64c13535419386da971",
+          "bytes": 81956,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d96a46ada8caccd9323f691522117874ea7ef987e6e2f64c13535419386da971:3",
+          "eagleItemId": "MT7E28P17YUYJ"
+        },
+        {
+          "mobbinScreenId": "a49f0109-652b-46a4-be8d-526252ee76b8",
+          "position": 4,
+          "sha256": "cc85dd33ffb2dc58c257be3c906734a31f1a6d88ecc350e2ddc758ed1524e80d",
+          "bytes": 48506,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cc85dd33ffb2dc58c257be3c906734a31f1a6d88ecc350e2ddc758ed1524e80d:4",
+          "eagleItemId": "MT7E28P11C43G"
+        },
+        {
+          "mobbinScreenId": "ada55025-0884-4299-a437-35b6bd0c88ee",
+          "position": 5,
+          "sha256": "f6b1b7e15132928919ff9901940c7bc61883bb1bd3bb802fa641af24e88d1459",
+          "bytes": 58482,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f6b1b7e15132928919ff9901940c7bc61883bb1bd3bb802fa641af24e88d1459:5",
+          "eagleItemId": "MT7E28P2498Q8"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "51b62915-fd0a-4e91-8a9e-2df6dfc06ccc",
+      "name": "Filtering playlists",
+      "group": "filtering-playlists",
+      "position": 51,
+      "screens": [
+        {
+          "mobbinScreenId": "eabdf610-5137-47b6-a550-8c2d32ff659d",
+          "position": 1,
+          "sha256": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd",
+          "bytes": 77000,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd:1",
+          "eagleItemId": "MT7E28O42LX5A"
+        },
+        {
+          "mobbinScreenId": "6a3601e7-513c-452d-8bf5-de147f8b48ed",
+          "position": 2,
+          "sha256": "3945524628d356eca665f3cb1025cf955a02f46977015e1a428cd2afbc2caa1d",
+          "bytes": 90592,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3945524628d356eca665f3cb1025cf955a02f46977015e1a428cd2afbc2caa1d:2",
+          "eagleItemId": "MT7E28P321M49"
+        },
+        {
+          "mobbinScreenId": "18191852-6c45-44aa-9b2e-c4e4017fc612",
+          "position": 3,
+          "sha256": "a48709cafa3b6e267b17470614c075127be60311c109b11f6e0faeb22e5e5ce1",
+          "bytes": 54644,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "a48709cafa3b6e267b17470614c075127be60311c109b11f6e0faeb22e5e5ce1:3",
+          "eagleItemId": "MT7E28P4FHD45"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "98ce41ed-67f8-481e-bb36-a43bec516f02",
+      "name": "Switching view",
+      "group": "switching-view",
+      "position": 52,
+      "screens": [
+        {
+          "mobbinScreenId": "eabdf610-5137-47b6-a550-8c2d32ff659d",
+          "position": 1,
+          "sha256": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd",
+          "bytes": 77000,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "947ca3d77532975a05ecd4db692c440636fff53b22bb6200a88a68bf1da167fd:1",
+          "eagleItemId": "MT7E28O42LX5A"
+        },
+        {
+          "mobbinScreenId": "2b3c88bc-10d7-4f03-a7ef-0eaefabff90f",
+          "position": 2,
+          "sha256": "c842d152f2934d3b644b3e9235f850cd193b1bae4d4b2d69a5d4d79b51d104fd",
+          "bytes": 93730,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c842d152f2934d3b644b3e9235f850cd193b1bae4d4b2d69a5d4d79b51d104fd:2",
+          "eagleItemId": "MT7E28P573QES"
+        },
+        {
+          "mobbinScreenId": "143196a8-2649-49db-8333-fffbdc9029a8",
+          "position": 3,
+          "sha256": "3d56c1f3dcdc937d22a3c2832a9a2510f2a102f2404b687589160478288b8702",
+          "bytes": 121992,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3d56c1f3dcdc937d22a3c2832a9a2510f2a102f2404b687589160478288b8702:3",
+          "eagleItemId": "MT7E28P5ENZ7J"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "007b9f18-28e3-445f-acdd-7ed68185b26b",
+      "name": "Artists",
+      "group": "artists",
+      "position": 53,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "a3d69bd1-eb5d-431b-8c0d-48a9114fadc5",
+          "position": 2,
+          "sha256": "281e29ff9921c2a8ec3910ba0d322190cde43f0e7ed5edc198e2828700c7bfa9",
+          "bytes": 81012,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "281e29ff9921c2a8ec3910ba0d322190cde43f0e7ed5edc198e2828700c7bfa9:2",
+          "eagleItemId": "MT7E28P6TU3RV"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "d16197ea-0655-4a1e-93f0-6ac4957af857",
+      "name": "Albums",
+      "group": "albums",
+      "position": 54,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "da6eeb5a-6515-405b-8472-7d6ab55afde0",
+          "position": 2,
+          "sha256": "2ed1b17e54c233a05048251adcc7b0e8633417c237d7af8a5d02efa61e8931bc",
+          "bytes": 163390,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "2ed1b17e54c233a05048251adcc7b0e8633417c237d7af8a5d02efa61e8931bc:2",
+          "eagleItemId": "MT7E28PDGNGTT"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "7b8321fd-e964-41a4-875f-45a41bf1e79a",
+      "name": "Songs",
+      "group": "songs",
+      "position": 55,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "3a938b4d-3b4e-43b7-8de3-cb039a924e31",
+          "position": 2,
+          "sha256": "ce2f07ecaa9b32c2fa3be72da56dac66014b9234cd370aeb4d809eb1eee3f5de",
+          "bytes": 100608,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ce2f07ecaa9b32c2fa3be72da56dac66014b9234cd370aeb4d809eb1eee3f5de:2",
+          "eagleItemId": "MT7E28PEMOFXL"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "53f8570a-5f5c-46c2-bffe-e3e6bd81b56e",
+      "name": "Downloaded",
+      "group": "downloaded",
+      "position": 56,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "2087d083-31ec-4f92-998e-c600bd9469d4",
+          "position": 2,
+          "sha256": "ec21a6c195079b9500a702b40b7c2c3e2587d495e69523c2c57376ad7bd803a8",
+          "bytes": 129414,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ec21a6c195079b9500a702b40b7c2c3e2587d495e69523c2c57376ad7bd803a8:2",
+          "eagleItemId": "MT7E28PFXR0V0"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "63ffb902-ecb8-4d3f-98ed-db34c16820c6",
+      "name": "Editing sections",
+      "group": "editing-sections",
+      "position": 57,
+      "screens": [
+        {
+          "mobbinScreenId": "4c0a18e6-4107-42a6-94fd-4e957568bb69",
+          "position": 1,
+          "sha256": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b",
+          "bytes": 110134,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "cd6af10455ac040bb2efa0f08691432f4bf3f487fa545405e8550571c82f000b:1",
+          "eagleItemId": "MTBJCGQY3OZLA"
+        },
+        {
+          "mobbinScreenId": "d64116dc-a2a0-43ef-9cd9-fa388dbdaf23",
+          "position": 2,
+          "sha256": "53c46e7d0fde4d1bfd9a7444d0be6239093270c6e0e306450a58b4e497c524e4",
+          "bytes": 105056,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "53c46e7d0fde4d1bfd9a7444d0be6239093270c6e0e306450a58b4e497c524e4:2",
+          "eagleItemId": "MT7E28PGGRL1X"
+        },
+        {
+          "mobbinScreenId": "c84f684e-be47-49d7-a4e0-98c9e4f12f48",
+          "position": 3,
+          "sha256": "9b56173f3fd5527a117b118da9eaa9ffc80d438fec2c6f848f18974d15f0f506",
+          "bytes": 64308,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "9b56173f3fd5527a117b118da9eaa9ffc80d438fec2c6f848f18974d15f0f506:3",
+          "eagleItemId": "MT7E28PHYQED6"
+        },
+        {
+          "mobbinScreenId": "fa12db92-20f6-4803-93af-1eae3a2c0ed6",
+          "position": 4,
+          "sha256": "bdc614b2513fa9c9e633d80fe9419c987e9845dbd2d5c5247c1037319477cfe3",
+          "bytes": 65296,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bdc614b2513fa9c9e633d80fe9419c987e9845dbd2d5c5247c1037319477cfe3:4",
+          "eagleItemId": "MT7E28PHAWY3X"
+        },
+        {
+          "mobbinScreenId": "35d56ce9-72bf-410c-b72b-dc25c34d2bd3",
+          "position": 5,
+          "sha256": "08cee3587942606fdfa2d0d1f5c8c23f437bd24838fd564871c82515b1a4161f",
+          "bytes": 64178,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "08cee3587942606fdfa2d0d1f5c8c23f437bd24838fd564871c82515b1a4161f:5",
+          "eagleItemId": "MT7E28PHHIY2F"
+        },
+        {
+          "mobbinScreenId": "aadc852e-e6cb-450d-a36f-7401a06f39b8",
+          "position": 6,
+          "sha256": "42453d762a21920d509032f77df964c54d5eefee97f800f3e5b528d1603a28f2",
+          "bytes": 64140,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "42453d762a21920d509032f77df964c54d5eefee97f800f3e5b528d1603a28f2:6",
+          "eagleItemId": "MT7E28PITLHTF"
+        },
+        {
+          "mobbinScreenId": "6bdfdfad-826e-4cfe-a822-68fc31312851",
+          "position": 7,
+          "sha256": "f39635ce106c5dc290c9ebcf94986a11b49a949fd5119ded7024b96258b1b11f",
+          "bytes": 109100,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f39635ce106c5dc290c9ebcf94986a11b49a949fd5119ded7024b96258b1b11f:7",
+          "eagleItemId": "MT7E28PIS2N9K"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "b3360633-511f-45fa-8292-cd9a98a42afa",
+      "name": "Add to queue (quick action)",
+      "group": "add-to-queue-quick-action",
+      "position": 58,
+      "screens": [
+        {
+          "mobbinScreenId": "98264793-0d40-4f0f-93c9-c5ca32a2cb78",
+          "position": 1,
+          "sha256": "b0fce03cb00c70f0fcd9f94a2eabc7600a41c00c94c2a57ead2aacd5a9d16722",
+          "bytes": 158582,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b0fce03cb00c70f0fcd9f94a2eabc7600a41c00c94c2a57ead2aacd5a9d16722:1",
+          "eagleItemId": "MTBJAS3KMYZNW"
+        },
+        {
+          "mobbinScreenId": "73f2b851-60b7-40e5-8fe8-242352d374f2",
+          "position": 2,
+          "sha256": "283d11cf941e2cfd24532ef1187503b3e0cbf9cd6bdd0a51c583999e1a9f22a3",
+          "bytes": 114734,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "283d11cf941e2cfd24532ef1187503b3e0cbf9cd6bdd0a51c583999e1a9f22a3:2",
+          "eagleItemId": "MT7E28PVLKYOJ"
+        },
+        {
+          "mobbinScreenId": "672b3bbf-3cb5-4d8e-abd2-b93b32e86644",
+          "position": 3,
+          "sha256": "5293021387515ddfc6aca5729e38c23fa5d6528372733e8af7074ba4343a52f0",
+          "bytes": 150306,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5293021387515ddfc6aca5729e38c23fa5d6528372733e8af7074ba4343a52f0:3",
+          "eagleItemId": "MT7E28PV1LMUM"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "7cd1c3d5-c32b-47d8-9943-f147b6813236",
+      "name": "Search",
+      "group": "search",
+      "position": 59,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "38013fe5-6e15-4038-9c0f-039bf66715c7",
+          "position": 2,
+          "sha256": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913",
+          "bytes": 186810,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913:2",
+          "eagleItemId": "MT7E28PX95KP6"
+        },
+        {
+          "mobbinScreenId": "548b402d-4166-4705-9b59-988223bedbbf",
+          "position": 3,
+          "sha256": "900b25c8f3539f233294df3697d5398a62ccd3065d1848b36f93b4dcc2192382",
+          "bytes": 206644,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "900b25c8f3539f233294df3697d5398a62ccd3065d1848b36f93b4dcc2192382:3",
+          "eagleItemId": "MT7E28PYALRXG"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "cec77559-7491-4117-8eb8-11693f11dfec",
+      "name": "Selecting a category",
+      "group": "selecting-a-category",
+      "position": 60,
+      "screens": [
+        {
+          "mobbinScreenId": "38013fe5-6e15-4038-9c0f-039bf66715c7",
+          "position": 1,
+          "sha256": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913",
+          "bytes": 186810,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913:1",
+          "eagleItemId": "MTBJB5HANIZVQ"
+        },
+        {
+          "mobbinScreenId": "10a2c030-a4b4-4caa-b606-717a743f3d12",
+          "position": 2,
+          "sha256": "84bd520b4e7d23fd4cda2d44cef01f150903114f9bf78b5c8d25e23909ca281a",
+          "bytes": 126652,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "84bd520b4e7d23fd4cda2d44cef01f150903114f9bf78b5c8d25e23909ca281a:2",
+          "eagleItemId": "MT7E28PZQILE2"
+        },
+        {
+          "mobbinScreenId": "66070f4d-b728-408c-a83a-78d94a9be5a1",
+          "position": 3,
+          "sha256": "543c80827832f02d4775c230e634b166f81b38cdd6384b7533d14a26d949eabb",
+          "bytes": 199038,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "543c80827832f02d4775c230e634b166f81b38cdd6384b7533d14a26d949eabb:3",
+          "eagleItemId": "MT7E28PZ2L873"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "aa6db5b1-4567-4ab8-9d57-c348a0e03f82",
+      "name": "Searching Apple Music",
+      "group": "searching-apple-music",
+      "position": 61,
+      "screens": [
+        {
+          "mobbinScreenId": "38013fe5-6e15-4038-9c0f-039bf66715c7",
+          "position": 1,
+          "sha256": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913",
+          "bytes": 186810,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b6f82b844f5bbff21860e17b4c67ec9b560cd1026519aa3cd96e9567dae17913:1",
+          "eagleItemId": "MTBJB5HANIZVQ"
+        },
+        {
+          "mobbinScreenId": "638bc32f-180c-4c47-8a87-5bf720e91268",
+          "position": 2,
+          "sha256": "7d15d5c68d8bea74f5de24d0784475a8327b69741783850104954d75f6953382",
+          "bytes": 55450,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7d15d5c68d8bea74f5de24d0784475a8327b69741783850104954d75f6953382:2",
+          "eagleItemId": "MT7E28Q0AYM6F"
+        },
+        {
+          "mobbinScreenId": "581d1446-a88d-4c84-9b68-fd7b6cdba167",
+          "position": 3,
+          "sha256": "e4d6cf4b01e213c7177709738d3713186866ae95682298ea069bbc54588f28ab",
+          "bytes": 61618,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e4d6cf4b01e213c7177709738d3713186866ae95682298ea069bbc54588f28ab:3",
+          "eagleItemId": "MT7E28Q0LS8T1"
+        },
+        {
+          "mobbinScreenId": "573c4eeb-fd67-48a9-be25-f612de40347e",
+          "position": 4,
+          "sha256": "fd546f852f04912e885b8c3315a08b8965966ab1e11103e1e47185bb5c770dfe",
+          "bytes": 73104,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fd546f852f04912e885b8c3315a08b8965966ab1e11103e1e47185bb5c770dfe:4",
+          "eagleItemId": "MT7E28Q08V3DE"
+        },
+        {
+          "mobbinScreenId": "6e9cc18e-6337-481f-91c5-d7ab3f09c247",
+          "position": 5,
+          "sha256": "bb5b7c19cc85e370418d58e0be4651dc655c516caf060980d48ed0ef3c3936e4",
+          "bytes": 142560,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bb5b7c19cc85e370418d58e0be4651dc655c516caf060980d48ed0ef3c3936e4:5",
+          "eagleItemId": "MT7E28Q1IZBBG"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "994be325-9454-4ffd-86cb-3a50a0c0379a",
+      "name": "Account",
+      "group": "account",
+      "position": 62,
+      "screens": [
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 1,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:1",
+          "eagleItemId": "MTBJ66G6SK5J5"
+        },
+        {
+          "mobbinScreenId": "dfdc460a-a358-42e2-9e70-26cd9c41f292",
+          "position": 2,
+          "sha256": "5cc1effafb4276e9332eda63c30a3a9be8110e1c088e25d7534811a0d29ce689",
+          "bytes": 70710,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5cc1effafb4276e9332eda63c30a3a9be8110e1c088e25d7534811a0d29ce689:2",
+          "eagleItemId": "MT7E28Q6KFRC9"
+        },
+        {
+          "mobbinScreenId": "a8a69900-a2e3-4b64-a964-f9a9dc9aed19",
+          "position": 3,
+          "sha256": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75",
+          "bytes": 79264,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75:3",
+          "eagleItemId": "MT7E28Q6A9ZKN"
+        },
+        {
+          "mobbinScreenId": "fa29e3c0-997f-4286-aa17-097554e7aea8",
+          "position": 4,
+          "sha256": "d28d15a7c174d71b9ff811f1b5d861e628a8ef724b1351adf4d4618bfca20ccd",
+          "bytes": 83754,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d28d15a7c174d71b9ff811f1b5d861e628a8ef724b1351adf4d4618bfca20ccd:4",
+          "eagleItemId": "MT7E28Q66FVVJ"
+        },
+        {
+          "mobbinScreenId": "68822c9a-6612-4bff-8e2a-b03d6a5e081d",
+          "position": 5,
+          "sha256": "dbc8bdcef5a300c04ae768c64f0b13cc0ee60cf4a24de4190c6770a0575b27d5",
+          "bytes": 81208,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "dbc8bdcef5a300c04ae768c64f0b13cc0ee60cf4a24de4190c6770a0575b27d5:5",
+          "eagleItemId": "MT7E28Q6OMHLR"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "dd9ef521-48ca-4450-b35d-c42c6e30f0c6",
+      "name": "Setting up profile",
+      "group": "setting-up-profile",
+      "position": 63,
+      "screens": [
+        {
+          "mobbinScreenId": "dfdc460a-a358-42e2-9e70-26cd9c41f292",
+          "position": 1,
+          "sha256": "5cc1effafb4276e9332eda63c30a3a9be8110e1c088e25d7534811a0d29ce689",
+          "bytes": 70710,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "5cc1effafb4276e9332eda63c30a3a9be8110e1c088e25d7534811a0d29ce689:1",
+          "eagleItemId": "MTBJ58N4GAOHG"
+        },
+        {
+          "mobbinScreenId": "7b4c07d1-8e4f-475c-bab1-42d114af725e",
+          "position": 2,
+          "sha256": "df21f5fac063153bf2a4b549c24f01f5ee046a271ea7c11084cbcc0ddaf65d49",
+          "bytes": 68246,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "df21f5fac063153bf2a4b549c24f01f5ee046a271ea7c11084cbcc0ddaf65d49:2",
+          "eagleItemId": "MT7E28Q8IYBPW"
+        },
+        {
+          "mobbinScreenId": "0ec01121-5a62-4d1f-a4a0-09cd128a1ee1",
+          "position": 3,
+          "sha256": "6dcf5b12977df10aec30988a134cf3d9b49b258d1221662769a55388d37ee960",
+          "bytes": 67782,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6dcf5b12977df10aec30988a134cf3d9b49b258d1221662769a55388d37ee960:3",
+          "eagleItemId": "MT7E28Q8YQSA2"
+        },
+        {
+          "mobbinScreenId": "f8a077da-a975-47c1-a1c1-2ef62d652fc9",
+          "position": 4,
+          "sha256": "efdbfd24f3911258abe7a3025f9699861576924b3848f8ae0aa8be8a76a47032",
+          "bytes": 158218,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "efdbfd24f3911258abe7a3025f9699861576924b3848f8ae0aa8be8a76a47032:4",
+          "eagleItemId": "MT7E28Q9HDSYR"
+        },
+        {
+          "mobbinScreenId": "ab7cab46-02cc-4484-ad55-90fd70a10def",
+          "position": 5,
+          "sha256": "85ae00c99a1ccadc8afea5a2b9ffd4dc383780a54aa394adc1ca06893cc7f869",
+          "bytes": 108642,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "85ae00c99a1ccadc8afea5a2b9ffd4dc383780a54aa394adc1ca06893cc7f869:5",
+          "eagleItemId": "MT7E28Q9E51BU"
+        },
+        {
+          "mobbinScreenId": "8580a287-f50e-40a9-a757-9f07b584cb17",
+          "position": 6,
+          "sha256": "368f4ed049ffa0422bfaa094e4d8786913a3dcd8837bd036d786a0a2529f43e2",
+          "bytes": 70996,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "368f4ed049ffa0422bfaa094e4d8786913a3dcd8837bd036d786a0a2529f43e2:6",
+          "eagleItemId": "MT7E28Q9H7CVE"
+        },
+        {
+          "mobbinScreenId": "6c0d743b-bf71-4417-9018-7750d8f0ac07",
+          "position": 7,
+          "sha256": "c9aa24395c6a6085f3c476bc38a465651883ad16a0c15ea21e25531b062d4e51",
+          "bytes": 70550,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c9aa24395c6a6085f3c476bc38a465651883ad16a0c15ea21e25531b062d4e51:7",
+          "eagleItemId": "MT7E28Q9KX557"
+        },
+        {
+          "mobbinScreenId": "1c44caa3-6cb5-428b-b498-256d2362ee6e",
+          "position": 8,
+          "sha256": "c6389bd1aed6b97d18a908cb690004bb6145b16395ec1e5b37189fb828902394",
+          "bytes": 38492,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c6389bd1aed6b97d18a908cb690004bb6145b16395ec1e5b37189fb828902394:8",
+          "eagleItemId": "MT7E28QAPEP1I"
+        },
+        {
+          "mobbinScreenId": "c90c94ec-663f-459b-8a4b-b28ef2e312a3",
+          "position": 9,
+          "sha256": "b91faa20369887c71b8a1088d8811dfeb3c191b499ac816a39b43404c58c64fb",
+          "bytes": 40038,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b91faa20369887c71b8a1088d8811dfeb3c191b499ac816a39b43404c58c64fb:9",
+          "eagleItemId": "MT7E28QAJ6Y2P"
+        },
+        {
+          "mobbinScreenId": "5d45e6bc-db5d-4f45-a91a-bd0e7f02054a",
+          "position": 10,
+          "sha256": "75f6302e276e06e31fc85d3f2ac6d3b9142c12b2e794851882175260c88af47d",
+          "bytes": 85356,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "75f6302e276e06e31fc85d3f2ac6d3b9142c12b2e794851882175260c88af47d:10",
+          "eagleItemId": "MT7E28QBH1HD7"
+        },
+        {
+          "mobbinScreenId": "c305b04d-d18e-463d-9710-ac54fe1d2c87",
+          "position": 11,
+          "sha256": "8d313a6643a56e450ab15c455507778298b4e1b1090b84ba91876aa4f8872677",
+          "bytes": 32430,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "8d313a6643a56e450ab15c455507778298b4e1b1090b84ba91876aa4f8872677:11",
+          "eagleItemId": "MT7E28QB21JU4"
+        },
+        {
+          "mobbinScreenId": "e75f0c50-d3f4-4afe-89f6-24655df1a495",
+          "position": 12,
+          "sha256": "71e0b560a09543eda367db8f99d64c3ac7306473e34fd748e885758be01cddae",
+          "bytes": 32832,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "71e0b560a09543eda367db8f99d64c3ac7306473e34fd748e885758be01cddae:12",
+          "eagleItemId": "MT7E28QBIDMZ4"
+        },
+        {
+          "mobbinScreenId": "62295765-b39f-4aa5-9e30-aefb40ff9324",
+          "position": 13,
+          "sha256": "08bcbd9c17669331dd9f6baa72235c19e27aa32ab5dbee26f70ea28fdbe153e2",
+          "bytes": 63636,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "08bcbd9c17669331dd9f6baa72235c19e27aa32ab5dbee26f70ea28fdbe153e2:13",
+          "eagleItemId": "MT7E28QBRRFUY"
+        },
+        {
+          "mobbinScreenId": "23ec9ae2-7a96-433d-9289-a98cec537fe2",
+          "position": 14,
+          "sha256": "7cbdd7b482a93b8a51dd65eb49c7444b6a4aa455ae1420a85d6df618967582de",
+          "bytes": 107690,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7cbdd7b482a93b8a51dd65eb49c7444b6a4aa455ae1420a85d6df618967582de:14",
+          "eagleItemId": "MT7E28QBQPDT9"
+        },
+        {
+          "mobbinScreenId": "5146b5b4-3b94-4c83-b8dc-8c457b625c31",
+          "position": 15,
+          "sha256": "14a12f4ace68ac9478ea5f9bd7a2fefe2370beb3f92cfb5e46132e1dac67dd60",
+          "bytes": 121702,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "14a12f4ace68ac9478ea5f9bd7a2fefe2370beb3f92cfb5e46132e1dac67dd60:15",
+          "eagleItemId": "MT7E28QCJAXOZ"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "25639d63-ee31-4ec6-be89-1102cd47b12c",
+      "name": "Edit profile",
+      "group": "edit-profile",
+      "position": 64,
+      "screens": [
+        {
+          "mobbinScreenId": "23ec9ae2-7a96-433d-9289-a98cec537fe2",
+          "position": 1,
+          "sha256": "7cbdd7b482a93b8a51dd65eb49c7444b6a4aa455ae1420a85d6df618967582de",
+          "bytes": 107690,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "7cbdd7b482a93b8a51dd65eb49c7444b6a4aa455ae1420a85d6df618967582de:1",
+          "eagleItemId": "MTBJ7FWQV4GFF"
+        },
+        {
+          "mobbinScreenId": "bdb89893-7683-4695-9cc1-04025e85a209",
+          "position": 2,
+          "sha256": "c5fc4d8d32ba730392569a437b2ca11b41abf76214bc1f773c2728ce555ea6f0",
+          "bytes": 68942,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "c5fc4d8d32ba730392569a437b2ca11b41abf76214bc1f773c2728ce555ea6f0:2",
+          "eagleItemId": "MT7E28QDCJ00R"
+        },
+        {
+          "mobbinScreenId": "7b76c81b-fab4-4c20-b6ca-4e0ad42ccff6",
+          "position": 3,
+          "sha256": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174",
+          "bytes": 66432,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174:3",
+          "eagleItemId": "MT7E28QDLSQSM"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "c5d6b89a-3479-414e-9c18-951de0e8a851",
+      "name": "Switching to private profile",
+      "group": "switching-to-private-profile",
+      "position": 65,
+      "screens": [
+        {
+          "mobbinScreenId": "7b76c81b-fab4-4c20-b6ca-4e0ad42ccff6",
+          "position": 1,
+          "sha256": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174",
+          "bytes": 66432,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174:1",
+          "eagleItemId": "MTBJELDPHO12R"
+        },
+        {
+          "mobbinScreenId": "eae93b1f-c6d6-4428-8fdb-10ad6100fbe3",
+          "position": 2,
+          "sha256": "bcbfdb430b1c0f70bf09ef38b1fc12d7193fbd696b3b3ecd18b1030aa5a6525e",
+          "bytes": 72700,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "bcbfdb430b1c0f70bf09ef38b1fc12d7193fbd696b3b3ecd18b1030aa5a6525e:2",
+          "eagleItemId": "MT7E28QG49JY4"
+        },
+        {
+          "mobbinScreenId": "531286ef-3097-4c10-9581-74762f9f4000",
+          "position": 3,
+          "sha256": "2422060857caa89d58e9df28ae90566384b0bc19204346928978f539e3d8b83b",
+          "bytes": 107716,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "2422060857caa89d58e9df28ae90566384b0bc19204346928978f539e3d8b83b:3",
+          "eagleItemId": "MT7E28QGIEPKL"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "179a9f96-a605-4144-a35d-d50bf7f446f7",
+      "name": "Deleting a profile",
+      "group": "deleting-a-profile",
+      "position": 66,
+      "screens": [
+        {
+          "mobbinScreenId": "7b76c81b-fab4-4c20-b6ca-4e0ad42ccff6",
+          "position": 1,
+          "sha256": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174",
+          "bytes": 66432,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "eaeff3833009af7f820d96a735fc018173be5b0e577c11be50e18cf9b9cd3174:1",
+          "eagleItemId": "MTBJELDPHO12R"
+        },
+        {
+          "mobbinScreenId": "9b2a3aca-2a30-4452-a537-243235428d8d",
+          "position": 2,
+          "sha256": "1f1897625f4dc4f8a035470dc2345043d83296caff1da86ba1b15b06de6c190d",
+          "bytes": 98644,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "1f1897625f4dc4f8a035470dc2345043d83296caff1da86ba1b15b06de6c190d:2",
+          "eagleItemId": "MT7E28QKRJIXW"
+        },
+        {
+          "mobbinScreenId": "9290ae13-674b-455e-beda-ac34ca81425f",
+          "position": 3,
+          "sha256": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d",
+          "bytes": 118416,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "6c2db079e5ac44d4931d89765f63ea9e8295fbb52fbe208d5b405fa7b2b91b7d:3",
+          "eagleItemId": "MTBJ66SSJ0EHA"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "64f2ef5d-aac2-49a6-9f55-e921888eb612",
+      "name": "User profile",
+      "group": "user-profile",
+      "position": 67,
+      "screens": [
+        {
+          "mobbinScreenId": "5146b5b4-3b94-4c83-b8dc-8c457b625c31",
+          "position": 1,
+          "sha256": "14a12f4ace68ac9478ea5f9bd7a2fefe2370beb3f92cfb5e46132e1dac67dd60",
+          "bytes": 121702,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "14a12f4ace68ac9478ea5f9bd7a2fefe2370beb3f92cfb5e46132e1dac67dd60:1",
+          "eagleItemId": "MTBJ0XXGBIN85"
+        },
+        {
+          "mobbinScreenId": "057ad83e-667f-4c2b-a864-575f1b26fc03",
+          "position": 2,
+          "sha256": "023bf53e53b8319c059660a44af56013c9ca6f6e9c1e655026f15b0989198b32",
+          "bytes": 70904,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "023bf53e53b8319c059660a44af56013c9ca6f6e9c1e655026f15b0989198b32:2",
+          "eagleItemId": "MT7E28QNW8D4W"
+        },
+        {
+          "mobbinScreenId": "24e7955c-69d7-4ac7-9849-428b2d7c3892",
+          "position": 3,
+          "sha256": "3912211f132e7c4ce7cb4fbd2f7ebe9865f969ec0ea0115a454acaf9a8cb3327",
+          "bytes": 65930,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3912211f132e7c4ce7cb4fbd2f7ebe9865f969ec0ea0115a454acaf9a8cb3327:3",
+          "eagleItemId": "MT7E28QNHVY8H"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "f7c248e5-fd1e-419b-b735-6886d42b48ad",
+      "name": "Blocking a user",
+      "group": "blocking-a-user",
+      "position": 68,
+      "screens": [
+        {
+          "mobbinScreenId": "057ad83e-667f-4c2b-a864-575f1b26fc03",
+          "position": 1,
+          "sha256": "023bf53e53b8319c059660a44af56013c9ca6f6e9c1e655026f15b0989198b32",
+          "bytes": 70904,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "023bf53e53b8319c059660a44af56013c9ca6f6e9c1e655026f15b0989198b32:1",
+          "eagleItemId": "MTBIZQ0MSECMT"
+        },
+        {
+          "mobbinScreenId": "da210693-0ba9-44cf-9ee2-4fd51ce7f594",
+          "position": 2,
+          "sha256": "867be64da048846320f09eaf870a38b97ef5b2004806a91b2d9188330151ccff",
+          "bytes": 73106,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "867be64da048846320f09eaf870a38b97ef5b2004806a91b2d9188330151ccff:2",
+          "eagleItemId": "MT7E28QOTI9IN"
+        },
+        {
+          "mobbinScreenId": "7e640096-a0a1-4631-b95a-090487cf9c44",
+          "position": 3,
+          "sha256": "ca9d9f8beaedddddb9b9d47ec96afb39dd09e249c20efc6291749f0efd309d13",
+          "bytes": 104870,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ca9d9f8beaedddddb9b9d47ec96afb39dd09e249c20efc6291749f0efd309d13:3",
+          "eagleItemId": "MT7E28QPT4WC1"
+        },
+        {
+          "mobbinScreenId": "5581d4b0-ec42-4569-bf84-bbc55e21de66",
+          "position": 4,
+          "sha256": "e5e46087a6be15b7e999d2adf6c880ab4e087ef520f355d211a4be13a65206d3",
+          "bytes": 72324,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e5e46087a6be15b7e999d2adf6c880ab4e087ef520f355d211a4be13a65206d3:4",
+          "eagleItemId": "MT7E28QP33CMK"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "6fea7617-e11b-4006-999a-8c99ad89db3e",
+      "name": "Manage subscription",
+      "group": "manage-subscription",
+      "position": 69,
+      "screens": [
+        {
+          "mobbinScreenId": "a8a69900-a2e3-4b64-a964-f9a9dc9aed19",
+          "position": 1,
+          "sha256": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75",
+          "bytes": 79264,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75:1",
+          "eagleItemId": "MTBJ8Q647AF4Q"
+        },
+        {
+          "mobbinScreenId": "7c6ec7bb-7a77-455e-bf56-ff815d95d57c",
+          "position": 2,
+          "sha256": "f0f1e2a51a0662299d23bd117558711b4e5940edf18a793793c030d841aa1ea4",
+          "bytes": 93038,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f0f1e2a51a0662299d23bd117558711b4e5940edf18a793793c030d841aa1ea4:2",
+          "eagleItemId": "MT7E28QR7XSA0"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "3b343474-cdc1-4405-a652-84fb1c33fc11",
+      "name": "Upgrade to family plan",
+      "group": "upgrade-to-family-plan",
+      "position": 70,
+      "screens": [
+        {
+          "mobbinScreenId": "a8a69900-a2e3-4b64-a964-f9a9dc9aed19",
+          "position": 1,
+          "sha256": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75",
+          "bytes": 79264,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75:1",
+          "eagleItemId": "MTBJ8Q647AF4Q"
+        },
+        {
+          "mobbinScreenId": "00e690e9-c634-4d6e-8130-7ab11c300e4f",
+          "position": 2,
+          "sha256": "fd6229d40845988d48a530d64193a9dec473f242531a7f2f65b7c78fa15af2c6",
+          "bytes": 85022,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "fd6229d40845988d48a530d64193a9dec473f242531a7f2f65b7c78fa15af2c6:2",
+          "eagleItemId": "MT7E28QU11IUA"
+        },
+        {
+          "mobbinScreenId": "8f9c9163-c004-4697-ae26-7021025d945e",
+          "position": 3,
+          "sha256": "3661e81da23945eba9dadcce57fbd96f9fb1c8cfa6af8a63d6ff4223ef96dcf5",
+          "bytes": 73042,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3661e81da23945eba9dadcce57fbd96f9fb1c8cfa6af8a63d6ff4223ef96dcf5:3",
+          "eagleItemId": "MT7E28QVUUT1O"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "4c994717-ae9f-4076-9256-d8257b842aa9",
+      "name": "Changing notification settings",
+      "group": "changing-notification-settings",
+      "position": 71,
+      "screens": [
+        {
+          "mobbinScreenId": "a8a69900-a2e3-4b64-a964-f9a9dc9aed19",
+          "position": 1,
+          "sha256": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75",
+          "bytes": 79264,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75:1",
+          "eagleItemId": "MTBJ8Q647AF4Q"
+        },
+        {
+          "mobbinScreenId": "05903a73-4c93-497c-b77a-12b96f1ec635",
+          "position": 2,
+          "sha256": "4429f5f38fb65daffa8e96d5c5808de1b1ade4299d9af389f3ef182be26a5d46",
+          "bytes": 52036,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "4429f5f38fb65daffa8e96d5c5808de1b1ade4299d9af389f3ef182be26a5d46:2",
+          "eagleItemId": "MT7E28QWJ28PN"
+        },
+        {
+          "mobbinScreenId": "3b1827a7-277d-403e-8d72-b287a34e7e12",
+          "position": 3,
+          "sha256": "b520a5af22c1e0e9f8a3a68f0f3a22921529ca09e790a4697a94ee909eacdf67",
+          "bytes": 51160,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "b520a5af22c1e0e9f8a3a68f0f3a22921529ca09e790a4697a94ee909eacdf67:3",
+          "eagleItemId": "MT7E28QW89YRE"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "7d6fd23a-469e-4da9-a0f0-2e369fd43416",
+      "name": "Approving a follow requests",
+      "group": "approving-a-follow-requests",
+      "position": 72,
+      "screens": [
+        {
+          "mobbinScreenId": "fa29e3c0-997f-4286-aa17-097554e7aea8",
+          "position": 1,
+          "sha256": "d28d15a7c174d71b9ff811f1b5d861e628a8ef724b1351adf4d4618bfca20ccd",
+          "bytes": 83754,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "d28d15a7c174d71b9ff811f1b5d861e628a8ef724b1351adf4d4618bfca20ccd:1",
+          "eagleItemId": "MTBJCUESWBV4X"
+        },
+        {
+          "mobbinScreenId": "f37105ad-ba4c-4918-842e-c4ccb627face",
+          "position": 2,
+          "sha256": "e707e762425e1dc6b9574f313ccff235e500b6dbcb92dc1dfc765f459a6f96dd",
+          "bytes": 30198,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "e707e762425e1dc6b9574f313ccff235e500b6dbcb92dc1dfc765f459a6f96dd:2",
+          "eagleItemId": "MT7E28QXMQ1CY"
+        },
+        {
+          "mobbinScreenId": "a8a69900-a2e3-4b64-a964-f9a9dc9aed19",
+          "position": 3,
+          "sha256": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75",
+          "bytes": 79264,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "92a2f315143aeda8537d5375d5ba02ca0b69d38e45d6d9f9bd2e791cc5471a75:3",
+          "eagleItemId": "MT7E28Q6A9ZKN"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "d6aa4c7f-e3f0-4e17-89e7-c592b0ce2937",
+      "name": "Account settings",
+      "group": "account-settings",
+      "position": 73,
+      "screens": [
+        {
+          "mobbinScreenId": "68822c9a-6612-4bff-8e2a-b03d6a5e081d",
+          "position": 1,
+          "sha256": "dbc8bdcef5a300c04ae768c64f0b13cc0ee60cf4a24de4190c6770a0575b27d5",
+          "bytes": 81208,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "dbc8bdcef5a300c04ae768c64f0b13cc0ee60cf4a24de4190c6770a0575b27d5:1",
+          "eagleItemId": "MTBJDDKE7UYVK"
+        },
+        {
+          "mobbinScreenId": "a04a3459-6fc8-4855-a89a-3ede86081fb2",
+          "position": 2,
+          "sha256": "a65d3f667b690acd07a100f2941654e9c028a58e5b4cac0184f7b9c717e82b92",
+          "bytes": 84864,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "a65d3f667b690acd07a100f2941654e9c028a58e5b4cac0184f7b9c717e82b92:2",
+          "eagleItemId": "MT7E28QZSFS3I"
+        },
+        {
+          "mobbinScreenId": "7ccc50a9-1965-438c-9570-3b50dba7342b",
+          "position": 3,
+          "sha256": "ab4556f088167c130860872bb6a54367e277ceed1a8117f18af0e3f8443f976a",
+          "bytes": 113352,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ab4556f088167c130860872bb6a54367e277ceed1a8117f18af0e3f8443f976a:3",
+          "eagleItemId": "MT7E28QZCMKH0"
+        },
+        {
+          "mobbinScreenId": "a830d958-39f2-4a6d-8772-7115588565d4",
+          "position": 4,
+          "sha256": "ae10af9969ae14156705cf8ca73f4f1617b3ba9989deb51df7e08b960602383d",
+          "bytes": 89856,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "ae10af9969ae14156705cf8ca73f4f1617b3ba9989deb51df7e08b960602383d:4",
+          "eagleItemId": "MT7E28QZMPO9U"
+        }
+      ]
+    },
+    {
+      "mobbinFlowId": "3a6a2969-e880-4d6b-b1ae-9a6557004f5a",
+      "name": "Widgets",
+      "group": "widgets",
+      "position": 74,
+      "screens": [
+        {
+          "mobbinScreenId": "51b795c5-114f-455e-8b2d-4a47be343065",
+          "position": 1,
+          "sha256": "3354b2b2bf0a7c396cdaf2f2b997dec5df05987903b9f0b0b0bba2ed50b7afe9",
+          "bytes": 83270,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "3354b2b2bf0a7c396cdaf2f2b997dec5df05987903b9f0b0b0bba2ed50b7afe9:1",
+          "eagleItemId": "MT7E28R3JRIFJ"
+        },
+        {
+          "mobbinScreenId": "f8581659-c9f2-4d2b-aa59-f543fb39ca0b",
+          "position": 2,
+          "sha256": "f905c87b5bed6b1d64fb1053f56f8a288d14aec0656d95f77d2fd9460dd216b7",
+          "bytes": 92114,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f905c87b5bed6b1d64fb1053f56f8a288d14aec0656d95f77d2fd9460dd216b7:2",
+          "eagleItemId": "MT7E28R471INE"
+        },
+        {
+          "mobbinScreenId": "213b9f7a-51ec-4624-a488-f8fd52431155",
+          "position": 3,
+          "sha256": "54c46f81e46d92448a27e38fa1891682b9fc7878f900258332f54b563ca05569",
+          "bytes": 116810,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "54c46f81e46d92448a27e38fa1891682b9fc7878f900258332f54b563ca05569:3",
+          "eagleItemId": "MT7E28R42WVOU"
+        },
+        {
+          "mobbinScreenId": "ddbd8701-09e5-4c83-b71f-a4e4da2f0744",
+          "position": 4,
+          "sha256": "f0f1389a86e3b0631ead32ab482e9122bc046be0802490602aef03a69629852f",
+          "bytes": 126162,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "f0f1389a86e3b0631ead32ab482e9122bc046be0802490602aef03a69629852f:4",
+          "eagleItemId": "MT7E28R4S6US1"
+        },
+        {
+          "mobbinScreenId": "de092e0f-6534-4be7-8a02-3618d2367f9a",
+          "position": 5,
+          "sha256": "54b16a1f99b79e0e113e85de48be831f875802a6c71ca51f4174fd1674cfcdbc",
+          "bytes": 74856,
+          "width": 1179,
+          "height": 2676,
+          "descriptor": "downloadableSrc",
+          "assetIdentity": "54b16a1f99b79e0e113e85de48be831f875802a6c71ca51f4174fd1674cfcdbc:5",
+          "eagleItemId": "MT7E28R4EP5TS"
+        }
+      ]
+    }
+  ]
+}

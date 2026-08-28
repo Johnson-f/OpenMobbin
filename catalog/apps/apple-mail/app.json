@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-mail",
+  "name": "Apple Mail",
+  "mobbinAppId": "ad7ff07a-86f4-4126-b32e-dcd5a57e428b",
+  "platform": "ios",
+  "currentVersionId": "08868e96-c26b-4f5e-a056-4f0a26d499aa",
+  "versionIds": [
+    "08868e96-c26b-4f5e-a056-4f0a26d499aa"
+  ]
+}

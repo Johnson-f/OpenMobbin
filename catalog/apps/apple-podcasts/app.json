@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-podcasts",
+  "name": "Apple Podcasts",
+  "mobbinAppId": "e5c1c85e-f05c-450c-a546-873f624a2a63",
+  "platform": "ios",
+  "currentVersionId": "f76acd84-3730-4eb6-98dc-02ff50b96fba",
+  "versionIds": [
+    "f76acd84-3730-4eb6-98dc-02ff50b96fba"
+  ]
+}

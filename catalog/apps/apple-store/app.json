@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-store",
+  "name": "Apple Store",
+  "mobbinAppId": "c398e404-cbd4-4f86-8a89-18e36b882319",
+  "platform": "ios",
+  "currentVersionId": "2c15abd3-2aec-4a0c-bee8-f81995702a6a",
+  "versionIds": [
+    "2c15abd3-2aec-4a0c-bee8-f81995702a6a"
+  ]
+}

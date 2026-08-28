@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "eleven-labs",
+  "name": "Eleven Labs",
+  "mobbinAppId": "fd5fd1c7-9264-482e-aef3-4e6e191b0ed7",
+  "platform": "ios",
+  "currentVersionId": "296eabf9-ca95-423d-901a-44bf12a7828e",
+  "versionIds": [
+    "296eabf9-ca95-423d-901a-44bf12a7828e"
+  ]
+}

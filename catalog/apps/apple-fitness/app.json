@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-fitness",
+  "name": "Apple Fitness",
+  "mobbinAppId": "f8b3622e-9edd-41af-b49e-41f6528b1da3",
+  "platform": "ios",
+  "currentVersionId": "41d59266-03f6-4bed-91bf-f84557ccf8c1",
+  "versionIds": [
+    "41d59266-03f6-4bed-91bf-f84557ccf8c1"
+  ]
+}

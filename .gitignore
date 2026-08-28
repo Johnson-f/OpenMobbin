@@ -17,6 +17,7 @@ UI-element-reports/
 *.log
 *.pid
 .eagle-sync-state.json
+.mobbin/
 
 # Exported media artifacts
 *.webp

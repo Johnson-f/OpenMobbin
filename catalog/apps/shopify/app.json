@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "shopify",
+  "name": "Shopify",
+  "mobbinAppId": "5ef645d5-1d9b-411e-a06a-e9757b310964",
+  "platform": "ios",
+  "currentVersionId": "ac30a3f0-10fa-4c5a-ae94-2603b8b77a7a",
+  "versionIds": [
+    "ac30a3f0-10fa-4c5a-ae94-2603b8b77a7a"
+  ]
+}

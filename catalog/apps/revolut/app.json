@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "revolut",
+  "name": "Revolut",
+  "mobbinAppId": "28b2d970-a05d-4509-99dd-83d47dbc3a16",
+  "platform": "ios",
+  "currentVersionId": "aa23fa4c-2ecb-4027-b126-335f9fcd86b1",
+  "versionIds": [
+    "aa23fa4c-2ecb-4027-b126-335f9fcd86b1"
+  ]
+}

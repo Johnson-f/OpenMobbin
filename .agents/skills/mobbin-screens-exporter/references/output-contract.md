@@ -1,36 +1,27 @@
-# Output Contract
+# Output contract
 
-Canonical project root:
+Eagle owns every WebP. The repository owns only deterministic JSON metadata and ignored SQLite state.
 
-```text
-/Users/user/mobbin-sides
-```
-
-Canonical categorized outputs:
+Each asset identity is:
 
 ```text
-latest-images/<category>/
-latest-reports/<category>/mobbin-screen-downloadables-report.json
-latest-reports/<category>/mobbin-screen-downloadables.csv
+<full-sha256>:<one-based-screen-position>
 ```
 
-Compatibility note: `latest-report` may exist as a symlink to `latest-reports`; keep `latest-reports` canonical in new code and documentation.
-
-Successful reports must satisfy:
+Visible Eagle names are:
 
 ```text
-screenCount > 0
-savedImageCount == screenCount
-filesystem image count == savedImageCount
-uniqueSha256Count == savedImageCount
-tinyImageCount == 0
+Apps/<app>/<NNN — flow>/<NNN — hash12>
+Flows/<flow-group>/<app>/<NNN — flow>/<NNN — hash12>
 ```
 
-Known verified exports:
+A successful command must satisfy:
 
-```text
-phantom: 190 screens, 190 saved, 190 unique, 0 tiny
-nike: 284 screens, 284 saved, 284 unique, 0 tiny
-```
-
-Report files intentionally include hashes, dimensions, response metadata, selected source descriptors, and local saved paths. They must not include decrypted cookies, auth tokens, or signed CDN URLs.
+- every current catalog reference resolves to one Eagle item;
+- each item hash and position match its identity;
+- both expected leaf memberships exist;
+- leaves sort by ascending name;
+- `_Mobbin Staging` is empty after completion;
+- catalog JSON is valid and deterministic;
+- SQLite integrity and rebuild checks pass;
+- no project-owned WebP exists in the repository.

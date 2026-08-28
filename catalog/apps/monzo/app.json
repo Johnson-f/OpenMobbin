@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "monzo",
+  "name": "Monzo",
+  "mobbinAppId": "f6915aea-cb42-474d-99f2-066d3177949a",
+  "platform": "ios",
+  "currentVersionId": "ccc5ff24-f952-4059-8421-67eaa921f7b0",
+  "versionIds": [
+    "ccc5ff24-f952-4059-8421-67eaa921f7b0"
+  ]
+}

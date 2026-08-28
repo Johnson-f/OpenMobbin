@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-health",
+  "name": "Apple Health",
+  "mobbinAppId": "76436d76-126b-42ea-a287-9bb453f8d97f",
+  "platform": "ios",
+  "currentVersionId": "9b150bfa-4e95-489c-9dc0-4af8396899bf",
+  "versionIds": [
+    "9b150bfa-4e95-489c-9dc0-4af8396899bf"
+  ]
+}

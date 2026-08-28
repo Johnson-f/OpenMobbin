@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "anz-plus",
+  "name": "ANZ Plus",
+  "mobbinAppId": "2ebfb292-c689-42bc-bfe6-d2a9381dc337",
+  "platform": "ios",
+  "currentVersionId": "7047ab31-c632-46f0-8597-121df81c4a16",
+  "versionIds": [
+    "7047ab31-c632-46f0-8597-121df81c4a16"
+  ]
+}

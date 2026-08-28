@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "fiverr",
+  "name": "Fiverr",
+  "mobbinAppId": "f882792a-7ed6-4513-9279-87b8fd366fbb",
+  "platform": "ios",
+  "currentVersionId": "59ebd3d7-3069-43ed-8ae5-b56684e6f112",
+  "versionIds": [
+    "59ebd3d7-3069-43ed-8ae5-b56684e6f112"
+  ]
+}

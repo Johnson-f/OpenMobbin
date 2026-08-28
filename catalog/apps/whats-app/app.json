@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "whats-app",
+  "name": "Whats APP",
+  "mobbinAppId": "8738dbc9-e7a8-4fef-91e5-6afd1c9d092b",
+  "platform": "ios",
+  "currentVersionId": "36ae4720-4bee-4257-85b3-80d5447e899d",
+  "versionIds": [
+    "36ae4720-4bee-4257-85b3-80d5447e899d"
+  ]
+}

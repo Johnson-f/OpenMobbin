@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "revolut-business",
+  "name": "Revolut Business",
+  "mobbinAppId": "93ad9ceb-a163-41da-ba7a-9f07c737fc2a",
+  "platform": "ios",
+  "currentVersionId": "0c4c334c-e3a5-4395-89be-c7666aaafdf5",
+  "versionIds": [
+    "0c4c334c-e3a5-4395-89be-c7666aaafdf5"
+  ]
+}

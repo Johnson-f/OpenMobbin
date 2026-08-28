@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-maps",
+  "name": "Apple Maps",
+  "mobbinAppId": "4687909b-d32d-4007-9fd8-466dc5f982c2",
+  "platform": "ios",
+  "currentVersionId": "b4a4f165-23c6-48d3-86e8-f4bc65da064c",
+  "versionIds": [
+    "b4a4f165-23c6-48d3-86e8-f4bc65da064c"
+  ]
+}

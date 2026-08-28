@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-notes",
+  "name": "Apple Notes",
+  "mobbinAppId": "201a63f1-7499-4ebe-b92d-401605aa41bb",
+  "platform": "ios",
+  "currentVersionId": "a9a438a7-aab8-4568-a32f-f6a4659afa40",
+  "versionIds": [
+    "a9a438a7-aab8-4568-a32f-f6a4659afa40"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "craft",
+  "name": "Craft",
+  "mobbinAppId": "174c167d-3d91-4ec8-9eeb-511b92b59dfc",
+  "platform": "ios",
+  "currentVersionId": "9c6ca8f8-2086-459f-a226-d4d1e14a5024",
+  "versionIds": [
+    "9c6ca8f8-2086-459f-a226-d4d1e14a5024"
+  ]
+}

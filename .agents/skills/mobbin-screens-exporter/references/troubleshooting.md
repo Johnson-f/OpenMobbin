@@ -1,61 +1,21 @@
 # Troubleshooting
 
-## Cookie Parsing Fails
+## Eagle preflight
 
-Use the exporter path that reads Dia cookies through `sqlite3 -json`.
+Open Eagle with `/Users/user/Mobbin.library`. Do not point the importer at another library or claim an unowned `Apps`, `Flows`, or `_Mobbin Staging` root.
 
-Do not concatenate SQLite fields with a delimiter when `value` can be `NULL`; it can drop encrypted-cookie rows and silently remove auth cookies.
+## Dia authentication
 
-Never print decrypted cookie values. It is acceptable to print cookie row counts or cookie names when debugging.
+Sign out of Mobbin in Dia, sign back in, and rerun. Never print decrypted cookie values.
 
-## Generic Or Not-Found Mobbin Payload
+## Mobbin access or challenge
 
-Check authentication first. A `200` HTML response can still contain a generic fallback payload instead of the authenticated app data.
+Open the exact app version in Dia. Complete any login or challenge in the browser, then rerun. Authentication, access, and challenge errors are not ordinary network retries.
 
-Verify:
+## Interrupted work
 
-```bash
-node /Users/user/mobbin-sides/scripts/export-mobbin-screens.mjs --limit 1 --category auth-check
-```
+Repeat the same scrape URL. SQLite resumes staged identities and the visible current version remains until the replacement is ready.
 
-Use `work/` override directories for temporary smoke tests when avoiding latest output folders.
+## Verification failure
 
-## App Name Resolution
-
-Use wrapper `--query "<app-name>" --platform ios` when the user gives an app name instead of a Mobbin URL.
-
-Resolution path:
-
-```text
-POST /api/search-bar/search with { query, experience: "apps", platform }
-GET /api/app-hover-card/<appId>
-https://mobbin.com/apps/<slugified-name>-<platform>-<appId>/<latest-version-id>/screens
-```
-
-Search and hover-card calls require Dia-authenticated Mobbin cookies. Do not print cookies or signed CDN URLs while debugging.
-
-## Duplicate Hashes
-
-Duplicates usually mean the exporter selected carousel thumbnails or repeated preview images instead of one canonical screen per `screen.id`.
-
-Use the wrapper default behavior; it fails when `uniqueSha256Count !== savedImageCount`.
-
-Patch the exporter only after checking the report's `results[*].screenId`, `sha256`, `descriptor`, and dimensions.
-
-## Tiny Placeholder Images
-
-Tiny images are usually restricted placeholders, such as `15x32` or `15x33` WebP files.
-
-The correct source path is:
-
-```text
-POST /api/screen/fetch-screen-info -> screenCdnImgSources.downloadableSrc
-```
-
-Do not accept a run with `tinyImageCount > 0` unless the user explicitly asks to preserve diagnostic failures.
-
-## Flow Pages
-
-For flow pages, prefer using the corresponding `/screens` URL when exporting every unique app screen. The exporter can still start from `/flows` if the authenticated payload contains the screen array.
-
-When only flow-specific screens are needed, inspect `partialFlows` and confirm whether the request should export all app screens or only screens belonging to selected flows.
+Run `bun run verify` and fix the reported invariant. Verification is read-only; do not edit Eagle library metadata files directly.

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "x-chat",
+  "name": "Xchat",
+  "mobbinAppId": "31124a64-058b-4783-809f-ad7dd43ac7d7",
+  "platform": "ios",
+  "currentVersionId": "6901070a-8142-46de-9462-d2c8ba13640a",
+  "versionIds": [
+    "6901070a-8142-46de-9462-d2c8ba13640a"
+  ]
+}

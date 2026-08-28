@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "cash-app",
+  "name": "Cash APP",
+  "mobbinAppId": "6fc9a5b8-91ee-47dd-976d-9784a1975e1a",
+  "platform": "ios",
+  "currentVersionId": "fed5f550-de22-4c8f-98d3-72b7dcf28e2e",
+  "versionIds": [
+    "fed5f550-de22-4c8f-98d3-72b7dcf28e2e"
+  ]
+}

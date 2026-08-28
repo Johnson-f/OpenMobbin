@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-games",
+  "name": "Apple Games",
+  "mobbinAppId": "0d8ab4be-5bf8-415c-a6d3-9af1ee9fba5a",
+  "platform": "ios",
+  "currentVersionId": "3e6a7522-2d52-4b87-9f59-028356e93f32",
+  "versionIds": [
+    "3e6a7522-2d52-4b87-9f59-028356e93f32"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-wallet",
+  "name": "Apple Wallet",
+  "mobbinAppId": "bc652a0b-b680-4ce8-9fdb-b28ca6ea6d8d",
+  "platform": "ios",
+  "currentVersionId": "ab6db0fe-8aa0-4672-b265-173bce58be55",
+  "versionIds": [
+    "ab6db0fe-8aa0-4672-b265-173bce58be55"
+  ]
+}

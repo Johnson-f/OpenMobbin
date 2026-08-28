@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-home",
+  "name": "Apple Home",
+  "mobbinAppId": "3d52046e-ed9b-40de-8235-c658a0b3d91d",
+  "platform": "ios",
+  "currentVersionId": "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92",
+  "versionIds": [
+    "8737c90d-3ac7-4cd4-a9c5-6f75ecf59d92"
+  ]
+}

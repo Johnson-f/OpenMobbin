@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-invites",
+  "name": "Apple Invites",
+  "mobbinAppId": "6aef2663-75b6-4208-8077-4468f8f0a4f2",
+  "platform": "ios",
+  "currentVersionId": "594b68fc-cc6d-49e0-9f9c-7f2356b70781",
+  "versionIds": [
+    "594b68fc-cc6d-49e0-9f9c-7f2356b70781"
+  ]
+}

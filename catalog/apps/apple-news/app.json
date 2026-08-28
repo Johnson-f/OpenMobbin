@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-news",
+  "name": "Apple News",
+  "mobbinAppId": "2ba30e05-f5ad-4666-82d8-677904a0c82e",
+  "platform": "ios",
+  "currentVersionId": "265b7905-18b6-4f2f-9f7f-1174f0420c78",
+  "versionIds": [
+    "265b7905-18b6-4f2f-9f7f-1174f0420c78"
+  ]
+}

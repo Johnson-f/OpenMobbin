@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-watch",
+  "name": "Apple Watch",
+  "mobbinAppId": "d5affeb9-ed0e-4c36-8e80-cd08a6bed4ba",
+  "platform": "ios",
+  "currentVersionId": "effde119-f664-48b0-a60e-979713a7855b",
+  "versionIds": [
+    "effde119-f664-48b0-a60e-979713a7855b"
+  ]
+}

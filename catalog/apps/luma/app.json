@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "luma",
+  "name": "Luma",
+  "mobbinAppId": "bead4230-994f-47c2-9311-5049bf7bcace",
+  "platform": "ios",
+  "currentVersionId": "3f5f743f-38ad-40d2-b8ed-9393d2dd4591",
+  "versionIds": [
+    "3f5f743f-38ad-40d2-b8ed-9393d2dd4591"
+  ]
+}

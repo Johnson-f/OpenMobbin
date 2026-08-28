@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-books",
+  "name": "Apple Books",
+  "mobbinAppId": "67f29e36-ec97-4a65-8e57-ae5595d1223e",
+  "platform": "ios",
+  "currentVersionId": "6f87a791-ad26-4efd-9838-6a9490f01267",
+  "versionIds": [
+    "6f87a791-ad26-4efd-9838-6a9490f01267"
+  ]
+}

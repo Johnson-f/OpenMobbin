@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "nike",
+  "name": "Nike",
+  "mobbinAppId": "03eab082-d557-423b-92f8-797b18bc1f36",
+  "platform": "ios",
+  "currentVersionId": "f1257fae-f105-498b-8a5c-92f9c2e2b5b0",
+  "versionIds": [
+    "f1257fae-f105-498b-8a5c-92f9c2e2b5b0"
+  ]
+}

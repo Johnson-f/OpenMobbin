@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-photos",
+  "name": "Apple Photos",
+  "mobbinAppId": "d94c6b5e-d7b1-4cfe-9eed-acb0f33f8add",
+  "platform": "ios",
+  "currentVersionId": "ac2b940d-d0d5-4755-9c01-1dc24e792ee0",
+  "versionIds": [
+    "ac2b940d-d0d5-4755-9c01-1dc24e792ee0"
+  ]
+}

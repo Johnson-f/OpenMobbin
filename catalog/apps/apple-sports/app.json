@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-sports",
+  "name": "Apple Sports",
+  "mobbinAppId": "d243ea62-51b4-4aa5-be37-08bbdb4236b5",
+  "platform": "ios",
+  "currentVersionId": "c3881ed5-2045-4c23-8f59-0eeb94946c89",
+  "versionIds": [
+    "c3881ed5-2045-4c23-8f59-0eeb94946c89"
+  ]
+}

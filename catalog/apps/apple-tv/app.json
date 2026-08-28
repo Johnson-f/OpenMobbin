@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-tv",
+  "name": "Apple TV",
+  "mobbinAppId": "76726de5-6734-4cb3-9302-54b39da1c1d0",
+  "platform": "ios",
+  "currentVersionId": "2ff0781c-d34d-4c37-97a4-eba4fd9bd73c",
+  "versionIds": [
+    "2ff0781c-d34d-4c37-97a4-eba4fd9bd73c"
+  ]
+}

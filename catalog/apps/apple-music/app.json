@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "apple-music",
+  "name": "Apple Music",
+  "mobbinAppId": "90171ea7-acfd-47e1-b2dc-8e70956e9271",
+  "platform": "ios",
+  "currentVersionId": "75fe0fa7-0cf8-4a06-8711-fd212f12e15f",
+  "versionIds": [
+    "75fe0fa7-0cf8-4a06-8711-fd212f12e15f"
+  ]
+}

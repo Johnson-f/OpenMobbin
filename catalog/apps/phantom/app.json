@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "phantom",
+  "name": "Phantom",
+  "mobbinAppId": "28f44562-240b-48eb-997f-8a1a731499cb",
+  "platform": "ios",
+  "currentVersionId": "689aadcf-d2e3-49bb-8ebb-e135252e28bd",
+  "versionIds": [
+    "689aadcf-d2e3-49bb-8ebb-e135252e28bd"
+  ]
+}

@@ -1,4 +1,4 @@
 interface:
-  display_name: "Mobbin Screens Exporter"
-  short_description: "Repeatable Mobbin screen exports"
-  default_prompt: "Use $mobbin-screens-exporter to export a Mobbin app page into categorized images and reports."
+  display_name: "Mobbin Eagle Importer"
+  short_description: "Import Mobbin flows into Eagle"
+  default_prompt: "Use $mobbin-screens-exporter to import an authorized Mobbin app version into Eagle and verify the catalog."
