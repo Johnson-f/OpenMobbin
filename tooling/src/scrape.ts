@@ -63,6 +63,10 @@ export async function scrape(url: string, dependencies: ScrapeDependencies): Pro
   await dependencies.eagle.preflight();
   await dependencies.mobbin.preflight();
   const plan = await dependencies.mobbin.discover(url);
+  const currentApp = (await dependencies.store.readCurrentVersions()).find((version) => version.app.slug === plan.appSlug)?.app;
+  if (currentApp && (currentApp.platform !== plan.platform || currentApp.mobbinAppId !== plan.mobbinAppId)) {
+    throw new Error(`Catalog identity conflict for ${plan.appSlug}: this name already belongs to another app or platform`);
+  }
   const planHash = createHash("sha256").update(JSON.stringify(plan)).digest("hex");
   const run = dependencies.store.beginRun({ appSlug: plan.appSlug, versionId: plan.version.mobbinVersionId, planHash });
   const discovered = plan.flows.reduce((sum, flow) => sum + flow.screens.length, 0);

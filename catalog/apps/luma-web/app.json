@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "luma-web",
+  "name": "Luma",
+  "mobbinAppId": "1568da8b-52fe-4a00-9170-6558e9f10d74",
+  "platform": "web",
+  "currentVersionId": "99c7040b-604e-41e9-975b-f532656753c1",
+  "versionIds": [
+    "99c7040b-604e-41e9-975b-f532656753c1"
+  ]
+}

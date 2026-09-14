@@ -243,6 +243,12 @@ export class CatalogStore {
     `).get(logicalKey) ?? null;
   }
 
+  rekeyManagedLeaf(previousKey: string, nextKey: string): void {
+    const result = this.database.query("UPDATE managed_folders SET logical_key = ?, updated_at = ? WHERE logical_key = ? AND kind IN ('app-flow', 'group-flow')")
+      .run(nextKey, new Date().toISOString(), previousKey);
+    if (result.changes !== 1) throw new Error(`Managed leaf ${previousKey} is missing`);
+  }
+
   listManagedFolders(): ManagedFolderRecord[] {
     return this.database.query<ManagedFolderRecord, []>(`
       SELECT logical_key AS logicalKey, eagle_id AS eagleId, kind, parent_key AS parentKey, name

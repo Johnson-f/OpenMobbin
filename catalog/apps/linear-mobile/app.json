@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "slug": "linear-mobile",
+  "name": "Linear Mobile",
+  "mobbinAppId": "a9c8e2d8-2d18-4d27-88be-a89ea6f82028",
+  "platform": "ios",
+  "currentVersionId": "c0c28468-0381-466b-9d3f-133f1227e303",
+  "versionIds": [
+    "c0c28468-0381-466b-9d3f-133f1227e303"
+  ]
+}

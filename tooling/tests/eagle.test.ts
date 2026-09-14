@@ -4,8 +4,90 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { CatalogStore, versionCatalogSchema } from "../src/catalog";
 import { EagleLibrary, type EagleAdapter, type EagleFolder, type EagleItem } from "../src/eagle";
+import { scrape } from "../src/scrape";
+import { parseAppPageHtml, parseMobbinAppUrl } from "../src/local/mobbin-page";
 
 describe("Eagle module", () => {
+  test("imports and updates Luma Web beside iOS without replacing its catalog or images", async () => {
+    const root = await mkdtemp(join(tmpdir(), "mobbin-eagle-platforms-"));
+    const store = await CatalogStore.open({ catalogRoot: join(root, "catalog"), statePath: join(root, "state.sqlite") });
+    const adapter = new FakeEagle(join(root, "Mobbin.library"));
+    const eagle = new EagleLibrary({ adapter, expectedLibraryPath: adapter.libraryPath, store, verifyFilesystem: false });
+    const v1 = "11111111-1111-1111-1111-111111111111";
+    const v2 = "22222222-2222-2222-2222-222222222222";
+    const iosUrl = `https://mobbin.com/apps/luma-ios-33333333-3333-3333-3333-333333333333/${v1}/flows`;
+    const webUrl = `https://mobbin.com/apps/luma-web-44444444-4444-4444-4444-444444444444/${v1}/flows`;
+    const mobbin = {
+      async preflight() {},
+      async discover(url: string) {
+        const app = parseMobbinAppUrl(url);
+        const screenId = app.platform === "ios" ? "a" : app.versionId === v1 ? "b" : "c";
+        const data = { partialFlows: [{ id: `flow-${screenId}`, name: "Onboarding", screens: [{ screenId, order: 1 }] }] };
+        const html = `<script>self.__next_f.push(${JSON.stringify([1, JSON.stringify(data)])})</script>`;
+        return parseAppPageHtml(html, app);
+      },
+      async fetchScreen(id: string) {
+        return { path: join(root, "screen.webp"), metadata: { mobbinScreenId: id, sha256: id.repeat(64), bytes: 6, width: 3024, height: 2010, contentType: "image/webp" as const, descriptor: "downloadableSrc" }, async dispose() {} };
+      },
+    };
+    try {
+      await scrape(iosUrl, { eagle, mobbin, store });
+      const iosBefore = await store.readApp("luma");
+      const iosItemId = adapter.items[0]!.id;
+      const web = await scrape(webUrl, { eagle, mobbin, store });
+      expect(web.app).toBe("luma-web");
+      const oldWebId = adapter.items.find((item) => item.id !== iosItemId)!.id;
+      const webLeaf = adapter.folderPath(["Apps", "luma-web", "001 — Onboarding"]);
+      const groupLeaf = adapter.folderPath(["Flows", "onboarding", "luma-web — 001 — Onboarding"]);
+      expect(adapter.item(oldWebId).folders.sort()).toEqual([webLeaf.id, groupLeaf.id].sort());
+      const updated = await scrape(webUrl.replace(v1, v2), { eagle, mobbin, store });
+      expect(updated.trashedItems).toBe(1);
+      expect(adapter.trashCalls.flat()).toEqual([oldWebId]);
+      expect(await store.readApp("luma")).toEqual(iosBefore);
+      expect(adapter.item(iosItemId).folders).toContain(adapter.folderPath(["Apps", "luma", "001 — Onboarding"]).id);
+      expect(await store.readApp("luma-web")).toMatchObject({ platform: "web", currentVersionId: v2, versionIds: [v1, v2] });
+      expect(await scrape(webUrl.replace(v1, v2), { eagle, mobbin, store })).toMatchObject({ fetched: 0, staged: 0, updatedItems: 0, trashedItems: 0 });
+      expect((await store.readCurrentVersions()).map((version) => version.app.slug)).toEqual(["luma", "luma-web"]);
+    } finally {
+      store.close();
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
+  test("reuses managed flow folders when a new version changes flow IDs", async () => {
+    const root = await mkdtemp(join(tmpdir(), "mobbin-eagle-version-"));
+    const store = await CatalogStore.open({ catalogRoot: join(root, "catalog"), statePath: join(root, "state.sqlite") });
+    const adapter = new FakeEagle(join(root, "Mobbin.library"));
+    const eagle = new EagleLibrary({ adapter, expectedLibraryPath: adapter.libraryPath, store, verifyFilesystem: false });
+    try {
+      const first = await eagle.stageAsset(asset("a".repeat(64), 1, join(root, "screen.webp")));
+      const second = await eagle.duplicateAsset(duplicateAsset("a".repeat(64), 2), first.id);
+      await eagle.reconcile([version(first.id, second.id)]);
+      const oldAppLeaf = adapter.folderPath(["Apps", "luma", "001 — Onboarding"]).id;
+      const oldGroupLeaf = adapter.folderPath(["Flows", "onboarding", "luma — 001 — Onboarding"]).id;
+      const updated = versionWithoutFirst(second.id);
+      updated.version.mobbinVersionId = "version-2";
+      updated.flows[0]!.mobbinFlowId = "new-flow-1";
+      const result = await eagle.reconcile([updated], { removeObsolete: false });
+      expect(result.createdFolders).toBe(0);
+      expect(adapter.item(first.id)).toBeDefined();
+      expect(store.getManagedFolder("app-flow:luma:new-flow-1")?.eagleId).toBe(oldAppLeaf);
+      expect(store.getManagedFolder("group-flow:onboarding:luma:new-flow-1")?.eagleId).toBe(oldGroupLeaf);
+      expect(store.getManagedFolder("app-flow:luma:flow-1")).toBeNull();
+      const cleanup = await eagle.reconcile([updated]);
+      expect(cleanup).toMatchObject({ createdFolders: 0, trashedItems: 1, removedFolders: 0 });
+      expect(adapter.item(second.id).folders.sort()).toEqual([oldAppLeaf, oldGroupLeaf].sort());
+      expect(await eagle.reconcile([updated])).toMatchObject({ createdFolders: 0, updatedItems: 0, trashedItems: 0, removedFolders: 0 });
+      const unowned = adapter.addExternalFolder("002 — Settings");
+      unowned.parent = adapter.folderPath(["Apps", "luma"]).id;
+      updated.flows.push({ ...updated.flows[0]!, position: 2, name: "Settings", group: "settings", mobbinFlowId: "new-flow-2" });
+      await expect(eagle.reconcile([updated])).rejects.toThrow("unowned");
+    } finally {
+      store.close();
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
   test("stages exact identities and reconciles both views while preserving external links", async () => {
     const root = await mkdtemp(join(tmpdir(), "mobbin-eagle-module-"));
     const store = await CatalogStore.open({ catalogRoot: join(root, "catalog"), statePath: join(root, "state.sqlite") });

@@ -1,6 +1,6 @@
 ---
 name: mobbin-screens-exporter
-description: Import authorized Mobbin app flows from the signed-in Dia session into the Eagle-only Apps and Flows catalog. Use when scraping, resuming, or verifying Mobbin flows.
+description: Import authorized Mobbin iOS and web app flows from the signed-in Dia session into Eagle. Use when scraping, resuming, or verifying Mobbin flows.
 ---
 
 # Mobbin Eagle importer
@@ -26,7 +26,9 @@ The command preflights Eagle and Dia, stages missing identities, updates both Ea
 - WebPs exist only in Eagle.
 - App metadata is under `catalog/apps/<slug>/`.
 - Operational state is under ignored `.mobbin/state.sqlite`.
-- Eagle folders are `Apps/<app>/<flow>` and `Flows/<group>/<app>/<flow>`.
+- Eagle folders are `Apps/<app>/<flow>` and `Flows/<group>/<app> — <flow>`.
+- Use the source Mobbin URL unchanged. The importer stores web apps as `<slug>-web`; existing iOS app names stay unchanged. Both platforms share the same scrape command.
+- Web support covers `/apps/...-web-...` flows; Mobbin Sites are separate. A cross-app or cross-platform catalog-name conflict must be resolved before importing.
 
 Read `references/output-contract.md` before changing identities, folder names, catalog schemas, or verification rules.
 

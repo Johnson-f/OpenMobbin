@@ -9,6 +9,22 @@ import { sha256Hex } from "../../src/shared/hashing";
 const url = "https://mobbin.com/apps/anz-plus-ios-11111111-1111-1111-1111-111111111111/22222222-2222-2222-2222-222222222222/screens";
 
 describe("Mobbin reader", () => {
+  test("keeps web URLs canonical while separating web catalog identity from iOS", async () => {
+    const webUrl = "https://mobbin.com/apps/luma-web-11111111-1111-1111-1111-111111111111/22222222-2222-2222-2222-222222222222/screens";
+    const requests: string[] = [];
+    const fetcher = async (input: string | URL | Request) => {
+      requests.push(String(input));
+      return new Response(flightHtml({
+        partialFlows: [{ id: "web-flow", name: "Onboarding", screens: [{ screenId: "web-screen", order: 1, width: 1440, height: 900 }] }],
+        appVersions: [{ id: "22222222-2222-2222-2222-222222222222", publishedAt: "2026-09-07T09:00:00Z" }],
+      }));
+    };
+    const plan = await discoverAppFlows(webUrl, "cookie", fetcher);
+    expect(plan).toMatchObject({ appSlug: "luma-web", appName: "Luma", platform: "web" });
+    expect(requests).toEqual(["https://mobbin.com/apps/luma-web-11111111-1111-1111-1111-111111111111/22222222-2222-2222-2222-222222222222/flows"]);
+    expect(plan.flows[0]?.screens[0]?.metadata).toEqual({ declaredWidth: 1440, declaredHeight: 900 });
+  });
+
   test("normalizes an app URL", () => {
     expect(parseMobbinAppUrl(url)).toEqual({
       slug: "anz-plus",

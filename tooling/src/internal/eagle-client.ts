@@ -105,9 +105,19 @@ export class EagleHttpAdapter implements EagleAdapter {
   }
 
   async removeFolders(ids: string[]): Promise<void> {
-    const encoded = JSON.stringify(ids);
-    const script = `(() => { const scope = angular.element("body").scope(); for (const id of ${encoded}) { const folder = scope.folderMappings[id]; if (!folder || folder.imageCount > 0 || folder.children.length > 0) continue; scope.removeFolder(folder, { isDeleteImages: false, ignoreRestore: true }); } scope.$evalAsync(); })()`;
-    await this.request("/api/script/inject", { method: "POST", body: { script } });
+    let pending = [...new Set(ids)];
+    const deadline = Date.now() + 30_000;
+    while (pending.length > 0) {
+      const encoded = JSON.stringify(pending);
+      const script = `(() => { const scope = angular.element("body").scope(); for (const id of ${encoded}) { const folder = scope.folderMappings[id]; if (!folder || folder.imageCount > 0 || folder.children.length > 0) continue; scope.removeFolder(folder, { isDeleteImages: false, ignoreRestore: true }); } scope.$evalAsync(); })()`;
+      await this.request("/api/script/inject", { method: "POST", body: { script } });
+      const collectIds = (folders: EagleFolder[]): string[] => folders.flatMap((folder) => [folder.id, ...collectIds(folder.children)]);
+      const remaining = new Set(collectIds(await this.listFolders()));
+      pending = pending.filter((id) => remaining.has(id));
+      if (pending.length === 0) return;
+      if (Date.now() >= deadline) throw new Error(`Eagle did not remove folders: ${pending.slice(0, 10).join(", ")}`);
+      await Bun.sleep(500);
+    }
   }
 
   private async paginate<T>(path: string, method: "GET" | "POST", body: Record<string, unknown> = {}): Promise<T[]> {

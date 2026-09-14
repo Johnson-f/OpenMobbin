@@ -226,11 +226,18 @@ export class EagleLibrary {
     await this.refresh();
     let createdFolders = 0;
     const keepLogicalKeys = new Set<string>();
+    const desiredLeafKeys = new Set(versions.flatMap((version) => version.flows.flatMap((flow) => [
+      `app-flow:${version.app.slug}:${flow.mobbinFlowId}`,
+      `group-flow:${flow.group}:${version.app.slug}:${flow.mobbinFlowId}`,
+    ])));
+    const replaceableLeafKeys = new Set(this.options.store.listManagedFolders()
+      .filter((folder) => (folder.kind === "app-flow" || folder.kind === "group-flow") && !desiredLeafKeys.has(folder.logicalKey))
+      .map((folder) => folder.logicalKey));
     const ensure = async (logicalKey: string, kind: string, name: string, parentKey: string | null, leaf: boolean): Promise<EagleFolder> => {
       keepLogicalKeys.add(logicalKey);
-      const before = this.options.store.getManagedFolder(logicalKey);
-      const folder = await this.ensureFolder(logicalKey, kind, name, parentKey, leaf);
-      if (!before) createdFolders += 1;
+      const before = this.folders.size;
+      const folder = await this.ensureFolder(logicalKey, kind, name, parentKey, leaf, replaceableLeafKeys);
+      createdFolders += this.folders.size - before;
       return folder;
     };
     const appsRoot = await ensure("root:apps", "root", "Apps", null, false);
@@ -318,7 +325,7 @@ export class EagleLibrary {
     return { createdFolders, updatedItems, trashedItems: trash.length, removedFolders: stale.length };
   }
 
-  private async ensureFolder(logicalKey: string, kind: string, name: string, parentKey: string | null, leaf: boolean): Promise<EagleFolder> {
+  private async ensureFolder(logicalKey: string, kind: string, name: string, parentKey: string | null, leaf: boolean, replaceableLeafKeys: ReadonlySet<string> = new Set()): Promise<EagleFolder> {
     const owned = this.options.store.getManagedFolder(logicalKey);
     const parentId = parentKey ? this.options.store.getManagedFolder(parentKey)?.eagleId ?? null : null;
     if (parentKey && !parentId) throw new Error(`Managed parent ${parentKey} is missing`);
@@ -332,7 +339,14 @@ export class EagleLibrary {
       return folder;
     }
     const collision = [...this.folders.values()].find((folder) => folder.parent === parentId && folder.name === name);
-    if (collision) throw new Error(`Eagle folder ${name} is unowned; migration mapping is required`);
+    if (collision) {
+      const previous = this.options.store.listManagedFolders().find((folder) => folder.eagleId === collision.id);
+      if (leaf && previous?.kind === kind && previous.parentKey === parentKey && replaceableLeafKeys.has(previous.logicalKey)) {
+        this.options.store.rekeyManagedLeaf(previous.logicalKey, logicalKey);
+        return this.ensureFolder(logicalKey, kind, name, parentKey, leaf);
+      }
+      throw new Error(`Eagle folder ${name} is unowned or still required by another flow; migration mapping is required`);
+    }
     const created = await this.options.adapter.createFolder({ name, parent: parentId, description: managedDescription, orderBy: leaf ? "NAME" : undefined });
     this.folders.set(created.id, created);
     this.options.store.upsertManagedFolder({ logicalKey, eagleId: created.id, kind, parentKey, name });

@@ -64,7 +64,7 @@ export function parseAppPageHtml(html: string, app: ParsedMobbinApp): RunPlan {
   const publishedAt = version?.publishedAt ?? version?.createdAt ?? flows[0]?.appVersionPublishedAt ?? null;
 
   return {
-    appSlug: app.slug,
+    appSlug: app.platform === "web" ? `${app.slug}-web` : app.slug,
     appName: app.name,
     mobbinAppId: app.id,
     platform: app.platform,

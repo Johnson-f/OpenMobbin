@@ -7,6 +7,25 @@ import type { RunPlan, TemporaryScreen } from "../src/mobbin";
 import { scrape, type ScrapeEagle, type ScrapeMobbin } from "../src/scrape";
 
 describe("scrape transaction", () => {
+  test("rejects a catalog name collision before changing an existing platform", async () => {
+    const root = await mkdtemp(join(tmpdir(), "mobbin-platform-collision-"));
+    const store = await CatalogStore.open({ catalogRoot: join(root, "catalog"), statePath: join(root, "state.sqlite") });
+    const events: string[] = [];
+    const mobbin = new FakeMobbin(root, events);
+    const eagle = new FakeEagle(store, events);
+    try {
+      await scrape(appUrl(), { eagle, mobbin, store });
+      const before = await store.readApp("luma");
+      mobbin.discover = async () => ({ ...plan(), platform: "web", mobbinAppId: "web-app", version: { mobbinVersionId: "web-version", publishedAt: null, metadata: {} } });
+      await expect(scrape(appUrl(), { eagle, mobbin, store })).rejects.toThrow("Catalog identity conflict");
+      expect(await store.readApp("luma")).toEqual(before);
+      expect(mobbin.fetchCalls).toBe(1);
+    } finally {
+      store.close();
+      await rm(root, { recursive: true, force: true });
+    }
+  });
+
   test("preflights before discovery and resumes a staged failure without downloading again", async () => {
     const root = await mkdtemp(join(tmpdir(), "mobbin-scrape-transaction-"));
     const store = await CatalogStore.open({ catalogRoot: join(root, "catalog"), statePath: join(root, "state.sqlite") });

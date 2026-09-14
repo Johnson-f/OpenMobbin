@@ -12,8 +12,10 @@ Visible Eagle names are:
 
 ```text
 Apps/<app>/<NNN — flow>/<NNN — hash12>
-Flows/<flow-group>/<app>/<NNN — flow>/<NNN — hash12>
+Flows/<flow-group>/<app> — <NNN — flow>/<NNN — hash12>
 ```
+
+For iOS, `<app>` is the source slug. For web, it is the source slug plus `-web`, including in `catalog/apps/<app>/`. The source Mobbin URL retains its original slug and platform. A catalog name cannot switch Mobbin app ID or platform during an update.
 
 A successful command must satisfy:
 
